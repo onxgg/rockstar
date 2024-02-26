@@ -46,10 +46,20 @@ RegisterCommand('createItems', async () => {
     {
       name: 'potatoes',
       quantity: 5,
+      meta: {
+        _hidden: 'key',
+        'Food Type': 'Vegetable',
+        _badges: ['Organic'],
+      },
     },
     {
       name: 'cabbage',
       quantity: 5,
+      meta: {
+        _hidden: 'key',
+        'Food Type': 'Vegetable',
+        _badges: ['Organic'],
+      },
     },
   ];
   const result = await global.exports['onx-inventory'].createItems(container, items);

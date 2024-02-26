@@ -8,7 +8,7 @@ Discord: https://discord.gg/JYbGq3QsSt
 
 Once you've purchased and downloaded the package, it is a ready-to-run resource within your FiveM / RedM server, the only external requirement is a MongoDB or *SQL instance. You can host this however you like, below are some examples.
 
-Note that the database adapters and schemas are left unencrypted so you can set them up however you feel, although the changes you make must still expose the required functions as exports for the inventory to work properly.
+Note that the database adapters and schemas are left unencrypted so you can set them up however you feel, although the changes you make must still expose the required functions as exports for the inventory to work properly. Of course, you can also use your current adapters by altering these functions to use an export you provide.
 
 ### *SQL
 
