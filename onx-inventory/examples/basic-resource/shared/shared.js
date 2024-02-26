@@ -1,0 +1,81 @@
+const ITEM_CONFIG = [
+  {
+    name: 'potatoes',
+    description: 'boil em, mash em, stick em in a stew',
+    label: 'Potatoes',
+    image: '/ui/static/icons/potatoes.png',
+    weight: 1,
+    limit: 100,
+    x: 1,
+    y: 1,
+    expires_minutes: 0,
+    redact: null,
+  },
+  {
+    name: 'cabbage',
+    description: 'yummy',
+    label: 'Cabbage',
+    image: '/ui/static/icons/cabbage.png',
+    weight: 1,
+    limit: 100,
+    x: 1,
+    y: 1,
+    expires_minutes: 0,
+    redact: null,
+  },
+  {
+    name: 'burger',
+    description: 'yummy',
+    label: 'Burger',
+    image: '/ui/static/icons/burger.png',
+    weight: 1,
+    limit: 1,
+    x: 1,
+    y: 1,
+    expires_minutes: 0,
+    redact: null,
+  },
+  {
+    name: '3d_printer',
+    description: 'Print stuff with this',
+    label: '3D Printer',
+    image: '/ui/static/icons/3d_printer.png',
+    weight: 100,
+    limit: 1,
+    x: 2,
+    y: 2,
+    expires_minutes: 0,
+    redact: null,
+  },
+  {
+    name: 'plastic',
+    description: 'Pretty plastic',
+    label: 'Plastic',
+    image: '/ui/static/icons/plastic.png',
+    weight: 1,
+    limit: 100,
+    x: 1,
+    y: 1,
+    expires_minutes: 0,
+    redact: null,
+  },
+  {
+    name: 'aluminum',
+    description: 'A-loo-me-num',
+    label: 'Aluminium',
+    image: '/ui/static/icons/aluminum.png',
+    weight: 1,
+    limit: 100,
+    x: 1,
+    y: 1,
+    expires_minutes: 0,
+    redact: null,
+  },
+];
+
+global.exports('shared:getItemConfig', () => ITEM_CONFIG);
+
+/*
+  use weight as an option
+*/
+global.exports('shared:getUseWeight', () => false);
