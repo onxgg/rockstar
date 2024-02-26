@@ -1,23 +1,30 @@
-# dw-inventory
+# onx-inventory
 
---
+This repository contains documentation and examples for the `onx-inventory` package, available on the store at https://community-store.onx.gg.
 
-https://github.com/dwjft/rockstar/tree/main/dw-inventory
-
---
-
-This repository contains documentation and examples for the `dw-inventory` package, available on the store at https://dw.onx.gg.
+Discord: https://discord.gg/JYbGq3QsSt
 
 ## Requirements
 
-Once you've purchased and downloaded the package, it is a ready-to-run resource within your FiveM / RedM server, the only external requirement is a MongoDB instance. You can host this however you like, we provide 2 examples of options.
+Once you've purchased and downloaded the package, it is a ready-to-run resource within your FiveM / RedM server, the only external requirement is a MongoDB or *SQL instance. You can host this however you like, below are some examples.
 
-### Docker
+Note that the database adapters and schemas are left unencrypted so you can set them up however you feel, although the changes you make must still expose the required functions as exports for the inventory to work properly.
+
+### *SQL
+
+#### Docker
+
+1. Install docker from https://www.docker.com/
+1. https://hub.docker.com/_/postgres setup your own postgres instance
+
+### MongoDB
+
+#### Docker
 
 1. Install docker from https://www.docker.com/
 1. https://www.mongodb.com/docs/manual/tutorial/install-mongodb-community-with-docker/ setup your own mongodb instance
 
-### Atlas
+#### Atlas
 
 MongoDB has its own external hosting solution you can sign up for here: https://www.mongodb.com/atlas/database
 
@@ -165,4 +172,4 @@ If you inspect the HTML via FiveM's in-built NUI tools, you can look at each ele
 
 ## Usage
 
-See [examples/basic-resource](https://github.com/dwjft/rockstar/tree/main/dw-inventory/examples/basic-resource) for a resource setup using the inventory.
+See [examples/basic-resource](https://github.com/onxgg/rockstar/tree/main/onx-inventory/examples/basic-resource) for a resource setup using the inventory.

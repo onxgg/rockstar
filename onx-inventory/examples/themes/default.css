@@ -1,0 +1,1009 @@
+/*
+  Themes are supported by prefacing the exposed classes with
+  the appropriate theme name, for example the
+  default required theme can be setup like:
+
+  .onx-i-theme-default .actionBar {}
+
+  whereas if you want to support multiple themes you
+  would set up (assume theme name is 'example') like:
+
+  .onx-i-theme-example .actionBar {}
+
+  and then use the `use-theme` event to switch between them
+*/
+
+/*
+  CSS VARIABLES (optional)
+*/
+:root {
+  --backdrop-color: rgba(27, 26, 85, 0.95);
+  --tooltip-color: #1B1A55;
+  --border-radius: 4px;
+  --pm-spacing: 0.5rem;
+  --pm-spacing-half: 0.25rem;
+  --container-slot-height: 4vw;
+  --container-slot-width: 4vw;
+  --slot-backdrop-color: rgba(255, 255, 255, 0.1);
+  --color-invalid: rgba(255, 0, 0, 0.25);
+  --color-green: rgba(0, 255, 0, 0.5);
+  --color-yellow: rgba(255, 255, 0, 0.5);
+  --color-orange: rgba(255, 102, 0, 0.5);
+  --color-red: rgba(255, 0, 0, 0.5);
+  --font-family: "Copperplate", "Roboto", Arial, Helvetica, sans-serif;
+  --font-weight: 400;
+  --font-color: white;
+  --text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+  
+  --store-container-width: 60vw;
+  --store-container-height: 50vh;
+
+  --crafting-container-width: 60vw;
+  --crafting-container-height: 50vh;
+  --crafting-progress-color: rgba(0, 200, 0, 0.5);
+}
+/*
+  END CSS VARIABLES
+*/
+/*
+  ROOT ELEMENT
+*/
+.onx-i-theme-default {
+  /* background-color: rgba(0, 0, 0, 0.25); */
+	font-family: var(--font-family);
+  font-weight: var(--font-weight);
+  color: var(--font-color);
+}
+/*
+  INPUTS
+*/
+.inputSelect {
+  max-width: 100%;
+  background-color: var(--slot-backdrop-color);
+  outline: 0;
+  border: 1px solid transparent;
+  padding: 0;
+  margin: 0;
+  color: var(--font-color);
+}
+.inputSelect:hover {
+  border: 1px solid var(--slot-backdrop-color);
+}
+.inputSelect option {
+  background-color: var(--backdrop-color);
+}
+.button {
+  width: 100%;
+  background-color: var(--slot-backdrop-color);
+  color: var(--font-color);
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: var(--border-radius);
+}
+.button:hover {
+  border: 1px solid var(--slot-backdrop-color);
+}
+.onx-i-theme-default .inputWrapper {}
+.onx-i-theme-default .inputWrapperText {}
+.onx-i-theme-default .input {}
+.onx-i-theme-default .inputText {
+  width: 100%;
+  background-color: var(--slot-backdrop-color);
+  border-radius: var(--border-radius);
+  color: var(--font-color);
+}
+.onx-i-theme-default .inventoryContainerTitleQuantityInputWrapper {
+  width: 25%;
+}
+/*
+  INVENTORY CONTAINERS
+*/
+.onx-i-theme-default .inventoryContainer {
+  background-color: var(--backdrop-color);
+  border-radius: var(--border-radius);
+}
+.onx-i-theme-default .inventoryContainerTitle {
+  background-color: var(--backdrop-color);
+  border-radius: var(--border-radius);
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  padding: var(--pm-spacing);
+}
+.onx-i-theme-default .inventoryContainerTitleLabel {
+  flex: 1;
+}
+.onx-i-theme-default .inventoryContainerTitleWeightLabel {
+  flex: 1;
+  text-align: right;
+}
+/* slots */
+.onx-i-theme-default .inventoryContainerSlotOuter {
+  height: var(--container-slot-height);
+  width: var(--container-slot-width);
+  padding: var(--pm-spacing-half);
+  border: 1px solid transparent;
+}
+.onx-i-theme-default .inventoryContainerSlotInner {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--border-radius);
+  background-color: var(--slot-backdrop-color);
+}
+.onx-i-theme-default .inventoryContainerSlotOuterDragOver {
+  border: 1px solid var(--slot-backdrop-color);
+  border-radius: var(--border-radius);
+  background-color: var(--slot-backdrop-color);
+}
+.onx-i-theme-default .inventoryContainerSlotOuterDragOverInvalid {
+  border: 1px solid var(--color-invalid);
+  border-radius: var(--border-radius);
+  background-color: var(--color-invalid);
+}
+.onx-i-theme-default .inventoryContainerSlotLabel {
+  position: absolute;
+  top: var(--pm-spacing-half);
+  right: var(--pm-spacing);
+  margin: 0;
+  padding: 0;
+  font-size: 0.8em;
+}
+
+.onx-i-theme-default .inventoryContainerItemOuter {
+  height: 100%;
+  width: 100%;
+  padding: var(--pm-spacing-half);
+}
+.onx-i-theme-default .inventoryContainerItemInner {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--border-radius);
+  background-color: var(--slot-backdrop-color);
+}
+
+/* positioning */
+.onx-i-theme-default .inventoryContainerPrimaryCenter {
+  position: fixed;
+  left: 50%;
+  top: calc(100vh - 24vw - 18px);
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  transform: translateX(-50%);
+}
+.onx-i-theme-default .inventoryContainerCenterLeft {
+  position: fixed;
+  right: calc(50% + 16px);
+  top: calc(100vh - 24vw - 18px);
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.onx-i-theme-default .inventoryContainerCenterRight {
+  position: fixed;
+  left: calc(50% + 16px);
+  top: calc(100vh - 24vw - 18px);
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.onx-i-theme-default .inventoryContainerPositionLeft {
+  position: fixed;
+  left: calc(17.5%);
+  top: calc(100vh - 24vw - 18px);
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.onx-i-theme-default .inventoryContainerPositionRight {
+  position: fixed;
+  right: calc(17.5%);
+  top: calc(100vh - 24vw - 18px);
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+  
+}
+/* items */
+.onx-i-theme-default .inventoryContainerItemImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  height: 100%;
+  width: 100%;
+}
+.onx-i-theme-default .inventoryContainerItemQuantity {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  z-index: 20;
+  text-shadow: var(--text-shadow);
+}
+.onx-i-theme-default .inventoryContainerItemRedacted {
+  filter: blur(20px);
+}
+
+.onx-i-theme-default .inventoryContainerItemQuality {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 20;
+  width: 1vh;
+  height: 1vh;
+  border-radius: 50%;
+}
+.onx-i-theme-default .inventoryContainerItemQualityGreen {
+  background-color: var(--color-green);
+}
+.onx-i-theme-default .inventoryContainerItemQualityYellow {
+  background-color: var(--color-yellow);
+}
+.onx-i-theme-default .inventoryContainerItemQualityOrange {
+  background-color: var(--color-orange);
+}
+.onx-i-theme-default .inventoryContainerItemQualityRed {
+  background-color: var(--color-red);
+}
+.onx-i-theme-default .inventoryContainerItemWeight {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  z-index: 20;
+}
+/*
+  END INVENTORY CONTAINERS
+*/
+
+/*
+  TOOLTIP
+*/
+.onx-i-theme-default .inventoryTooltipContainer {
+  border: 1px solid black;
+  padding: var(--pm-spacing);
+  background-color: var(--tooltip-color);
+  border-radius: var(--border-radius);
+}
+.onx-i-theme-default .inventoryTooltipLabel {
+  margin: 0;
+  margin-right: 5vw;
+  padding: 0;
+  font-size: 1.5em;
+}
+.onx-i-theme-default .inventoryTooltipDescription {
+  margin: 0;
+  padding: 0;
+  margin-right: 4vw;
+  margin-top: 0.5rem;
+}
+.onx-i-theme-default .inventoryTooltipImage {
+  position: absolute;
+  top: -2.5vw;
+  right: 0;
+  z-index: 10;
+  height: 5vw;
+  width: 5vw;
+}
+.onx-i-theme-default .inventoryTooltipBadgesContainer {
+  margin: 0;
+  display: flex;
+}
+.onx-i-theme-default .inventoryTooltipBadge {
+  padding: var(--pm-spacing-half, --pm-spacing);
+  border-radius: var(--border-radius);
+  background-color: var(--slot-backdrop-color);
+  margin: 0;
+  margin-right: var(--pm-spacing);
+  margin-top: var(--pm-spacing);
+}
+.onx-i-theme-default .inventoryTooltipQuality {
+  position: absolute;
+  top: calc(50%);
+  right: 0;
+  z-index: 10;
+  width: 3vw;
+  margin: 0;
+  padding: 0;
+  padding-bottom: var(--pm-spacing-half);
+  padding-right: var(--pm-spacing-half);
+  text-align: right;
+}
+.onx-i-theme-default .inventoryTooltipQualityGreen {
+  border-bottom: 2px solid var(--color-green);
+}
+.onx-i-theme-default .inventoryTooltipQualityYellow {
+  border-bottom: 2px solid var(--color-yellow);
+}
+.onx-i-theme-default .inventoryTooltipQualityOrange {
+  border-bottom: 2px solid var(--color-orange);
+}
+.onx-i-theme-default .inventoryTooltipQualityRed {
+  border-bottom: 2px solid var(--color-red);
+}
+/*
+  END TOOLTIP
+*/
+
+/*
+  ITEM MENU
+*/
+.onx-i-theme-default .inventoryItemMenuContainer {
+  background-color: var(--tooltip-color);
+  display: flex;
+  flex-direction: column;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+.onx-i-theme-default .inventoryItemMenuOption {
+  padding: var(--pm-spacing);
+  cursor: pointer;
+  display: flex;
+  padding-right: 2rem;
+}
+.onx-i-theme-default .inventoryItemMenuOptionHover {
+  background-color: var(--slot-backdrop-color);
+}
+.onx-i-theme-default .inventoryItemMenuIconWrapper {
+  display: flex;
+  align-items: center;
+  margin-right: var(--pm-spacing);
+}
+.onx-i-theme-default .inventoryItemMenuIcon {
+  color: var(--font-color);
+}
+.onx-i-theme-default .inventoryItemMenuLabelWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.onx-i-theme-default .inventoryItemMenuLabel {
+  color: var(--font-color);
+  padding: 0;
+  margin: 0;
+}
+/*
+  END ITEM MENU
+*/
+
+/*
+  ACTION BAR
+*/
+.onx-i-theme-default .actionBar {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 6px;
+  background-color: var(--backdrop-color);
+  border-radius: 8px;
+  display: flex;
+}
+
+.onx-i-theme-default .actionBarSlotsOuter {
+  height: var(--container-slot-height);
+  width: var(--container-slot-width);
+  padding: var(--pm-spacing-half);
+}
+
+.onx-i-theme-default .actionBarSlotsOuterDragOver {
+  border: 1px solid var(--slot-backdrop-color);
+  border-radius: var(--border-radius);
+  background-color: var(--slot-backdrop-color);
+}
+
+.onx-i-theme-default .actionBarSlotsOuterDragOverInvalid {
+  border: 1px solid var(--color-invalid);
+  border-radius: var(--border-radius);
+  background-color: var(--color-invalid);
+}
+
+.onx-i-theme-default .actionBarSlotsInner {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--border-radius);
+  background-color: var(--slot-backdrop-color);
+}
+
+.onx-i-theme-default .actionBarSlotsItemOuter {
+  height: 100%;
+  width: 100%;
+  border-radius: var(--border-radius);
+  background-color: var(--slot-backdrop-color);
+}
+
+.onx-i-theme-default .actionBarSlotsItemInner {
+  height: 100%;
+  width: 100%;
+  pointer-events: auto;
+}
+
+.onx-i-theme-default .actionBarIconWrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none;
+}
+
+.onx-i-theme-default .actionBarIcon {
+  font-size: 2em;
+  color: rgba(255, 255, 255, 0.1);
+}
+/*
+  END ACTION BAR
+*/
+
+/*
+  NOTIFICATIONS
+*/
+.onx-i-theme-default .inventoryNotificationsContainer {
+  position: fixed;
+  left: 0;
+  bottom: 6vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  pointer-events: none;
+}
+.onx-i-theme-default .inventoryNotificationsNotification {
+  height: calc(var(--container-slot-height) * 1.5);
+  width: calc(var(--container-slot-width) * 1.5);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  position: relative;
+  border-bottom-left-radius: var(--border-radius);
+  border-bottom-right-radius: var(--border-radius);
+  margin: 0 var(--pm-spacing-half);
+  background-color: var(--backdrop-color);
+}
+.onx-i-theme-default .inventoryNotificationsLabel {
+  position: absolute;
+  top: -16px;
+  left: -1px;
+  margin: 0;
+  padding: var(--pm-spacing-half) var(--pm-spacing);
+  font-size: 0.85em;
+  width: calc(var(--container-slot-width) * 1.5);
+  background-color: var(--backdrop-color);
+  border-top-right-radius: var(--border-radius);
+  border-top-left-radius: var(--border-radius);
+}
+/*
+  END NOTIFICATIONS
+*/
+
+/*
+  STORE
+*/
+.onx-i-theme-default .inventoryStoreContainer {
+  position: fixed;
+  top: 1vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: var(--store-container-width);
+  height: var(--store-container-height);
+  background-color: var(--backdrop-color);
+  pointer-events: auto;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+
+.onx-i-theme-default .inventoryStoreItemsContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(var(--store-container-width) * 0.66);
+  height: var(--store-container-height);
+}
+
+.onx-i-theme-default .inventoryStoreItemsTitleBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--pm-spacing);
+  height: calc(var(--store-container-height) * 0.075);
+  width: 100%;
+}
+
+.onx-i-theme-default .inventoryStoreItemsTitleBarLabel {
+  margin: 0;
+  padding: 0;
+  font-size: 1.1em;
+}
+
+.onx-i-theme-default .inventoryStoreItemsTitleBarInputs {
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.onx-i-theme-default .inventoryStoreItemsListWrapper {
+  display: flex;
+  flex-direction: column;
+  max-height: calc(var(--store-container-height * 0.925));
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.onx-i-theme-default .inventoryStoreItemsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.onx-i-theme-default .inventoryStoreItemsCategoryWrapper {
+  padding: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryStoreItemsCategory {
+  margin: 0;
+  padding: 0;
+  font-size: 1.05em;
+}
+
+.onx-i-theme-default .inventoryStoreItemWrapper {
+  width: 49%;
+  margin-top: var(--pm-spacing);
+  height: 5vh;
+  background-color: var(--slot-backdrop-color);
+  border-radius: var(--border-radius);
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.onx-i-theme-default .inventoryStoreItemAddToCartWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 100;
+  background-color: rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.onx-i-theme-default .inventoryStoreItemAddToCartIcon {
+  color: white;
+}
+
+.onx-i-theme-default .inventoryStoreItemImage {
+  height: 100%;
+  aspect-ratio: 1;
+}
+
+.onx-i-theme-default .inventoryStoreItemInfoWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: var(--pm-spacing-half);
+}
+
+.onx-i-theme-default .inventoryStoreItemInfoLine {
+  padding: 0 var(--pm-spacing-half);
+  display: flex;
+  justify-content: space-between;
+}
+
+.onx-i-theme-default .inventoryStoreItemInfoLineSpacer {
+  flex: 1;
+}
+
+.onx-i-theme-default .inventoryStoreItemInfoLineText {
+  margin: 0;
+  padding: 0;
+}
+
+.onx-i-theme-default .inventoryStoreItemInfoLineTextLeft {
+  margin: 0;
+  padding: 0;
+  flex: 1;
+}
+
+.onx-i-theme-default .inventoryStoreItemInfoLineDescription {
+  font-size: 0.8em;
+}
+.onx-i-theme-default .inventoryStoreItemInfoLineStock {
+  font-size: 0.8em;
+}
+
+.onx-i-theme-default .inventoryStoreCartContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: calc(var(--store-container-width) * 0.33);
+  height: var(--store-container-height);
+}
+
+.onx-i-theme-default .inventoryStoreCartTitleBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--pm-spacing);
+  height: calc(var(--store-container-height) * 0.075);
+}
+
+.onx-i-theme-default .inventoryStoreCartTitleBarLabel {
+  margin: 0;
+  padding: 0;
+  font-size: 1.1em;
+}
+
+.onx-i-theme-default .inventoryStoreCartContent {
+  height: calc(var(--store-container-height) * 0.85);
+  max-height: calc(var(--store-container-height) * 0.85);
+  overflow: hidden;
+  overflow-y: scroll;
+  display: flex;
+  padding: 0 var(--pm-spacing);
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.onx-i-theme-default .inventoryStoreCartContentEmpty {
+  justify-content: center;
+}
+
+.onx-i-theme-default .inventoryStoreCartContentEmptyLabel {
+
+}
+
+.onx-i-theme-default .inventoryStoreCartItem {
+  width: 100%;
+  margin-top: var(--pm-spacing);
+  height: 5vh;
+  background-color: var(--slot-backdrop-color);
+  border-radius: var(--border-radius);
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.onx-i-theme-default .inventoryStoreCartItemImage {
+  height: 100%;
+  aspect-ratio: 1;
+}
+
+.onx-i-theme-default .inventoryStoreCartItemInfoWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: var(--pm-spacing-half);
+}
+
+.onx-i-theme-default .inventoryStoreCartItemInfoLine {
+  padding: 0 var(--pm-spacing-half);
+  display: flex;
+  justify-content: space-between;
+}
+
+.onx-i-theme-default .inventoryStoreCartItemInfoLineSpacer {
+  flex: 1;
+}
+
+.onx-i-theme-default .inventoryStoreCartItemInfoLineText {
+  margin: 0;
+  padding: 0;
+}
+
+.onx-i-theme-default .inventoryStoreCartItemInfoLineTextLeft {
+  margin: 0;
+  padding: 0;
+  flex: 1;
+}
+
+.onx-i-theme-default .inventoryStoreCartItemRemove {
+  display: flex;
+}
+
+.onx-i-theme-default .inventoryStoreCartItemRemoveIcon {
+  margin-left: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryStoreCartCurrencies {
+  margin: 0 var(--pm-spacing-half);
+  padding: var(--pm-spacing-half) 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  height: calc(var(--store-container-height) * 0.075);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.onx-i-theme-default .inventoryStoreCartSelect {
+  max-width: 50%;
+}
+.onx-i-theme-default .inventoryStoreCartCurrenciesPurchaseButtonWrapper {
+  margin-right: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryStoreItemsTitleBarInputQuantityInputWrapper {
+  width: 25%;
+  margin-right: var(--pm-spacing);
+}
+
+/*
+  CRAFTING
+*/
+.onx-i-theme-default .inventoryCraftingContainer {
+  position: fixed;
+  top: 1vh;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(var(--crafting-container-width));
+  height: calc(var(--crafting-container-height));
+  background-color: var(--backdrop-color);
+  pointer-events: auto;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+
+.onx-i-theme-default .inventoryCraftingItemsContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(var(--crafting-container-width) * 0.66);
+  height: var(--crafting-container-height);
+}
+
+.onx-i-theme-default .inventoryCraftingItemsTitleBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--pm-spacing);
+  height: calc(var(--crafting-container-height) * 0.075);
+  width: 100%;
+}
+
+.onx-i-theme-default .inventoryCraftingItemsTitleBarLabel {
+  margin: 0;
+  padding: 0;
+  font-size: 1.1em;
+}
+
+.onx-i-theme-default .inventoryCraftingItemsTitleBarInputs {
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.onx-i-theme-default .inventoryCraftingItemsListWrapper {
+  display: flex;
+  flex-direction: column;
+  max-height: calc(var(--crafting-container-height) * 0.925);
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.onx-i-theme-default .inventoryCraftingItemsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.onx-i-theme-default .inventoryCraftingItemsCategoryWrapper {
+  padding: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryCraftingItemsCategory {
+  margin: 0;
+  padding: 0;
+  font-size: 1.05em;
+}
+
+.onx-i-theme-default .inventoryCraftingItemWrapper {
+  width: calc(var(--crafting-container-width) * 0.315);
+  margin-top: var(--pm-spacing);
+  height: 5vh;
+  background-color: var(--slot-backdrop-color);
+  border-radius: var(--border-radius);
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.onx-i-theme-default .inventoryCraftingItemImage {
+  height: 100%;
+  aspect-ratio: 1;
+}
+
+.onx-i-theme-default .inventoryCraftingItemInfoWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryCraftingItemInfoLine {
+  padding: 0 var(--pm-spacing-half);
+  display: flex;
+  justify-content: space-between;
+}
+.onx-i-theme-default .inventoryCraftingItemInfoLineDescription {
+  font-size: 0.8em;
+}
+
+.onx-i-theme-default .inventoryCraftingItemInfoLineSpacer {
+  flex: 1;
+}
+
+.onx-i-theme-default .inventoryCraftingItemInfoLineText {
+  margin: 0;
+  padding: 0;
+}
+
+.onx-i-theme-default .inventoryCraftingItemInfoLineTextLeft {
+  margin: 0;
+  padding: 0;
+  flex: 1;
+}
+
+.onx-i-theme-default .inventoryCraftingItemWrapperHoverContainer {
+  background-color: var(--tooltip-color);
+  border-radius: var(--border-radius);
+  border: 1px solid black;
+  width: calc(var(--crafting-container-width) * 0.315);
+}
+
+.onx-i-theme-default .inventoryCraftingItemWrapperHover {
+  background-color: var(--backdrop-color);
+  margin-top: 0;
+  width: 100%;
+}
+
+.onx-i-theme-default .inventoryCraftingRequirementsWrapper {
+  margin: 0 var(--pm-spacing);
+  border-top: 1px solid black;
+  padding-top: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryCraftingRequirement {
+  height: 4vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.onx-i-theme-default .inventoryCraftingRequirementImage {
+  height: 100%;
+  aspect-ratio: 1;
+}
+
+.onx-i-theme-default .inventoryCraftingRequirementLabel {
+  margin: 0;
+  padding: 0;
+  margin-left: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryCraftingRequirementsQuantityWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryCraftingRequirementsQuantityInputWrapper {
+  width: 50%;
+}
+
+.onx-i-theme-default .inventoryCraftingQueueContainer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: calc(var(--crafting-container-width) * 0.33);
+  height: var(--crafting-container-height);
+}
+
+.onx-i-theme-default .inventoryCraftingQueueTitleBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--pm-spacing);
+  height: calc(var(--crafting-container-height) * 0.075);
+}
+
+.onx-i-theme-default .inventoryCraftingQueueTitleBarLabel {
+  margin: 0;
+  padding: 0;
+  font-size: 1.1em;
+}
+
+.onx-i-theme-default .inventoryCraftingQueueContent {
+  height: calc(var(--crafting-container-height) * 0.925);
+  max-height: calc(var(--crafting-container-height) * 0.925);
+  overflow: hidden;
+  overflow-y: scroll;
+  display: flex;
+  padding: 0 var(--pm-spacing);
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.onx-i-theme-default .inventoryCraftingQueueCancelMessage {
+  padding: 0;
+  margin: var(--pm-spacing-half);
+  text-align: center;
+}
+
+.onx-i-theme-default .inventoryCraftingQueueContentEmpty {
+  justify-content: center;
+}
+
+.onx-i-theme-default .inventoryCraftingQueueContentEmptyLabel {
+
+}
+
+.onx-i-theme-default .inventoryCraftingQueueItemContainer {
+  border-radius: var(--border-radius);
+  width: 100%;
+  background-color: var(--slot-backdrop-color);
+  position: relative;
+  min-height: 5vh;
+  overflow: hidden;
+  margin-bottom: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryCraftingQueueItemDurationIndicator {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 50;
+  height: 100%;
+  background-color: var(--crafting-progress-color);
+}
+
+.onx-i-theme-default .inventoryCraftingQueueItemDurationIndicatorMounted {
+  
+}
+
+.onx-i-theme-default .inventoryCraftingQueueItemHalted {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 50;
+  height: 100%;
+  background-color: var(--color-invalid);
+}
+
+.onx-i-theme-default .inventoryCraftingQueueItemInfoContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  padding: var(--pm-spacing);
+  height: 100%;
+  width: 100%;
+}
+
+.onx-i-theme-default .inventoryCraftingQueueItemInfoImage {
+  height: 100%;
+  aspect-ratio: 1;
+}
+
+.onx-i-theme-default .inventoryCraftingQueueItemInfoLabel {
+  padding: 0;
+  margin: 0;
+  margin-left: var(--pm-spacing);
+}
+
+.onx-i-theme-default .inventoryCraftingQueueItemInfoCountdown {
+  flex: 1;
+  text-align: right;
+}
+.onx-i-theme-default .inventoryCraftingQueueItemInfoCountdownHover {
+  padding-right: 2vw;
+}
+
+.onx-i-theme-default .inventoryCraftingQueueCancelIcon {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+  z-index: 1000;
+}
+
+.onx-i-theme-default .inventoryCraftingRequirementsMessage {
+  padding: 0;
+  margin: var(--pm-spacing);
+}

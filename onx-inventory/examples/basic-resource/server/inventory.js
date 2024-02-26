@@ -1,13 +1,30 @@
 const MONGO_URL = GetConvar('sv_onx_inventory_mongo_url', 'mongodb://api:password@localhost:27017/onx-inventory?authSource=admin&authMechanism=DEFAULT');
 
+const SQL_OPTIONS = {
+  host     : 'localhost',
+  port     : 3306,
+  user     : 'api',
+  password : 'password',
+  database : 'my_db',
+}
+
 /*
   init onx-inventory
   - send mongoose options, which can be a string or object
   - send item config, server required
 */
-RegisterCommand('init', () => {
+RegisterCommand('init-mongo', () => {
   emit('onx-inventory:init', {
+    db: 'mongo',
     mongooseOptions: MONGO_URL,
+    items: global.exports['basic-resource']['shared:getItemConfig'](),
+    useWeight: global.exports['basic-resource']['shared:getUseWeight'](),
+  });
+}, false);
+RegisterCommand('init-sql', () => {
+  emit('onx-inventory:init', {
+    db: 'sql',
+    sqlOptions: SQL_OPTIONS,
     items: global.exports['basic-resource']['shared:getItemConfig'](),
     useWeight: global.exports['basic-resource']['shared:getUseWeight'](),
   });

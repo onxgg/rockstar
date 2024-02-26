@@ -1,9 +1,7 @@
-# dwjft/rockstar
+# onx/rockstar
 
-Repository for packages made by Dw for use on rockstar projects.
+Repository for packages made by ONX for use on rockstar projects.
 
 Anyone is welcome to open issues for bugs, create pull requests with examples, etc.
 
-For support join our [discord](https://discord.gg/JYbGq3QsSt)
-
-For the store visit https://dw.onx.gg
+For the store visit https://community-store.onx.gg
