@@ -39,6 +39,8 @@ RegisterCommand('store:open', async () => {
           name: 'cabbage',
         },
         stock: 10,
+        // use the price references for each currency
+        // see below, currencies have a "ref" attribute, this price will be displayed / used for calculations when selected
         price: {
           usd: 1000,
           gbp: 500,
@@ -62,8 +64,13 @@ RegisterCommand('store:open', async () => {
     currencies: [
       {
         id: '1',
+        // how much available currency they have
+        // for this particular config
         amount: 10000,
         label: 'Cash',
+        // string that evaluate to javascript
+        // accepts "amount" as a variable
+        // returns the format for the amount
         format: `(function usd() {
           return new Intl.NumberFormat('en-US', {
             currency: 'USD',
@@ -71,6 +78,7 @@ RegisterCommand('store:open', async () => {
             style: 'currency',
           }).format(amount);
         })()`,
+        // ref field for item prices in that currency
         ref: 'usd',
       },
       {

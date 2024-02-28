@@ -17,7 +17,7 @@ This also allows you to write exports / queries to interact with the data howeve
 #### Docker
 
 1. Install docker from https://www.docker.com/
-1. https://hub.docker.com/_/postgres setup your own postgres instance
+1. https://hub.docker.com/_/mysql setup your own mysql instance
 
 ### MongoDB
 
@@ -162,15 +162,53 @@ For items:
 | Field | Usage |
 | ------ | ----- |
 | redact | a javascript condition that accepts item and container as arguments, returning true will hide the item |
-| reveal | a javascript condition that accepts item and container as arguments, returning true will allow users to show the item |
+| reveal | a javascript condition that accepts item and container as arguments, returning true will allow users to reveal / view the item |
 | className | css styles applied via class |
 | style | css styles applied via js |
+
+#### Item Renders
+
+When a custom render config for an item is provided, you can change how its rendered / displayed completely.
+
+You can also pass through a "condition" string that evaluates to javascript that will only show that element if the string evaluates to true.
+
+Text:
+```javascript
+{
+  condition: 'item.quantity > 1',
+  label: 'x${item.quantity}',
+  type: 'text',
+  className: 'inventoryContainerItemQuantity',
+  style: {},
+}
+```
+
+Image:
+```javascript
+{
+  src: '${item.image}',
+  type: 'image',
+  className: 'inventoryContainerItemImage',
+  style: {},
+}
+```
+
+Badges: (tooltip only)
+```javascript
+{
+  type: 'badges',
+  className: 'inventoryTooltipBadgesContainer',
+  style: {},
+},
+```
 
 ### Themes
 
 For layout and look-and-feel you can pass thru style objects or css names directly to components or the main theme object.
 
 If you inspect the HTML via FiveM's in-built NUI tools, you can look at each element to see what can be customized about it, using the `data-themeable` key for reference.
+
+By default, Font Awesome icons are included and can be referenced / customized in the config.
 
 ## Usage
 

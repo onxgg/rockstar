@@ -5,6 +5,7 @@ RegisterCommand('init', () => {
   emit('onx-inventory:init', {
     config: {
       actionBar: {
+        // display icon in each slot, index referenced by slot number
         icons: [
           'fa-solid fa-1',
           'fa-solid fa-2',
@@ -12,9 +13,13 @@ RegisterCommand('init', () => {
           'fa-solid fa-4',
           'fa-solid fa-5',
         ],
+        // enable/disable the action bar
         enabled: true,
+        // how many slots does the action bar have?
         slots: 5,
-        // itemsCondition: `item.name === 'gun'`,
+        // conditional js for which items can be dropped in to the bar
+        itemsCondition: `item.inventory === 'character-1'`,
+        // item render, see README
         render: [
           {
             src: '${item.image}',
@@ -24,13 +29,21 @@ RegisterCommand('init', () => {
           },
         ],
       },
+      /*
+        available options are CTRL, ALT, SHIFT
+      */
       binds: {
+        // combine 2 items together while dragging one item over another
         combine: 'CTRL',
+        // fast move the items to the next inventory
         moveToTarget: 'CTRL',
+        // if qty is set and the item has more of the qty, it will split off the qty amount in to a separate stack
         fastSplit: 'CTRL',
       },
       items: {
+        // base item config
         config: global.exports['basic-resource']['shared:getItemConfig'](),
+        // item render, see README
         render: [
           {
             src: '${item.image}',
@@ -82,6 +95,10 @@ RegisterCommand('init', () => {
           // },
         ],
       },
+      /*
+        menu options for items (upon right click)
+        - use the condition config to enable/disable that menu option
+      */
       menuOptions: [
         {
           condition: 'item.name === "3d_printer"',
@@ -95,8 +112,8 @@ RegisterCommand('init', () => {
         },
       ],
       notifications: {
-        renderItem: [
-          // expiry dot
+        // render item, see README
+        render: [
           {
             src: '${item.image}',
             type: 'image',
@@ -111,9 +128,11 @@ RegisterCommand('init', () => {
             style: {},
           },
         ],
+        // how long until the notif fades out
         timeout: 5000,
       },
       tooltip: {
+        // render tooltip, see README
         render: [
           {
             condition: 'item.quantity === 1',
@@ -175,6 +194,21 @@ RegisterCommand('init', () => {
             style: {},
           },
         ],
+        /*
+          badges for the tooltip
+            use a string that evaluates to javascript and returns an array of strings
+            to display on the tooltip itself
+          in this example, if the item looks like:
+          {
+            ...,
+            meta: {
+              _hidden: '1',
+              display: '2',
+              _badges: ['X', 'Y', 'Z'],
+            }
+          }
+          then the following badges will be displayed: `display: 2`, `X`, `Y`, `Z`
+        */
         badges: `(function badges() {
           var badges = [];
           for (var key of Object.keys(item.meta)) {
@@ -184,6 +218,7 @@ RegisterCommand('init', () => {
           return badges.concat(item.meta._badges || []);
         })()`,
       },
+      // use item weights to balance inventory?
       useWeight: global.exports['basic-resource']['shared:getUseWeight'](),
     },
     themes: [
