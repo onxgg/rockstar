@@ -10,8 +10,6 @@ const SQL_OPTIONS = {
 
 /*
   init onx-inventory
-  - send mongoose options, which can be a string or object
-  - send item config, server required
 */
 RegisterCommand('init-mongo', () => {
   emit('onx-inventory:init', {
@@ -32,8 +30,6 @@ RegisterCommand('init-sql', () => {
 
 /*
   createItems
-  - container: the config for the inventory container
-  - items: item config
 */
 RegisterCommand('createItems', async () => {
   const container = {
@@ -62,23 +58,10 @@ RegisterCommand('createItems', async () => {
       },
     },
   ];
-  const result = await global.exports['onx-inventory'].createItems(container, items);
-  console.log({ result })
-}, false);
-RegisterCommand('createItems2', async () => {
-  const container = {
-    name: 'character-1',
-    slotsX: 5,
-    slotsY: 8,
-    weight: 1,
-  };
-  const items = [
-    {
-      name: '3d_printer',
-      quantity: 1,
-    },
-  ];
   const result = await global.exports['onx-inventory'].createItems(container, items, {
+    // source data is passed thru as meta data to the items event
+    // you may reference this yourself but its optional
+    // onx-inventory created events will include this data when pertinent
     source: {
       some: 'data',
     },
@@ -88,10 +71,21 @@ RegisterCommand('createItems2', async () => {
 
 /*
   updateItems
-  - query: the query and updates to perform
 */
 RegisterCommand('updateItems', async () => {
-  const q = [];
+  const q = [
+    {
+      source: {
+        inventory: 'character-1',
+        slot: 0,
+      },
+      target: {
+        inventory: 'character-1',
+        slot: 1,
+      },
+      quantity: 1,
+    },
+  ];
   const result = await global.exports['onx-inventory'].updateItems(q, {
     ignoreQuantityCheck: false,
     source: {
@@ -103,7 +97,6 @@ RegisterCommand('updateItems', async () => {
 
 /*
   deleteItems
-  - query: the query and deletes to perform
 */
 RegisterCommand('deleteItems', async () => {
   const q = [
