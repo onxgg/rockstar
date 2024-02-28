@@ -78,7 +78,11 @@ RegisterCommand('createItems2', async () => {
       quantity: 1,
     },
   ];
-  const result = await global.exports['onx-inventory'].createItems(container, items);
+  const result = await global.exports['onx-inventory'].createItems(container, items, {
+    source: {
+      some: 'data',
+    },
+  });
   console.log({ result })
 }, false);
 
@@ -88,7 +92,12 @@ RegisterCommand('createItems2', async () => {
 */
 RegisterCommand('updateItems', async () => {
   const q = [];
-  const result = await global.exports['onx-inventory'].updateItems(q);
+  const result = await global.exports['onx-inventory'].updateItems(q, {
+    ignoreQuantityCheck: false,
+    source: {
+      some: 'data',
+    },
+  });
   console.log({ result });
 }, false);
 
@@ -106,6 +115,12 @@ RegisterCommand('deleteItems', async () => {
       quantity: 1,
     },
   ];
-  const result = await global.exports['onx-inventory'].deleteItems(q);
+  const result = await global.exports['onx-inventory'].deleteItems(q, {
+    ignoreQuantityCheck: false,
+    includeExpired: false,
+    source: {
+      some: 'data',
+    },
+  });
   console.log({ result });
 }, false);

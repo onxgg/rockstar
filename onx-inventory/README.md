@@ -10,6 +10,8 @@ Once you've purchased and downloaded the package, it is a ready-to-run resource 
 
 Note that the database adapters and schemas are left unencrypted so you can set them up however you feel, although the changes you make must still expose the required functions as exports for the inventory to work properly. Of course, you can also use your current adapters by altering these functions to use an export you provide.
 
+This also allows you to write exports / queries to interact with the data however you like.
+
 ### *SQL
 
 #### Docker
