@@ -41,3 +41,39 @@ if v.type == "face2" then
     maxModelValues[k].texture = 15
 end
 ```
+
+### illenium-appearance
+
+In `game/customization.lua`,
+
+```lua
+shapeFirst = {
+    min = 0,
+    max = 45
+},
+shapeSecond = {
+    min = 0,
+    max = 45
+},
+shapeThird = {
+    min = 0,
+    max = 45
+},
+```
+
+becomes
+
+```lua
+shapeFirst = {
+    min = 0,
+    max = 45 + 46
+},
+shapeSecond = {
+    min = 0,
+    max = 45 + 46
+},
+shapeThird = {
+    min = 0,
+    max = 45 + 46
+},
+```
