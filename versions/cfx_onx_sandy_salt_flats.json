@@ -1,0 +1,4 @@
+{
+  "version": "1.06",
+  "notes": "Fixing issue with onx_tent_circ not being a spawnable prop."
+}
