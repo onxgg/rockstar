@@ -1,4 +1,4 @@
 {
-  "version": "1.1",
-  "notes": "Collision file fixes"
+  "version": "1.11",
+  "notes": "Cleaned up possible interior clipping with base game objects"
 }
