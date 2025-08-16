@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
-  "notes": "Potential fix script collisions regarding keybinds"
+  "version": "1.0.2",
+  "notes": "Exposed the request ownership function & Potential fix script collisions regarding keybinds"
 }
