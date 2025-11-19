@@ -23,12 +23,13 @@ Check [config.lua](config.lua) for configuration options.
 
 These are required to get a character's ID and name.
 
+To use ESX, uncomment `'@es_extended/imports.lua'` in `shared_scripts` from `fxmanifest.lua`. The minimum supported version of ESX is 1.13.3 (for SSN support).
+
 ### Inventory scripts
 
 `onx-mdw` has integrations with the following inventory scripts:
 - QBCore
 - ESX
-- Quasar Inventory
 - OX Inventory
 
 You can also write your own integrations for any unsupported or custom frameworks.
@@ -49,6 +50,20 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 ```
 
 The inventory item name can be changed in the configuration file. If you want to use different methods of accessing the MDW you can implement them yourself in [client.lua](client/client.lua).
+
+### Prison scripts
+
+`onx-mdw` has integrations with the following prison scripts:
+- Rcore Prison
+- Dynyx Prison
+
+Enable these in the config to allow jailing directly from the MDW. The form options displayed depend on which script you use.
+
+To add support for a custom prison script, enable one of these options in the config and modify `Jail` in [client.lua](client/client.lua).
+
+![Rcore Prison](https://static.onx.gg/docs/mdw/jail-rcore.png)
+
+![Dynyx Prison](https://static.onx.gg/docs/mdw/jail-dynyx.png)
 
 ### Permissions
 
