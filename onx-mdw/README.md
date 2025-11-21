@@ -23,7 +23,7 @@ Check [config.lua](config.lua) for configuration options.
 
 These are required to get a character's ID and name.
 
-To use ESX, uncomment `'@es_extended/imports.lua'` in `shared_scripts` from `fxmanifest.lua`. The minimum supported version of ESX is 1.13.3 (for SSN support).
+To use ESX, uncomment `'@es_extended/imports.lua',` in `shared_scripts` from `fxmanifest.lua`. The minimum supported version of ESX is 1.13.3 (for SSN support).
 
 ### Inventory scripts
 
@@ -64,6 +64,17 @@ To add support for a custom prison script, enable one of these options in the co
 ![Rcore Prison](https://static.onx.gg/docs/mdw/jail-rcore.png)
 
 ![Dynyx Prison](https://static.onx.gg/docs/mdw/jail-dynyx.png)
+
+### Evidence scripts
+
+`onx-mdw` has integrations with the following evidence scripts:
+- Snipe Evidence
+
+Enable it in the config, then you can attach crime scenes as evidence and view the contents.
+
+![Select Crime Scene](https://static.onx.gg/docs/mdw/snipe-evidence-select.png)
+
+![View Evidence](https://static.onx.gg/docs/mdw/snipe-evidence-view.png)
 
 ### Permissions
 
