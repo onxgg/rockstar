@@ -19,6 +19,7 @@ Check [config.lua](config.lua) for configuration options.
 
 `onx-mdw` has integrations with the following frameworks:
 - QBCore
+- Qbox
 - ESX
 
 These are required to get a character's ID and name.
@@ -36,7 +37,7 @@ You can also write your own integrations for any unsupported or custom framework
 
 By default the MDW is accessible to anyone with an MDW inventory item. They can 'use' the item or set up a keybind.
 
-Provided are example configurations for an MDW inventory item. It is up to you to add this item to your server and provide a way for players to acquire it.
+Provided are example configurations for an MDW inventory item. It is up to you to add this item to your server and provide a way for players to acquire it. You can use [mdw.png](https://static.onx.gg/docs/mdw/mdw.png) as an icon.
 
 QBCore:
 ```lua
@@ -76,6 +77,26 @@ Enable it in the config, then you can attach crime scenes as evidence and view t
 
 ![View Evidence](https://static.onx.gg/docs/mdw/snipe-evidence-view.png)
 
+### Housing
+
+`onx-mdw` has integrations with the following scripts:
+
+- `qb-houses`
+- `qbx_properties`
+- `nolag-properties`
+
+Please suggest additional integrations in our discord.
+
+### Target
+
+Opening the MDW on target can be useful for public access to the MDW. This can be achieved using the `onx-mdw:open` client event. There are examples for how to use this with `qb-target` and `ox_target` in `client/integrations/target.lua`.
+
+### Radar
+
+`onx-mdw` has an integration with `wk_wars2x`. This will automatically run plates and alert if the registered owner has a warrant.
+
+We recommend setting `CONFIG.use_sonorancad` to `true` in the `wk_wars2x` config.
+
 ### Permissions
 
 Most permissions can be managed within the MDW. For initial setup and for server owner configuration at least one player should be given god-mode access. By default this is handled through ace permissions - add the following line to your server.cfg.
@@ -105,7 +126,7 @@ To access Admin Configuration within the MDW, open the hamburger menu and select
 
 ![admin settings](https://static.onx.gg/docs/mdw/admin.png)
 
-There are options for enabling the job and license features in the MDW. These are currently no options to integrate these with frameworks so they are disabled by default.
+There is an option for enabling the job feature in the MDW. These is currently no option to integrate this with frameworks so it is disabled by default.
 
 ![admin settings](https://static.onx.gg/docs/mdw/admin_basic.png)
 
@@ -211,3 +232,18 @@ Troubleshooting: if a user does not receive a notification, check they allow dir
 For users to receive direct messages or have their role synced they need to connect their discord account to their character. They can do this by clicking 'Connect Discord' in the menu.
 
 ![connect discord](https://static.onx.gg/docs/mdw/discord_user.png)
+
+## Developers
+
+⚠️ These are advanced options and should only be attempted by users with development knowledge.
+
+### Custom Profile Data
+
+Custom data can be added to character profiles by making changes in [server/server.lua](server/server.lua).
+
+Add an object to the `customItems` array with the following properties:
+- `label` - label of the data
+- `permission` - optional. Which permission is required to view this data. Add a custom permission to `Config.ExtraPermissions` in [config.lua](config.lua).
+- `items` - an array of the results for this character. Can be empty. Each item in the array should have a `label` property.
+
+Vehicles and properties are implemented this way, you can use them as examples.

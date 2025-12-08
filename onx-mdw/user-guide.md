@@ -11,7 +11,6 @@ This guide is for users of the ONX MDW. The server owner guide can be found [her
 - [Tags](#tags)
 - [Charges](#charges)
 - [Documents](#documents)
-- [Licenses](#licenses)
 - [Configuration](#configuration)
 - [Applications](#applications)
 - [Roles](#roles)
@@ -153,7 +152,6 @@ To add a charge, click a heading and select 'Show Charges'. This will display al
 - Name
 - Description
 - Fine
-- Points and Points for License - if licenses are enabled in the Admin MDW Settings, you can set how many points the suspect will receive on their license if charged
 - Time
 - Parole - you can manually set how much parole a charge gives and this will override the default set by the charge category parole multiplier
 - Category
@@ -171,14 +169,6 @@ The documents manager allows you to create, delete, edit and reorder document ca
 You can edit document categories to set the name, icon and if the category is public (viewable by everyone).
 
 ![edit document category](https://static.onx.gg/docs/mdw/documents_edit_category.png)
-
-## Licenses
-
-Access to the Licenses Manager requires the 'Licenses - Manage' permission. Licenses must be enabled in the Admin MDW Settings.
-
-Licenses can be created, edited and deleted. The license code, name and expiry of each license can be set.
-
-![licenses manager](https://static.onx.gg/docs/mdw/licenses_manager.png)
 
 ## Configuration
 
@@ -245,6 +235,14 @@ Once an application has been submitted it can be viewed and notes can be added. 
 ## Roles
 
 The Roles Manager is a very important page that manages permissions across the entire MDW.
+
+Some permissions explained -
+- 'Documents - Manage' - gives access to the documents manager, allowing them to create or delete document categories
+- 'Docket - Set Status' - should be given to judges. Allows them to update the status of docket cases (scheduling, scheduled, dismissed, etc)
+- 'Profiles - Gov - Certs - Edit' - allows giving and removing certs to players
+- 'Profiles - Priors - Process Expungement' - should be given to judges. Allows criminal records to be expunged, hiding them on profiles (except for people with the 'Profiles - Priors - Expunged Charges - View' permission)
+- 'Applications - Manage All' - allows the user to manage all applications, even if not given specific permission. Also required to delete applications
+- 'Tags - Manage' - gives access to the tags manager, allowing the creation of deletion of tags that users with the 'Profiles - Tags - Edit' can give to other users
 
 ![roles manager](https://static.onx.gg/docs/mdw/roles_manage.png)
 
