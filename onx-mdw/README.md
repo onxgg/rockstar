@@ -84,6 +84,7 @@ Enable it in the config, then you can attach crime scenes as evidence and view t
 - `qb-houses`
 - `qbx_properties`
 - `nolag-properties`
+- `bcs_housing`
 
 Please suggest additional integrations in our discord.
 
