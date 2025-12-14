@@ -50,6 +50,14 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('onx_mdw', 'MDW', 2);
 ```
 
+OX Inventory 
+```
+      ["onx_mdw"] = {
+        label = "MDW",
+        weight = 1,
+      },
+```
+
 The inventory item name can be changed in the configuration file. If you want to use different methods of accessing the MDW you can implement them yourself in [client.lua](client/client.lua).
 
 ### Prison scripts
