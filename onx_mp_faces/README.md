@@ -6,7 +6,7 @@ This repository contains documentation and examples for the `onx_mp_faces` packa
 
 Once you've purchased and downloaded the package, it is a ready-to-run resource within your FiveM server.
 
-To support the additional 46 faces, your clothing script will need to be modified to increase the maximum value the shape ID can take. This should be an easy change.
+To support the additional 52 faces, your clothing script will need to be modified to increase the maximum value the shape ID can take. This should be an easy change.
 
 Feel free to create a pull request to create additional examples, or [join our discord](https://onx.gg/discord) for support doing this.
 
@@ -32,12 +32,12 @@ becomes
 
 ```lua
 if v.type == "face" then
-    maxModelValues[k].item = 45 + 46
+    maxModelValues[k].item = 45 + 52
     maxModelValues[k].texture = 15
 end
 
 if v.type == "face2" then
-    maxModelValues[k].item = 45 + 46
+    maxModelValues[k].item = 45 + 52
     maxModelValues[k].texture = 15
 end
 ```
@@ -66,14 +66,14 @@ becomes
 ```lua
 shapeFirst = {
     min = 0,
-    max = 45 + 46
+    max = 45 + 52
 },
 shapeSecond = {
     min = 0,
-    max = 45 + 46
+    max = 45 + 52
 },
 shapeThird = {
     min = 0,
-    max = 45 + 46
+    max = 45 + 52
 },
 ```
