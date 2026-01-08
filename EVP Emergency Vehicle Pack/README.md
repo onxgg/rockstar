@@ -31,6 +31,11 @@ Our assets have been tested on game build 3095 or higher. Use our resources on l
 - Tulip M-100 (1978-1983) `onx_poltulip`
 - Vigero ZX (2016-2025) `onx_polvigero`
 
+## Invetero
+- Coquette D9 (2015-2019) `onx_polcoq`
+- Coquette D10 (2020-2025) `onx_polcoq2`
+- Coquette D5 (2004-2013) `onx_polcoq3`
+
 ## Vapid
 - Aleutian (2024-2025) `onx_polaleu`
 - Caracara Raid (2017-2020) `onx_polcara`
@@ -43,6 +48,12 @@ Our assets have been tested on game build 3095 or higher. Use our resources on l
 - Scout (2024-2025) `onx_polscout`
 - Scout Classic (1991-1994) `onx_polscout2`
 - Tavros (2013-2016) `onx_poltavros`
+- Sandking D155 (2011-2016) `onx_polsandk`
+- Sandking D155 SWB (2011-2016) `onx_polsandk2`
+- Sandking D155 XL (2011-2016) `onx_polsandk3`
+- Sandking D155 Compensator (2011-2016) `onx_polsandk4`
+- Sandking D155 SWB Compensator (2011-2016) `onx_polsandk5`
+- Sandking D155 XL Compensator (2011-2016) `onx_polsandk6`
 
 ## Bravado
 - Bison 25XD (2022-2025) `onx_polbison4`
@@ -61,6 +72,8 @@ Our assets have been tested on game build 3095 or higher. Use our resources on l
 
 ## Buckingham
 - Conada (2022-2025) `onx_polcon`
+- Maverick (2007-2013) `onx_polmav`
+- Maverick Tactical (2007-2013) `onx_polmav2`
 
 ## Übermacht
 - Kandra (2020-2025) `onx_polkandra`
