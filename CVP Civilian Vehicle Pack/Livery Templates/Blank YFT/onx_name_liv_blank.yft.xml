@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Fragment>
+  <Name>pack:/onx_name_liv_blank</Name>
+  <BoundingSphereCenter x="0.00805665" y="0.021216098" z="-3.1e-05" />
+  <BoundingSphereRadius value="0.07103314" />
+  <UnknownB0 value="0" />
+  <UnknownB8 value="0" />
+  <UnknownBC value="0" />
+  <UnknownC0 value="65280" />
+  <UnknownC4 value="1" />
+  <UnknownCC value="0" />
+  <GravityFactor value="1" />
+  <BuoyancyFactor value="1" />
+  <Drawable>
+    <Name>skel</Name>
+    <BoundingSphereCenter x="0.00805665" y="0.021216098" z="-3.1e-05" />
+    <BoundingSphereRadius value="0.07103314" />
+    <BoundingBoxMin x="-0.0473633" y="-0.0232174" z="-3.1e-05" />
+    <BoundingBoxMax x="0.0634766" y="0.0656496" z="-3.1e-05" />
+    <LodDistHigh value="9998" />
+    <LodDistMed value="9998" />
+    <LodDistLow value="9998" />
+    <LodDistVlow value="9998" />
+    <FlagsHigh value="1" />
+    <FlagsMed value="1" />
+    <FlagsLow value="0" />
+    <FlagsVlow value="0" />
+    <ShaderGroup>
+      <TextureDictionary>
+        <Item>
+          <Name>blank</Name>
+          <Unk32 value="0" />
+          <Usage>UNKNOWN</Usage>
+          <ExtraFlags value="0" />
+          <Width value="4" />
+          <Height value="4" />
+          <MipLevels value="0" />
+          <Format>D3DFMT_DXT1</Format>
+          <FileName>blank.dds</FileName>
+        </Item>
+      </TextureDictionary>
+      <Shaders>
+        <Item>
+          <Name>vehicle_paint4</Name>
+          <FileName>vehicle_paint4.sps</FileName>
+          <RenderBucket value="0" />
+          <Parameters>
+            <Item name="DiffuseSampler" type="Texture">
+              <Name>vehicle_generic_smallspecmap</Name>
+            </Item>
+            <Item name="DamageSampler" type="Texture">
+              <Name>None</Name>
+            </Item>
+            <Item name="DiffuseSampler2" type="Texture">
+              <Name>blank</Name>
+            </Item>
+            <Item name="DirtSampler" type="Texture">
+              <Name>vehicle_genericmud_car</Name>
+            </Item>
+            <Item name="SpecSampler" type="Texture">
+              <Name>vehicle_generic_smallspecmap</Name>
+            </Item>
+            <Item name="envEffTexTileUV" type="Vector" x="8.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="envEffScale" type="Vector" x="1.0" y="0.0010000000474974513" z="0.0" w="0.0" />
+            <Item name="envEffThickness" type="Vector" x="25.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="diffuse2SpecMod" type="Vector" x="0.800000011920929" y="0.0" z="0.0" w="0.0" />
+            <Item name="reflectivePower" type="Vector" x="0.44999998807907104" y="0.0" z="0.0" w="0.0" />
+            <Item name="specular2Color_DirLerp" type="Vector" x="0.0" y="0.5" z="0.0" w="0.0" />
+            <Item name="specular2ColorIntensity" type="Vector" x="1.7000000476837158" y="0.0" z="0.0" w="0.0" />
+            <Item name="specular2Factor" type="Vector" x="40.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="specTexTileUV" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="specMapIntMask" type="Vector" x="1.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="specularIntensityMult" type="Vector" x="0.14509804546833038" y="0.0" z="0.0" w="0.0" />
+            <Item name="specularFalloffMult" type="Vector" x="180.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="specularFresnel" type="Vector" x="0.9700000286102295" y="0.0" z="0.0" w="0.0" />
+            <Item name="dirtColor" type="Vector" x="0.23137199878692627" y="0.22352899610996246" z="0.20392100512981415" w="0.0" />
+            <Item name="dirtLevelMod" type="Vector" x="1.0" y="1.0" z="1.0" w="1.0" />
+            <Item name="matDiffuseColor2" type="Vector" x="1.0" y="1.0" z="1.0" w="0.0" />
+            <Item name="matDiffuseColor" type="Vector" x="2.0" y="1.0" z="1.0" w="0.0" />
+            <Item name="DiffuseTexTileUV" type="Vector" x="8.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="DamageTextureOffset" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="DamageMultiplier" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="BoundRadius" type="Vector" x="0.0" y="0.0" z="0.0" w="0.0" />
+            <Item name="DamagedWheelOffsets" type="Array">
+              <Value x="0.0" y="0.0" z="0.0" w="0.0" />
+              <Value x="0.0" y="0.0" z="0.0" w="0.0" />
+            </Item>
+          </Parameters>
+        </Item>
+      </Shaders>
+    </ShaderGroup>
+    <Skeleton>
+      <Unknown1C value="16777216" />
+      <Unknown50 value="239958909" />
+      <Unknown54 value="1483433655" />
+      <Unknown58 value="1578145239" />
+      <Bones>
+        <Item>
+          <Name>onx_livery_ng</Name>
+          <Tag value="0" />
+          <Index value="0" />
+          <ParentIndex value="-1" />
+          <SiblingIndex value="-1" />
+          <Flags>RotX, RotY, RotZ, TransX, TransY, TransZ</Flags>
+          <Translation x="0.0" y="0.0" z="0.0" />
+          <Rotation x="0.0" y="0.0" z="0.0" w="1.0" />
+          <Scale x="1.0" y="1.0" z="1.0" />
+          <TransformUnk x="0.0" y="4.0" z="-3.0" w="0.0" />
+        </Item>
+      </Bones>
+    </Skeleton>
+    <Joints />
+    <DrawableModelsHigh>
+      <Item>
+        <RenderMask value="255" />
+        <Flags value="1" />
+        <HasSkin value="1" />
+        <BoneIndex value="0" />
+        <Unknown1 value="1" />
+        <Geometries>
+          <Item>
+            <ShaderIndex value="0" />
+            <BoundingBoxMin x="-0.0473633" y="-0.0232174" z="-3.1e-05" />
+            <BoundingBoxMax x="0.0634766" y="0.0656496" z="-3.1e-05" />
+            <BoneIDs>0</BoneIDs>
+            <VertexBuffer>
+              <Flags value="0" />
+              <Layout type="GTAV1">
+                <Position />
+                <BlendWeights />
+                <BlendIndices />
+                <Normal />
+                <Colour0 />
+                <TexCoord0 />
+                <TexCoord1 />
+              </Layout>
+              <Data>
+                0.0634766 -0.0232174 -0.0000310   0 0 255 0   0 0 0 0   0.0000000 0.0000000 1.0000000   255 255 99 253   0.9126282 0.2542725   0.6241455 0.4179077
+                0.0629883 0.0656496 -0.0000310   0 0 255 0   0 0 0 0   0.0000000 0.0000000 1.0000000   255 255 99 253   0.9906616 0.2542877   0.6726990 0.4179077
+                -0.0473633 0.0656496 -0.0000310   0 0 255 0   0 0 0 0   0.0000000 0.0000000 1.0000000   255 255 99 253   0.9906616 0.2796326   0.6726990 0.4337921
+                -0.0473633 -0.0232174 -0.0000310   0 0 255 0   0 0 0 0   0.0000000 0.0000000 0.9999999   255 255 99 253   0.9126129 0.2796173   0.6241455 0.4337921
+              </Data>
+            </VertexBuffer>
+            <IndexBuffer>
+              <Data>
+                0 1 2 2 3 0
+              </Data>
+            </IndexBuffer>
+          </Item>
+        </Geometries>
+      </Item>
+    </DrawableModelsHigh>
+    <DrawableModelsMedium>
+      <Item>
+        <RenderMask value="255" />
+        <Flags value="1" />
+        <HasSkin value="1" />
+        <BoneIndex value="0" />
+        <Unknown1 value="1" />
+        <Geometries>
+          <Item>
+            <ShaderIndex value="0" />
+            <BoundingBoxMin x="-0.0473633" y="-0.0232174" z="-3.1e-05" />
+            <BoundingBoxMax x="0.0634766" y="0.0656496" z="-3.1e-05" />
+            <BoneIDs>0</BoneIDs>
+            <VertexBuffer>
+              <Flags value="0" />
+              <Layout type="GTAV1">
+                <Position />
+                <BlendWeights />
+                <BlendIndices />
+                <Normal />
+                <Colour0 />
+                <TexCoord0 />
+                <TexCoord1 />
+              </Layout>
+              <Data>
+                0.0634766 -0.0232174 -0.0000310   0 0 255 0   0 0 0 0   0.0000000 0.0000000 1.0000000   255 255 99 253   0.9126282 0.2542725   0.6241455 0.4179077
+                0.0629883 0.0656496 -0.0000310   0 0 255 0   0 0 0 0   0.0000000 0.0000000 1.0000000   255 255 99 253   0.9906616 0.2542877   0.6726990 0.4179077
+                -0.0473633 0.0656496 -0.0000310   0 0 255 0   0 0 0 0   0.0000000 0.0000000 1.0000000   255 255 99 253   0.9906616 0.2796326   0.6726990 0.4337921
+                -0.0473633 -0.0232174 -0.0000310   0 0 255 0   0 0 0 0   0.0000000 0.0000000 0.9999999   255 255 99 253   0.9126129 0.2796173   0.6241455 0.4337921
+              </Data>
+            </VertexBuffer>
+            <IndexBuffer>
+              <Data>
+                0 1 2 2 3 0
+              </Data>
+            </IndexBuffer>
+          </Item>
+        </Geometries>
+      </Item>
+    </DrawableModelsMedium>
+  </Drawable>
+  <BoneTransforms unk="1">
+    <Item>
+      1.0 0.0 0.0 0.0
+      0.0 1.0 0.0 0.0
+      0.0 0.0 1.0 0.0
+    </Item>
+  </BoneTransforms>
+</Fragment>

@@ -1,28 +1,5 @@
 # Civilian Vehicles
 
-## YEAR MAKE MODEL
-
-### File Sizes
-
-onx\_NAME\_hi.yft: 3.2MB
-onx\_NAME.yft: 2.8MB
-onx\_NAME.ytd: 1.4MB
-0 yft mod parts: < 0.5MB
-
-### Model Polycount
-
-L0: 127,398
-L1: 45,596
-L2: 22,256
-L3: 9,905
-L4: 830
-
-### Textures:
-
-ytd Resolution: Max 1024x1024
-ytd Texture count: 7
-yft Resolution for embedded liveries: Max 2048x2048
-
 ## 2006-2017 Cheval Ambassador
 
 ### File Sizes
