@@ -1,6 +1,6 @@
 # ONX WISEGUY EMERGENCY VEHICLES PACK (2025)
 
-These resource included blank livery model.yft files for easy creation of custom liveries for the ONX Emergency Vehicles & Developer Details for easy referance to pack resource optimization.
+These resource include blank livery model.yft files for easy creation of custom liveries for the ONX Emergency Vehicles & Developer Details for easy reference to pack resource optimization.
 
 ## COMPATABILITY
 
