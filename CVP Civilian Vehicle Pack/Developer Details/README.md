@@ -872,7 +872,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 11
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2019-2024 Bravado Bison 55XD Box Truck
+## 2019-2024 Bravado Bison 55XD Boxtruck
 
 ### File Sizes
 
@@ -895,7 +895,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 29
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2024 Vapid Sandstorm D205 Box Truck
+## 2018-2024 Vapid Sandstorm D205 Boxtruck
 
 ### File Sizes
 

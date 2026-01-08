@@ -72,15 +72,15 @@ set sv_enforceGameBuild 3095
 
 1. To run our resources efficiently create the following resource folders:
 
-   * `\[onx_vehicles]`
+   * `[onx_vehicles]`
 
 2. Add these lines to your `server.cfg` or `resources.cfg`:
 
 ```cfg
-ensure \[onx_vehicles]
+ensure [onx_vehicles]
 ```
 
-3. Install any of the following downloaded resources into `\[onx_vehicles]`:
+3. Install any of the following downloaded resources into `[onx_vehicles]`:
 
 ```
 onx-evp-a-lightbars
@@ -89,12 +89,12 @@ onx-evp-b-livery-mods
 onx-evp-b-wheels
 ```
 
-4. Install any of the following downloaded resources into `\[onx_vehicles]`:
+4. Install any of the following downloaded resources into `[onx_vehicles]`:
 
 ```
-onx-evp-c-pack-vehicles
+onx-evp-c-pack
     OR
-onx-evp-c-NAME
+onx-evp-d-NAME
 ```
 
 5. `NAME` refers to the unique name of any standalone vehicle resource.
@@ -123,7 +123,7 @@ Recommended load order guidance:
 
 These are not the same:
 
-* Resource name: what you `ensure` in `server.cfg` (example: `onx-evp-c-pack-vehicles` or `onx-evp-c-NAME`)
+* Resource name: what you `ensure` in `server.cfg` (example: `onx-evp-c-pack` or `onx-evp-d-NAME`)
 * Spawn code / model name: what you spawn in-game (example: `onx_polgrang`)
 
 ---
@@ -264,7 +264,7 @@ https://github.com/onxgg/rockstar/tree/main/EVP%20Emergency%20Vehicle%20Pack/Dev
 
 * Confirm the server is running the resource on the same Cfx.re account that owns the entitlement.
 * If subscription-based, confirm the subscription is active.
-* Confirm you installed the Tebex-delivered resources into `\[onx_vehicles]` and that they are being ensured.
+* Confirm you installed the Tebex-delivered resources into `[onx_vehicles]` and that they are being ensured.
 
 ### Vehicles not spawning / spawning as defaults / no lightbars
 
@@ -281,7 +281,7 @@ When requesting support, include:
 
 * Enforced game build
 * Your ensured EVP resources list (copy the relevant `ensure` lines)
-* Whether you installed `onx-evp-c-pack-vehicles` or standalone `onx-evp-c-NAME`
+* Whether you installed `onx-evp-c-pack` or standalone `onx-evp-d-NAME`
 
 ---
 
