@@ -99,7 +99,7 @@ onx-cvp-d-NAME
 Recommended load order guidance:
 
 * Keep all `onx-cvp-a-\*` resources above `onx-cvp-b-\*`, and `onx-cvp-b-\*` above `onx-cvp-c-\*`.
-* Ensure any custom livery resources start after the EVP resources they depend on.
+* Ensure any custom livery resources start after the CVP resources they depend on.
 
 ---
 
@@ -107,7 +107,7 @@ Recommended load order guidance:
 
 * `Developer Details`
 
-  * Holds optimization and asset details for each vehicle in the EVP Pack.
+  * Holds optimization and asset details for each vehicle in the CVP Pack.
 
 * `Livery Templates`
 
@@ -259,11 +259,11 @@ https://github.com/onxgg/rockstar/tree/main/CVP%20Civilian%20Vehicle%20Pack/Deve
 When requesting support, include:
 
 * Enforced game build
-* Your ensured EVP resources list (copy the relevant `ensure` lines)
+* Your ensured CVP resources list (copy the relevant `ensure` lines)
 * Whether you installed `onx-cvp-c-pack` or standalone `onx-cvp-d-NAME`
 
 ---
 
 ## License / redistribution
 
-Do not redistribute, re-upload, or resell ONX EVP assets. Usage is governed by your Tebex purchase terms and Cfx.re entitlement licensing.
+Do not redistribute, re-upload, or resell ONX CVP assets. Usage is governed by your Tebex purchase terms and Cfx.re entitlement licensing.
