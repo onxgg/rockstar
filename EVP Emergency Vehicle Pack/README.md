@@ -1,4 +1,4 @@
-# ONX WiseGuy Emergency Vehicles Pack (EVP) - Documentation (2025)
+# ONX WiseGuy Emergency Vehicles Pack (EVP) - Documentation (2026)
 
 These resources include blank livery `model.yft` files for easy creation of custom liveries for the ONX Emergency Vehicles, plus Developer Details for easy reference to pack resource optimization.
 
@@ -63,7 +63,7 @@ Note: This repository is documentation-focused. Your runnable assets are deliver
 Recommended `server.cfg`:
 
 ```cfg
-set sv\_enforceGameBuild 3095
+set sv_enforceGameBuild 3095
 ```
 
 ---
@@ -72,15 +72,15 @@ set sv\_enforceGameBuild 3095
 
 1. To run our resources efficiently create the following resource folders:
 
-   * `\[onx\_vehicles]`
+   * `\[onx_vehicles]`
 
 2. Add these lines to your `server.cfg` or `resources.cfg`:
 
 ```cfg
-ensure \[onx\_vehicles]
+ensure \[onx_vehicles]
 ```
 
-3. Install any of the following downloaded resources into `\[onx\_vehicles]`:
+3. Install any of the following downloaded resources into `\[onx_vehicles]`:
 
 ```
 onx-evp-a-lightbars
@@ -89,7 +89,7 @@ onx-evp-b-livery-mods
 onx-evp-b-wheels
 ```
 
-4. Install any of the following downloaded resources into `\[onx\_vehicles]`:
+4. Install any of the following downloaded resources into `\[onx_vehicles]`:
 
 ```
 onx-evp-c-pack-vehicles
@@ -124,7 +124,7 @@ Recommended load order guidance:
 These are not the same:
 
 * Resource name: what you `ensure` in `server.cfg` (example: `onx-evp-c-pack-vehicles` or `onx-evp-c-NAME`)
-* Spawn code / model name: what you spawn in-game (example: `onx\_polgrang`)
+* Spawn code / model name: what you spawn in-game (example: `onx_polgrang`)
 
 ---
 
@@ -145,88 +145,88 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 
 ### Declasse
 
-* Alamo 2700LX (2022-2025) `onx\_polalamo`
-* Granger 3600LX (2015-2020) `onx\_polgrang`
-* Granger 3700LX (2022-2025) `onx\_polgrang2`
-* Merit (1991-1996) `onx\_polmerit`
-* Merit PPV (2006-2017) `onx\_polmerit2`
-* Merit Classic (1977-1985) `onx\_polmerit3`
-* Tulip M-100 (1978-1983) `onx\_poltulip`
-* Vigero ZX (2016-2025) `onx\_polvigero`
+* Alamo 2700LX (2022-2025) `onx_polalamo`
+* Granger 3600LX (2015-2020) `onx_polgrang`
+* Granger 3700LX (2022-2025) `onx_polgrang2`
+* Merit (1991-1996) `onx_polmerit`
+* Merit PPV (2006-2017) `onx_polmerit2`
+* Merit Classic (1977-1985) `onx_polmerit3`
+* Tulip M-100 (1978-1983) `onx_poltulip`
+* Vigero ZX (2016-2025) `onx_polvigero`
 
 ### Invetero
 
-* Coquette D9 (2015-2019) `onx\_polcoq`
-* Coquette D10 (2020-2025) `onx\_polcoq2`
-* Coquette D5 (2004-2013) `onx\_polcoq3`
+* Coquette D9 (2015-2019) `onx_polcoq`
+* Coquette D10 (2020-2025) `onx_polcoq2`
+* Coquette D5 (2004-2013) `onx_polcoq3`
 
 ### Vapid
 
-* Aleutian (2024-2025) `onx\_polaleu`
-* Caracara Raid (2017-2020) `onx\_polcara`
-* Dominator GT (2018-2023) `onx\_poldom`
-* Monarch (1998-2011) `onx\_polmonar`
-* Sandstorm D205 (2022-2025) `onx\_polsand`
-* Sandstorm D205 SWB (2022-2025) `onx\_polsandsc`
-* Sandstorm D205 XL (2022-2025) `onx\_polsandxl`
-* Sandstorm D205 Hellenbach (2022-2025) `onx\_polsandh`
-* Scout (2024-2025) `onx\_polscout`
-* Scout Classic (1991-1994) `onx\_polscout2`
-* Tavros (2013-2016) `onx\_poltavros`
-* Sandking D155 (2011-2016) `onx\_polsandk`
-* Sandking D155 SWB (2011-2016) `onx\_polsandk2`
-* Sandking D155 XL (2011-2016) `onx\_polsandk3`
-* Sandking D155 Compensator (2011-2016) `onx\_polsandk4`
-* Sandking D155 SWB Compensator (2011-2016) `onx\_polsandk5`
-* Sandking D155 XL Compensator (2011-2016) `onx\_polsandk6`
+* Aleutian (2024-2025) `onx_polaleu`
+* Caracara Raid (2017-2020) `onx_polcara`
+* Dominator GT (2018-2023) `onx_poldom`
+* Monarch (1998-2011) `onx_polmonar`
+* Sandstorm D205 (2022-2025) `onx_polsand`
+* Sandstorm D205 SWB (2022-2025) `onx_polsandsc`
+* Sandstorm D205 XL (2022-2025) `onx_polsandxl`
+* Sandstorm D205 Hellenbach (2022-2025) `onx_polsandh`
+* Scout (2024-2025) `onx_polscout`
+* Scout Classic (1991-1994) `onx_polscout2`
+* Tavros (2013-2016) `onx_poltavros`
+* Sandking D155 (2011-2016) `onx_polsandk`
+* Sandking D155 SWB (2011-2016) `onx_polsandk2`
+* Sandking D155 XL (2011-2016) `onx_polsandk3`
+* Sandking D155 Compensator (2011-2016) `onx_polsandk4`
+* Sandking D155 SWB Compensator (2011-2016) `onx_polsandk5`
+* Sandking D155 XL Compensator (2011-2016) `onx_polsandk6`
 
 ### Bravado
 
-* Bison 25XD (2022-2025) `onx\_polbison4`
-* Bison 35XD (2022-2025) `onx\_polbison3`
-* Bison 45XD (2022-2025) `onx\_polbison2`
-* Bison 45XD Sasquatch (2022-2025) `onx\_polbison3`
-* Buffalo A/C (2015-2023) `onx\_polbuff`
-* Buffalo Hellfire (2015-2023) `onx\_polbuffhf`
-* Dorado (1998-2003) `onx\_poldorado2`
-* Dorado AC (2011-2023) `onx\_poldorado`
-* Gauntlet Hellfire (2021-2025) `onx\_polgaunt`
+* Bison 25XD (2022-2025) `onx_polbison4`
+* Bison 35XD (2022-2025) `onx_polbison3`
+* Bison 45XD (2022-2025) `onx_polbison2`
+* Bison 45XD Sasquatch (2022-2025) `onx_polbison3`
+* Buffalo A/C (2015-2023) `onx_polbuff`
+* Buffalo Hellfire (2015-2023) `onx_polbuffhf`
+* Dorado (1998-2003) `onx_poldorado2`
+* Dorado AC (2011-2023) `onx_poldorado`
+* Gauntlet Hellfire (2021-2025) `onx_polgaunt`
 
 ### Albany
 
-* Cavalcade XL (2021-2025) `onx\_polcava`
-* Presidente VSTR (2016-2020) `onx\_polvstr`
+* Cavalcade XL (2021-2025) `onx_polcava`
+* Presidente VSTR (2016-2020) `onx_polvstr`
 
 ### Buckingham
 
-* Conada (2022-2025) `onx\_polcon`
-* Maverick (2007-2013) `onx\_polmav`
-* Maverick Tactical (2007-2013) `onx\_polmav2`
+* Conada (2022-2025) `onx_polcon`
+* Maverick (2007-2013) `onx_polmav`
+* Maverick Tactical (2007-2013) `onx_polmav2`
 
 ### Ubermacht
 
-* Kandra (2020-2025) `onx\_polkandra`
+* Kandra (2020-2025) `onx_polkandra`
 
 ### Canis
 
-* Invictus (2022-2025) `onx\_polinvict`
-* Invictus Overland (2022-2025) `onx\_polinvict2`
-* Seminole Frontier (1984-1996) `onx\_polsem`
-* Terminus (2022-2025) `onx\_polterm`
-* Terminus Overland (2022-2025) `onx\_polterm2`
+* Invictus (2022-2025) `onx_polinvict`
+* Invictus Overland (2022-2025) `onx_polinvict2`
+* Seminole Frontier (1984-1996) `onx_polsem`
+* Terminus (2022-2025) `onx_polterm`
+* Terminus Overland (2022-2025) `onx_polterm2`
 
 ### Brute
 
-* Regent (2022-2025) `onx\_polregent`
-* Regent XL (2022-2025) `onx\_polregentxl`
+* Regent (2022-2025) `onx_polregent`
+* Regent XL (2022-2025) `onx_polregentxl`
 
 ### Dundreary
 
-* Landstalker (1984-1996) `onx\_polstalk`
+* Landstalker (1984-1996) `onx_polstalk`
 
 ### Dinka
 
-* Verus (2024-2025) `onx\_polverus`
+* Verus (2024-2025) `onx_polverus`
 
 ---
 
@@ -264,13 +264,13 @@ https://github.com/onxgg/rockstar/tree/main/EVP%20Emergency%20Vehicle%20Pack/Dev
 
 * Confirm the server is running the resource on the same Cfx.re account that owns the entitlement.
 * If subscription-based, confirm the subscription is active.
-* Confirm you installed the Tebex-delivered resources into `\[onx\_vehicles]` and that they are being ensured.
+* Confirm you installed the Tebex-delivered resources into `\[onx_vehicles]` and that they are being ensured.
 
 ### Vehicles not spawning / spawning as defaults / no lightbars
 
 * Confirm you are using the correct spawn code from the list above.
-* Confirm `set sv\_enforceGameBuild 3095` is set and the server is actually running on that enforced build.
-* Our vehicles require a customization menu to apply all emergency equipment. Lightbars use new material shaders and the VMT\_LIGHTBAR mod category introduced in game build 3095
+* Confirm `set sv_enforceGameBuild 3095` is set and the server is actually running on that enforced build.
+* Our vehicles require a customization menu to apply all emergency equipment. Lightbars use new material shaders and the VMT_LIGHTBAR mod category introduced in game build 3095
 * Clear server and client caches and test again.
 
 ---
