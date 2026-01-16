@@ -1079,7 +1079,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passanger LWB
+## 2018-2026 Benefactor Jogger Passenger LWB
 
 ### File Sizes
 
@@ -1102,7 +1102,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passanger LWB Dually
+## 2018-2026 Benefactor Jogger Passenger LWB Dually
 
 ### File Sizes
 
@@ -1125,7 +1125,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passanger LWB 4x4
+## 2018-2026 Benefactor Jogger Passenger LWB 4x4
 
 ### File Sizes
 
@@ -1148,7 +1148,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passanger SWB
+## 2018-2026 Benefactor Jogger Passenger SWB
 
 ### File Sizes
 
@@ -1171,7 +1171,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passanger SWB Dually
+## 2018-2026 Benefactor Jogger Passenger SWB Dually
 
 ### File Sizes
 
@@ -1194,7 +1194,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passanger SWB 4x4
+## 2018-2026 Benefactor Jogger Passenger SWB 4x4
 
 ### File Sizes
 
