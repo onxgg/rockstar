@@ -506,6 +506,99 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 55
 yft Resolution for embedded liveries: Max 2048x2048
 
+## 2018-2026 Benefactor Jogger LWB (Emergency)
+
+### File Sizes
+
+onx\_poljog\_hi.yft: 3.4MB
+onx\_poljog.yft: 3.0MB
+onx\_poljog.ytd: 1.8MB
+vehicles\_onx\_poljog\_interior.ytd: 1.3MB
+121 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 123,992
+L1: 56,769
+L2: 24,275
+L3: 9,419
+L4: 1,760
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 54
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2018-2026 Benefactor Jogger SWB (Emergency)
+
+### File Sizes
+
+onx\_poljog2\_hi.yft: 3.3MB
+onx\_poljog2.yft: 2.9MB
+onx\_poljog2.ytd: 1.8MB
+73 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 119,611
+L1: 54,982
+L2: 23,048
+L3: 9,181
+L4: 1,746
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 48
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2018-2026 Benefactor Jogger LWB Transport (Emergency)
+
+### File Sizes
+
+onx\_poljog3\_hi.yft: 3.6MB
+onx\_poljog3.yft: 3.1MB
+onx\_poljog3.ytd: 1.8MB
+8 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 132,732
+L1: 59,927
+L2: 27,862
+L3: 9,563
+L4: 1,752
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 48
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2018-2026 Benefactor Jogger SWB Transport (Emergency)
+
+### File Sizes
+
+onx\_poljog4\_hi.yft: 3.5MB
+onx\_poljog4.yft: 3.1MB
+onx\_poljog4.ytd: 1.8MB
+6 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 127,797
+L1: 57,233
+L2: 25,700
+L3: 9,380
+L4: 1,735
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 48
+yft Resolution for embedded liveries: Max 2048x2048
+
 ## 2020-2025 Ubermacht Kandra (Emergency)
 
 ### File Sizes
