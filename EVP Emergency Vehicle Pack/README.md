@@ -31,6 +31,7 @@ Documentation folders:
   * [Brute](#brute)
   * [Dundreary](#dundreary)
   * [Dinka](#dinka)
+  * [Benefactor](#benefactor)
 
 * [Extras](#extras)
 * [Custom liveries](#custom-liveries)
@@ -227,6 +228,13 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 ### Dinka
 
 * Verus (2024-2025) `onx_polverus`
+
+### Benefactor
+
+* Benefactor Jogger LWB (2018-2026) `onx_poljog`
+* Benefactor Jogger SWB (2018-2026) `onx_poljog2`
+* Benefactor Jogger LWB Transport (2018-2026) `onx_poljog3`
+* Benefactor Jogger SWB Transport (2018-2026) `onx_poljog4`
 
 ---
 
