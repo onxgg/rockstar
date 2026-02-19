@@ -460,6 +460,52 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 41
 yft Resolution for embedded liveries: Max 2048x2048
 
+## 2000-2015 Vapid Guardian C105 (Emergency)
+
+### File Sizes
+
+onx\_polguard\_hi.yft: 4.6MB
+onx\_polguard.yft: 4.0MB
+onx\_polguard.ytd: 2.2MB
+106 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 172,644
+L1: 82,836
+L2: 38,568
+L3: 14,400
+L4: 2,430
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 59
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2000-2015 Vapid Guardian C105 SWB (Emergency)
+
+### File Sizes
+
+onx\_polguard2\_hi.yft: 3.5MB
+onx\_polguard2.yft: 2.9MB
+onx\_polguard.ytd: 2.2MB
+101 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 164,621
+L1: 79,448
+L2: 37,852
+L3: 14,890
+L4: 2,533
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 59
+yft Resolution for embedded liveries: Max 2048x20482
+
 ## 2022-2025 Canis Invictus (Emergency)
 
 ### File Sizes
