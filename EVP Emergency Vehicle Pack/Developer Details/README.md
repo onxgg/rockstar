@@ -504,7 +504,7 @@ L4: 2,533
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 59
-yft Resolution for embedded liveries: Max 2048x20482
+yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2022-2025 Canis Invictus (Emergency)
 
