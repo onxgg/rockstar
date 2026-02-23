@@ -1,5 +1,28 @@
 # Civilian Vehicles
 
+## YEAR MAKE MODEL
+
+### File Sizes
+
+onx\_NAME\_hi.yft: 3.2MB
+onx\_NAME.yft: 2.8MB
+onx\_NAME.ytd: 1.4MB
+0 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 127,398
+L1: 45,596
+L2: 22,256
+L3: 9,905
+L4: 830
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 7
+yft Resolution for embedded liveries: Max 2048x2048
+
 ## 2006-2017 Cheval Ambassador
 
 ### File Sizes
@@ -67,6 +90,52 @@ L4: 662
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 19
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2020-2025 Brute Cartrailer
+
+### File Sizes
+
+onx\_cartrail\_hi.yft: 0.4MB
+onx\_cartrail.yft: 0.5MB
+onx\_cartrail.ytd: 0.5MB
+4 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 22,675
+L1: 12,696
+L2: 6,279
+L3: 3,380
+L4: 510
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 11
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2020-2025 Brute Cartrailer XL
+
+### File Sizes
+
+onx\_cartrail2\_hi.yft: 0.5MB
+onx\_cartrail2.yft: 0.5MB
+onx\_cartrail2.ytd: 0.5MB
+7 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 25,055
+L1: 14,664
+L2: 7,303
+L3: 3,688
+L4: 530
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 11
 yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2015-2023 Bravado Buffalo Hellfire
@@ -159,6 +228,52 @@ L4: 932
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 12
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2000-2015 Vapid Guardian C105
+
+### File Sizes
+
+onx\_guardian\_hi.yft: 4.2MB
+onx\_guardian.yft: 3.7MB
+onx\_guardian.ytd: 1.3MB
+37 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 162,628
+L1: 78,048
+L2: 36,986
+L3: 14,040
+L4: 1,898
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 35
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2000-2015 Vapid Guardian C105 SWB
+
+### File Sizes
+
+onx\_guardian2\_hi.yft: 3.8MB
+onx\_guardian2.yft: 3.4MB
+onx\_guardian.ytd: 1.3MB
+9 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 148,152
+L1: 70,806
+L2: 33,942
+L3: 13,138
+L4: 1,619
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 35
 yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2019-2025 Canis Invictus
@@ -872,7 +987,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 11
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2019-2024 Bravado Bison 55XD Boxtruck
+## 2019-2024 Bravado Bison 55XD Box Truck
 
 ### File Sizes
 
@@ -895,7 +1010,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 29
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2024 Vapid Sandstorm D205 Boxtruck
+## 2018-2024 Vapid Sandstorm D205 Box Truck
 
 ### File Sizes
 
@@ -1079,7 +1194,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passenger LWB
+## 2018-2026 Benefactor Jogger Passanger LWB
 
 ### File Sizes
 
@@ -1102,7 +1217,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passenger LWB Dually
+## 2018-2026 Benefactor Jogger Passanger LWB Dually
 
 ### File Sizes
 
@@ -1125,7 +1240,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passenger LWB 4x4
+## 2018-2026 Benefactor Jogger Passanger LWB 4x4
 
 ### File Sizes
 
@@ -1148,7 +1263,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passenger SWB
+## 2018-2026 Benefactor Jogger Passanger SWB
 
 ### File Sizes
 
@@ -1171,7 +1286,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passenger SWB Dually
+## 2018-2026 Benefactor Jogger Passanger SWB Dually
 
 ### File Sizes
 
@@ -1194,7 +1309,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 28
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passenger SWB 4x4
+## 2018-2026 Benefactor Jogger Passanger SWB 4x4
 
 ### File Sizes
 
