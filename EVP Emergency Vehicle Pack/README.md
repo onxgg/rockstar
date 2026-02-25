@@ -180,6 +180,8 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 * Sandking D155 Compensator (2011-2016) `onx_polsandk4`
 * Sandking D155 SWB Compensator (2011-2016) `onx_polsandk5`
 * Sandking D155 XL Compensator (2011-2016) `onx_polsandk6`
+* Guardian C105 (2000-2015) `onx_polguard`
+* Guardian C105 SWB (2000-2015) `onx_polguard2`
 
 ### Bravado
 
