@@ -1,5 +1,175 @@
 # Emergency Vehicles
 
+## 2020-2025 Bravado Bison Ambulance Type 1
+
+### File Sizes
+
+onx\_ambbison\_hi.yft: 3.9MB
+onx\_ambbison.yft: 3.7MB
+onx\_ambbison.ytd: 1.9MB
+vehicles\_onx\_ambbison\_interior.ytd: 0.9MB
+13 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 164,627
+L1: 85,231
+L2: 36,241
+L3: 14,192
+L4: 1,714
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 57
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2018-2026 Benefactor Jogger Ambulance Type 3
+
+### File Sizes
+
+onx\_ambjog\_hi.yft: 3.5MB
+onx\_ambjog.yft: 3.3MB
+onx\_ambjog.ytd: 2.1MB
+vehicles\_onx\_ambjog\_interior.ytd: 1.3MB
+15 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 155,438
+L1: 82,799
+L2: 33,336
+L3: 13,012
+L4: 1,210
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 59
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2018-2026 Benefactor Jogger Ambulance Type 2
+
+### File Sizes
+
+onx\_ambjog2\_hi.yft: 3.9MB
+onx\_ambjog2.yft: 3.6MB
+onx\_ambjog2.ytd: 2.1MB
+vehicles\_onx\_ambjog2\_interior.ytd: 1.3MB
+69 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 151,791
+L1: 80,224
+L2: 30,050
+L3: 11,475
+L4: 1,254
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 59
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2018-2026 Benefactor Jogger Ambulance Type 2
+
+### File Sizes
+
+onx\_ambjog3\_hi.yft: 4.0MB
+onx\_ambjog3.yft: 3.7MB
+onx\_ambjog3.ytd: 2.1MB
+vehicles\_onx\_ambjog3\_interior.ytd: 1.3MB
+3 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 158,405
+L1: 81,793
+L2: 30,983
+L3: 11,861
+L4: 1,254
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 59
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2000-2015 Vapid Yankee C105 Ambulance Type 1
+
+### File Sizes
+
+onx\_ambkee\_hi.yft: 4.2MB
+onx\_ambkee.yft: 4.3MB
+onx\_ambkee.ytd: 2.2MB
+vehicles\_onx\_ambkee\_interior.ytd: 0.7MB
+8 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 176,574
+L1: 99,282
+L2: 46,320
+L3: 17,364
+L4: 1,626
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 61
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2011-2016 Vapid Sandking Ambulance Type 1
+
+### File Sizes
+
+onx\_ambking\_hi.yft: 3.8MB
+onx\_ambking.yft: 3.7MB
+onx\_ambking.ytd: 2.0MB
+vehicles\_onx\_ambking\_interior.ytd: 0.7MB
+15 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 152,939
+L1: 81,856
+L2: 38,566
+L3: 13,704
+L4: 1,584
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 57
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2020-2026 Brute EjectoLift NX
+
+### File Sizes
+
+onx\_gurney\_hi.yft: 0.6MB
+onx\_gurney.yft: 1.0MB
+onx\_gurney.ytd: 0.8MB
+va\_onx\_gurney.ycd: 0.02MB
+veh@gurney@lower@base.ycd: 0.2MB
+veh@gurney@raised@base.ycd: 0.2MB
+2 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 31,070
+L1: 23,925
+L2: 9,555
+L3: 5,738
+L4: 1,600
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 16
+yft Resolution for embedded liveries: Max 2048x2048
+
 ## 2022-2025 Declasse Alamo 2700LX (Emergency)
 
 ### File Sizes
