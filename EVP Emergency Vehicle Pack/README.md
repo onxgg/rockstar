@@ -182,6 +182,8 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 * Sandking D155 XL Compensator (2011-2016) `onx_polsandk6`
 * Guardian C105 (2000-2015) `onx_polguard`
 * Guardian C105 SWB (2000-2015) `onx_polguard2`
+* Yankee C105 Ambulance Type 1 (2000-2015) `onx_ambkee`
+* Sandking Ambulance Type 1 (2011-2016) `onx_ambking`
 
 ### Bravado
 
@@ -194,6 +196,7 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 * Dorado (1998-2003) `onx_poldorado2`
 * Dorado AC (2011-2023) `onx_poldorado`
 * Gauntlet Hellfire (2021-2025) `onx_polgaunt`
+* Bison Ambulance Type 1 (2020-2025) `onx_ambbison`
 
 ### Albany
 
@@ -222,6 +225,7 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 
 * Regent (2022-2025) `onx_polregent`
 * Regent XL (2022-2025) `onx_polregentxl`
+* EjectoLift NX (2020-2026) `onx_gurney`
 
 ### Dundreary
 
@@ -237,6 +241,9 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 * Benefactor Jogger SWB (2018-2026) `onx_poljog2`
 * Benefactor Jogger LWB Transport (2018-2026) `onx_poljog3`
 * Benefactor Jogger SWB Transport (2018-2026) `onx_poljog4`
+* Jogger Ambulance Type 3 (2018-2026) `onx_ambjog`
+* Jogger Ambulance Type 2 (2018-2026) `onx_ambjog2`
+* Jogger 4x4 Ambulance Type 2 (2018-2026) `onx_ambjog3`
 
 ---
 
