@@ -186,7 +186,7 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 ### Bravado
 
 * Bison 25XD (2022-2025) `onx_polbison4`
-* Bison 35XD (2022-2025) `onx_polbison3`
+* Bison 35XD (2022-2025) `onx_polbison`
 * Bison 45XD (2022-2025) `onx_polbison2`
 * Bison 45XD Sasquatch (2022-2025) `onx_polbison3`
 * Buffalo A/C (2015-2023) `onx_polbuff`
