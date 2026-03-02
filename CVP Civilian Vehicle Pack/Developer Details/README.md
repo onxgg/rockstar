@@ -1,28 +1,5 @@
 # Civilian Vehicles
 
-## YEAR MAKE MODEL
-
-### File Sizes
-
-onx\_NAME\_hi.yft: 3.2MB
-onx\_NAME.yft: 2.8MB
-onx\_NAME.ytd: 1.4MB
-0 yft mod parts: < 0.5MB
-
-### Model Polycount
-
-L0: 127,398
-L1: 45,596
-L2: 22,256
-L3: 9,905
-L4: 830
-
-### Textures:
-
-ytd Resolution: Max 1024x1024
-ytd Texture count: 7
-yft Resolution for embedded liveries: Max 2048x2048
-
 ## 2006-2017 Cheval Ambassador
 
 ### File Sizes
@@ -44,6 +21,29 @@ L4: 830
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 7
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2020-2025 Brute ATV Trailer
+
+### File Sizes
+
+onx\_atvtrailer\_hi.yft: 0.6MB
+onx\_atvtrailer.yft: 0.6MB
+onx\_atvtrailer.ytd: 0.6MB
+2 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 28,360
+L1: 14,004
+L2: 6,746
+L3: 3,185
+L4: 220
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 17
 yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2011-2016 Vapid Sandking D155 Boxtruck
@@ -1470,6 +1470,52 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 40
 yft Resolution for embedded liveries: Max 2048x2048
 
+## 2000-2015 Vapid Yankee C105 SWB Rollback
+
+### File Sizes
+
+onx\_towkee\_hi.yft: 3.7MB
+onx\_towkee.yft: 4.1MB
+onx\_towkee.ytd: 2.0MB
+5 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 150,709
+L1: 80,961
+L2: 40,303
+L3: 16,194
+L4: 2,368
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 51
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2000-2015 Vapid Yankee C105 Rollback
+
+### File Sizes
+
+onx\_towkee2\_hi.yft: 4.1MB
+onx\_towkee2.yft: 4.4MB
+onx\_towkee2.ytd: 2.0MB
+0 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 165,837
+L1: 88,866
+L2: 43,839
+L3: 17,240
+L4: 2,454
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 51
+yft Resolution for embedded liveries: Max 2048x2048
+
 ## 2011-2016 Vapid Sandking D155 Rollback
 
 ### File Sizes
@@ -1537,4 +1583,27 @@ L4: 341
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 10
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2006-2026 Dinka Verus Utility
+
+### File Sizes
+
+onx\_verus\_hi.yft: 2.2MB
+onx\_verus.yft: 1.4MB
+onx\_verus.ytd: 1.3MB
+3 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 98,513
+L1: 27,299
+L2: 13,951
+L3: 6,700
+L4: 846
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 54
 yft Resolution for embedded liveries: Max 2048x2048
