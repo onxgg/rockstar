@@ -276,6 +276,52 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 35
 yft Resolution for embedded liveries: Max 2048x2048
 
+## 2016-2026 Vapid Guardian C130
+
+### File Sizes
+
+onx\_guardian3\_hi.yft: 4.3MB
+onx\_guardian3.yft: 3.8MB
+onx\_guardian.ytd: 1.3MB
+20 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 164,968
+L1: 79,752
+L2: 38,210
+L3: 14,448
+L4: 2,246
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 35
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2016-2026 Vapid Guardian C130 SWB
+
+### File Sizes
+
+onx\_guardian4\_hi.yft: 3.9MB
+onx\_guardian4.yft: 3.5MB
+onx\_guardian.ytd: 1.3MB
+0 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 150,492
+L1: 72,510
+L2: 35,166
+L3: 13,546
+L4: 1,825
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 35
+yft Resolution for embedded liveries: Max 2048x2048
+
 ## 2019-2025 Canis Invictus
 
 ### File Sizes
@@ -1509,6 +1555,53 @@ L1: 88,866
 L2: 43,839
 L3: 17,240
 L4: 2,454
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 51
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2016-2026 Vapid Yankee C130 SWB Rollback
+
+### File Sizes
+
+onx\_towkee3\_hi.yft: 3.6MB
+onx\_towkee3.yft: 3.9MB
+onx\_towkee3.ytd: 2.9MB
+va\_onx\_towkee3.ycd: 0.02MB
+2 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 143,075
+L1: 76,251
+L2: 38,414
+L3: 15,189
+L4: 1,834
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 51
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2016-2026 Vapid Yankee C130 Rollback
+
+### File Sizes
+
+onx\_towkee4\_hi.yft: 4.1MB
+onx\_towkee4.yft: 4.4MB
+onx\_towkee4.ytd: 2.9MB
+0 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 165,674
+L1: 87,751
+L2: 44,246
+L3: 16,631
+L4: 2,032
 
 ### Textures:
 

@@ -179,6 +179,12 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Sandking D155 XL Snowplow (2011-2016) `onx_snowsandk3`
 - Guardian C105 (2000-2015) `onx_guardian`
 - Guardian C105 SWB (2000-2015) `onx_guardian2`
+- Guardian C130 (2016-2026) `onx_guardian3`
+- Guardian C130 SWB (2016-2026) `onx_guardian4`
+- Yankee C105 Rollback (2000-2015) `onx_towkee`
+- Yankee C105 SWB Rollback (2000-2015) `onx_towkee2`
+- Yankee C130 Rollback (2016-2026) `onx_towkee3`
+- Yankee C130 SWB Rollback (2016-2026) `onx_towkee4`
 
 ### Bravado
 - Bison 35XD (2022-2025) `onx_tfbison`
