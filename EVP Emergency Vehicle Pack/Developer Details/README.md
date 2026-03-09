@@ -1302,9 +1302,9 @@ yft Resolution for embedded liveries: Max 2048x2048
 
 ### File Sizes
 
-onx\_polscout2\_hi.yft: 2.5MB
-onx\_polscout2.yft: 2.0MB
-onx\_polscout2.ytd: 1.2MB
+onx\_polsem\_hi.yft: 2.5MB
+onx\_polsem.yft: 2.0MB
+onx\_polsem.ytd: 1.2MB
 107 yft mod parts: < 0.5MB
 
 ### Model Polycount
