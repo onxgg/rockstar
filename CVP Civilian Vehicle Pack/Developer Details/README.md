@@ -1,6 +1,6 @@
 # Civilian Vehicles
 
-## 2006-2017 Declasse Alamo 2600LX
+## 2015-2020 Declasse Alamo 2600LX
 
 ### File Sizes
 
@@ -23,7 +23,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 7
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2006-2017 Declasse Granger 3600LX
+## 2015-2020 Declasse Granger 3600LX
 
 ### File Sizes
 
@@ -47,7 +47,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 12
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2015-2020 Cheval Ambassador
+## 2006-2017 Cheval Ambassador
 
 ### File Sizes
 

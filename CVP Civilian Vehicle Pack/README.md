@@ -149,6 +149,8 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Merit Cruiser (1991-1996) `onx_merit2`
 - Merit (2006-2017) `onx_merit3`
 - Tulip M-100 Coupe (1978-1983) `onx_tulip2c`
+- Alamo 2600LX (2015-2020) `onx_alamo`
+- Granger 3600LX (2015-2020) `onx_granger`
 
 ### Invetero
 - Coquette D9 (2016-2019) `onx_coquetted9`
