@@ -1,6 +1,53 @@
 # Civilian Vehicles
 
-## 2006-2017 Cheval Ambassador
+## 2006-2017 Declasse Alamo 2600LX
+
+### File Sizes
+
+onx\_alamo\_hi.yft: 2.9MB
+onx\_alamo.yft: 2.6MB
+onx\_granger.ytd: 0.2MB
+4 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 98,340
+L1: 41,103
+L2: 16,668
+L3: 8,397
+L4: 890
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 7
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2006-2017 Declasse Granger 3600LX
+
+### File Sizes
+
+onx\_granger\_hi.yft: 3.0MB
+onx\_granger.yft: 2.6MB
+onx\_granger.ytd: 0.2MB
+vehicles\_onx\_granger\_interior.ytd: 1.1MB
+13 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 99,183
+L1: 41,174
+L2: 16,694
+L3: 8,412
+L4: 890
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 12
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2015-2020 Cheval Ambassador
 
 ### File Sizes
 
