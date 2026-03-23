@@ -93,6 +93,95 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 17
 yft Resolution for embedded liveries: Max 2048x2048
 
+## 2000-2016 Vapid Yankee C105 Box Truck
+
+### File Sizes
+
+onx\_boxkee\_hi.yft: 3.1MB
+onx\_boxkee.yft: 3.2MB
+onx\_boxkee.ytd: 1.7MB
+3 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 119,460
+L1: 63,725
+L2: 31,267
+L3: 12,088
+L4: 1,272
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 39
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2000-2016 Vapid Yankee C105 LWB Box Truck
+
+### File Sizes
+
+onx\_boxkee2\_hi.yft: 3.1MB
+onx\_boxkee2.yft: 3.2MB
+0 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 121,636
+L1: 65,731
+L2: 31,917
+L3: 12,042
+L4: 1,284
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 0
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2016-2026 Vapid Yankee C130 Box Truck
+
+### File Sizes
+
+onx\_boxkee3\_hi.yft: 3.1MB
+onx\_boxkee3.yft: 3.1MB
+2 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 120,180
+L1: 62,326
+L2: 31,281
+L3: 11,994
+L4: 1,482
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 0
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2016-2026 Vapid Yankee C130 LWB Box Truck
+
+### File Sizes
+
+onx\_boxkee4\_hi.yft: 3.1MB
+onx\_boxkee4.yft: 3.2MB
+0 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 122,356
+L1: 62,332
+L2: 31,931
+L3: 11,948
+L4: 1,482
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 0
+yft Resolution for embedded liveries: Max 2048x2048
+
 ## 2011-2016 Vapid Sandking D155 Boxtruck
 
 ### File Sizes
@@ -206,6 +295,29 @@ L4: 674
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 18
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2006-2010 Bravado Buffalo STX8
+
+### File Sizes
+
+onx\_buffalostx8\_hi.yft: 3.2MB
+onx\_buffalostx8.yft: 2.5MB
+onx\_buffalostx8.ytd: 2.7MB
+12 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 108,150
+L1: 39,763
+L2: 20,951
+L3: 9,056
+L4: 508
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 23
 yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2016-2019 Invetero Coquette D9
