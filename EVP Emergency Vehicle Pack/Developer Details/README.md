@@ -120,6 +120,29 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 61
 yft Resolution for embedded liveries: Max 2048x2048
 
+## 2016-2026 Vapid Yankee C130 Ambulance Type 1
+
+### File Sizes
+
+onx\_ambkee2\_hi.yft: 4.4MB
+onx\_ambkee2.yft: 4.5MB
+onx\_ambkee2.ytd: 2.2MB
+5 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 185,000
+L1: 103,935
+L2: 45,456
+L3: 17,002
+L4: 2,342
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 58
+yft Resolution for embedded liveries: Max 2048x2048
+
 ## 2011-2016 Vapid Sandking Ambulance Type 1
 
 ### File Sizes
@@ -191,6 +214,29 @@ L4: 1,901
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 41
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2015-2020 Declasse Alamo 2600LX (Emergency)
+
+### File Sizes
+
+onx\_polalamo2\_hi.yft: 3.2MB
+onx\_polalamo2.yft: 2.9MB
+onx\_polalamo2.ytd: 2.6MB
+77 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 112,038
+L1: 48,710
+L2: 20,093
+L3: 10,289
+L4: 1,508
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 45
 yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2024-2025 Vapid Aleutian (Emergency)
@@ -329,6 +375,29 @@ L4: 1,282
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 44
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2006-2010 Bravado Buffalo STX8 (Emergency)
+
+### File Sizes
+
+onx\_polbuff2\_hi.yft: 3.6MB
+onx\_polbuff2.yft: 3.0MB
+onx\_polbuff2.ytd: 2.7MB
+113 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 126,969
+L1: 51,014
+L2: 26,448
+L3: 10,847
+L4: 860
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 49
 yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2015-2023 Bravado Buffalo Hellfire (Emergency)
@@ -588,23 +657,23 @@ yft Resolution for embedded liveries: Max 2048x2048
 
 ### File Sizes
 
-onx\_polgrang\_hi.yft: 2.3MB
-onx\_polgrang.yft: 2.2MB
-onx\_polgrang.ytd: 2.8MB
-109 yft mod parts: < 0.5MB
+onx\_polgrang\_hi.yft: 3.4MB
+onx\_polgrang.yft: 3.2MB
+onx\_polgrang.ytd: 2.6MB
+110 yft mod parts: < 0.5MB
 
 ### Model Polycount
 
-L0: 93,640
-L1: 38,181
-L2: 18,629
-L3: 9,830
-L4: 1,558
+L0: 117,725
+L1: 52,928
+L2: 22,341
+L3: 12,532
+L4: 1,509
 
 ### Textures:
 
 ytd Resolution: Max 1024x1024
-ytd Texture count: 49
+ytd Texture count: 45
 yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2022-2025 Declasse Granger 3700LX (Emergency)
@@ -669,6 +738,52 @@ L1: 79,448
 L2: 37,852
 L3: 14,890
 L4: 2,533
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 59
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2016-2026 Vapid Guardian C130 (Emergency)
+
+### File Sizes
+
+onx\_polguard3\_hi.yft: 4.7MB
+onx\_polguard3.yft: 4.1MB
+onx\_polguard.ytd: 2.2MB
+106 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 174,984
+L1: 84,540
+L2: 39,792
+L3: 14,808
+L4: 2,778
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 59
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2016-2026 Vapid Guardian C130 SWB (Emergency)
+
+### File Sizes
+
+onx\_polguard4\_hi.yft: 4.4MB
+onx\_polguard4.yft: 4.1MB
+onx\_polguard.ytd: 2.2MB
+101 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 166,961
+L1: 81,152
+L2: 39,076
+L3: 15,298
+L4: 2,739
 
 ### Textures:
 
