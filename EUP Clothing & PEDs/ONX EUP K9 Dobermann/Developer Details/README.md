@@ -41,6 +41,8 @@ L0: 200-800
 ytd Resolution: Max 1024x1024
 ytd Texture Count: 69
 
+
+
 ## Dobermann Puppy K9 (onx\_k9puppy\_dob)
 
 ### File Sizes
@@ -67,3 +69,44 @@ L2 63 - 157
 ytd Resolution: Max 1024x1024
 ytd Texture Count: 69
 ydd File Count: 41
+
+
+
+## Retriever K9 (onx\_k9retriever)
+
+### File Sizes
+onx\_k9dobermann.yft: 0.019MB
+onx\_k9dobermann.ymt: 0.02MB
+36 ydd mod parts: < 1.0MB
+
+### Model Polycount
+
+Body:
+L0: 4,972 (+ 4,715 for fur shader)
+L1:  1580
+
+Additional Genitalia:
+L0: 212
+
+Vest:
+L0: 7,058
+L1: 1,602
+L2: 852
+
+Muzzle:
+L0: 4,148
+L1: 868
+L2: 203
+
+Collar:
+L0: 819
+L1: 269
+L2: 65
+
+Interchangeable Department Badges x9:
+L0: 200-800
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture Count: 105
