@@ -1859,3 +1859,48 @@ L4: 846
 ytd Resolution: Max 1024x1024
 ytd Texture count: 54
 yft Resolution for embedded liveries: Max 2048x2048
+
+## 2026 Maibastu Sunsetter Mobility Scooter
+
+### File Sizes
+
+onx\_sunsetter\_hi.yft: 1.0MB
+onx\_sunsetter.yft: 0.9MB
+onx\_sunsetter.ytd: 1.3MB
+24 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 44,129
+L1: 20,603
+L2: 8,654
+L3: 4,778
+L4: 1,272
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 27
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2026 Maibastu Sunsetter Gravediver Mobility Scooter
+
+### File Sizes
+
+onx\_sunsetter2\_hi.yft: 1.3MB
+onx\_sunsetter2.yft: 1.3MB
+0 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 57,633
+L1: 29,280
+L2: 13,198
+L3: 6,712
+L4: 1,144
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 0
+yft Resolution for embedded liveries: Max 2048x2048

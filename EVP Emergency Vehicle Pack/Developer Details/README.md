@@ -1619,3 +1619,26 @@ L4: 1,461
 ytd Resolution: Max 1024x1024
 ytd Texture count: 45
 yft Resolution for embedded liveries: Max 2048x2048
+
+## 2026 Maibastu Sunsetter Mobility Interceptor
+
+### File Sizes
+
+onx\_polsunset\_hi.yft: 1.2MB
+onx\_polsunset.yft: 1.2MB
+onx\_polsunset.ytd: 2.1MB
+4 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 55,233
+L1: 27,191
+L2: 10,878
+L3: 5,754
+L4: 1,574
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 51
+yft Resolution for embedded liveries: Max 2048x2048
