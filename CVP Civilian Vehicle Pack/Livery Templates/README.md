@@ -72,30 +72,33 @@ Recommended load order guidance:
 
 ### Blender
 
-* Install and add the sollumz blender plugin.
-* Press `N` to open the side pannel menu.
-* Click Sollumz and hit import xml.
-* Import `onx_polname_liv_blank.yft.xml`.
-* Rename the top hierarchy name to what you want.
-* Click on the square flat plane mesh in the project window.
-* Click on the materials browser and scroll down to the Sollumz tab.
-* Click the folder icon under the DDS texture name in the window that opened.
-* Replace texture with DDS you want.
-* Click on top hierarchy name once.
-* Press N while hovering in the project window.
-* Click Sollumz and hit export xml.
-* Open code walker rpf viewer (the one that looks like openIV).
-* Drag the xml you just made into a mods folder in codewalker.
-* Drag new yft out of codewalker.
+1. Install and add the sollumz blender plugin.
+2. Press `N` to open the side pannel menu.
+3. Click Sollumz and hit import RAGE asset.
+4. Import `onx_polname_liv_blank.yft`.
+5. Rename the top hierarchy name to what you want.
+6. Click on the square flat plane mesh in the project window.
+7. Click on the materials browser and scroll down to the Sollumz tab.
+8. Click the folder icon under the DDS texture name in the window that opened.
+9. Replace texture with DDS you want.
+10. Click on top hierarchy name once.
+11. Press N while hovering in the project window.
+12. Click Sollumz and hit export RAGE asset.
+13. Place the new yft you have exported into a streamed resource.
+14. Add the correct item block entry to the vehicle's carcols.meta.
+15. Start your server and test.
 
 ### zModeler3
 
-* Click the blue import button.
-* Import `onx_polname_liv_blank.yft`.
-* Rename the top hierarchy name to what you want.
-* Open the Textures Browser.
-* Rename the `onx_polname_liv_blank.yft` folder to the same as the top hierarchy name.
-* Replace `blank.dds` with the DDS you want.
-* Press `OK` in the textures browser.
-* Click the red export button.
-* Export your new yft.
+1. Click the blue import button.
+2. Import `onx_polname_liv_blank.yft`.
+3. Rename the top hierarchy name to what you want.
+4. Open the Textures Browser.
+5. Rename the `onx_polname_liv_blank.yft` folder to the same as the top hierarchy name.
+6. Replace `blank.dds` with the DDS you want.
+7. Press `OK` in the textures browser.
+8. Click the red export button.
+9. Export your new yft.
+10. Place the new yft you have exported into a streamed resource.
+11. Add the correct item block entry to the vehicle's carcols.meta.
+12. Start your server and test.
