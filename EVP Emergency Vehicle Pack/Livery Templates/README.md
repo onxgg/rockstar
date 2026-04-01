@@ -83,7 +83,7 @@ Recommended load order guidance:
 9. Replace texture with DDS you want.
 10. Click on top hierarchy name once.
 11. Press N while hovering in the project window.
-12. Click Sollumz and hit export RAGE asset.
+12. Click Sollumz and hit export RAGE asset and choose gen8.
 13. Place the new yft you have exported into a streamed resource.
 14. Add the correct item block entry to the vehicle's carcols.meta.
 15. Start your server and test.

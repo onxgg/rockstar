@@ -75,7 +75,7 @@ Recommended load order guidance:
 1. Install and add the sollumz blender plugin.
 2. Press `N` to open the side pannel menu.
 3. Click Sollumz and hit import RAGE asset.
-4. Import `onx_polname_liv_blank.yft`.
+4. Import `onx_name_liv_blank.yft`.
 5. Rename the top hierarchy name to what you want.
 6. Click on the square flat plane mesh in the project window.
 7. Click on the materials browser and scroll down to the Sollumz tab.
@@ -83,7 +83,7 @@ Recommended load order guidance:
 9. Replace texture with DDS you want.
 10. Click on top hierarchy name once.
 11. Press N while hovering in the project window.
-12. Click Sollumz and hit export RAGE asset.
+12. Click Sollumz and hit export RAGE asset and choose gen8.
 13. Place the new yft you have exported into a streamed resource.
 14. Add the correct item block entry to the vehicle's carcols.meta.
 15. Start your server and test.
@@ -91,10 +91,10 @@ Recommended load order guidance:
 ### zModeler3
 
 1. Click the blue import button.
-2. Import `onx_polname_liv_blank.yft`.
+2. Import `onx_name_liv_blank.yft`.
 3. Rename the top hierarchy name to what you want.
 4. Open the Textures Browser.
-5. Rename the `onx_polname_liv_blank.yft` folder to the same as the top hierarchy name.
+5. Rename the `onx_name_liv_blank.yft` folder to the same as the top hierarchy name.
 6. Replace `blank.dds` with the DDS you want.
 7. Press `OK` in the textures browser.
 8. Click the red export button.
