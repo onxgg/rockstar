@@ -28,6 +28,7 @@ Documentation folders:
   * [Albany](#albany)
   * [Buckingham](#buckingham)
   * [Ubermacht](#ubermacht)
+  * [Maibatsu](#maibatsu)
   * [Benefactor](#benefactor)
   * [Canis](#canis)
   * [Brute](#brute)
@@ -205,6 +206,10 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 
 ### Übermacht
 - Kandra (2020-2025) `onx_kandra`
+
+### Maibatsu
+- Sunsetter (2026) `onx_sunsetter`
+- Sunsetter Gravediver (2026) `onx_sunsetter2`
 
 ### Benefactor
 - Jogger Cargo LWB (2018-2026) `onx_tfjoggercl1`

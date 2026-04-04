@@ -27,6 +27,7 @@ Documentation folders:
   * [Albany](#albany)
   * [Buckingham](#buckingham)
   * [Ubermacht](#ubermacht)
+  * [Maibatsu](#maibatsu)
   * [Canis](#canis)
   * [Brute](#brute)
   * [Dundreary](#dundreary)
@@ -212,6 +213,9 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 ### Ubermacht
 
 * Kandra (2020-2025) `onx_polkandra`
+
+### Maibatsu
+- Sunsetter (2026) `onx_polsunset`
 
 ### Canis
 
