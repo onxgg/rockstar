@@ -1541,9 +1541,9 @@ yft Resolution for embedded liveries: Max 2048x2048
 
 ### File Sizes
 
-onx\_regent\_hi.yft: 2.9MB
-onx\_regent.yft: 2.4MB
-onx\_regent.ytd: 0.1MB
+onx\_tfregent\_hi.yft: 2.9MB
+onx\_tfregent.yft: 2.4MB
+onx\_tfregent.ytd: 0.1MB
 28 yft mod parts: < 0.5MB
 
 ### Model Polycount
@@ -1564,9 +1564,9 @@ yft Resolution for embedded liveries: Max 2048x2048
 
 ### File Sizes
 
-onx\_regentxl\_hi.yft: 3.0MB
-onx\_regentxl.yft: 2.4MB
-onx\_regent.ytd: 0.1MB
+onx\_tfregentxl\_hi.yft: 3.0MB
+onx\_tfregentxl.yft: 2.4MB
+onx\_tfregent.ytd: 0.1MB
 28 yft mod parts: < 0.5MB
 
 ### Model Polycount
