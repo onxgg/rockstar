@@ -183,7 +183,10 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 * Sandking D155 XL Compensator (2011-2016) `onx_polsandk6`
 * Guardian C105 (2000-2015) `onx_polguard`
 * Guardian C105 SWB (2000-2015) `onx_polguard2`
+* Guardian C130 (2016-2026) `onx_polguard3`
+* Guardian C130 SWB (2016-2026) `onx_polguard4`
 * Yankee C105 Ambulance Type 1 (2000-2015) `onx_ambkee`
+* Yankee C130 Ambulance Type 1 (2016-2026) `onx_ambkee`
 * Sandking Ambulance Type 1 (2011-2016) `onx_ambking`
 
 ### Bravado
