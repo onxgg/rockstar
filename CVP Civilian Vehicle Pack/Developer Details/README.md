@@ -1,1906 +1,2203 @@
 # Civilian Vehicles
 
-## 2015-2020 Declasse Alamo 2600LX
+# 2015-2020 Declasse Alamo 2600LX
 
-### File Sizes
+## File Sizes
 
-onx\_alamo\_hi.yft: 2.9MB
-onx\_alamo.yft: 2.6MB
-onx\_granger.ytd: 0.2MB
-4 yft mod parts: < 0.5MB
+- onx\_alamo\_hi.yft: 2.9MB
+- onx\_alamo.yft: 2.6MB
+- onx\_granger.ytd: 0.2MB
+- 4 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 98,340
-L1: 41,103
-L2: 16,668
-L3: 8,397
-L4: 890
+- L0: 98,340
+- L1: 41,103
+- L2: 16,668
+- L3: 8,397
+- L4: 890
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 7
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 7
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2015-2020 Declasse Granger 3600LX
 
-### File Sizes
+# 2006-2017 Cheval Ambassador
 
-onx\_granger\_hi.yft: 3.0MB
-onx\_granger.yft: 2.6MB
-onx\_granger.ytd: 0.2MB
-vehicles\_onx\_granger\_interior.ytd: 1.1MB
-13 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_ambassador\_hi.yft: 3.7MB
+- onx\_ambassador.yft: 2.8MB
+- onx\_ambassador.ytd: 0.1MB
+- 0 yft mod parts: < 0.5MB
 
-L0: 99,183
-L1: 41,174
-L2: 16,694
-L3: 8,412
-L4: 890
+## Model Polycount
 
-### Textures:
+- L0: 127,398
+- L1: 45,596
+- L2: 22,256
+- L3: 9,905
+- L4: 830
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 12
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2006-2017 Cheval Ambassador
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 7
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_ambassador\_hi.yft: 3.7MB
-onx\_ambassador.yft: 2.8MB
-onx\_ambassador.ytd: 0.1MB
-0 yft mod parts: < 0.5MB
+# 2020-2025 Brute ATV Trailer
 
-### Model Polycount
+## File Sizes
 
-L0: 127,398
-L1: 45,596
-L2: 22,256
-L3: 9,905
-L4: 830
+- onx\_atvtrailer\_hi.yft: 0.6MB
+- onx\_atvtrailer.yft: 0.6MB
+- onx\_atvtrailer.ytd: 0.6MB
+- 2 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 7
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 28,360
+- L1: 14,004
+- L2: 6,746
+- L3: 3,185
+- L4: 220
 
-## 2020-2025 Brute ATV Trailer
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 17
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_atvtrailer\_hi.yft: 0.6MB
-onx\_atvtrailer.yft: 0.6MB
-onx\_atvtrailer.ytd: 0.6MB
-2 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2011-2016 Vapid Sandking D155 CIT
 
-L0: 28,360
-L1: 14,004
-L2: 6,746
-L3: 3,185
-L4: 220
+## File Sizes
 
-### Textures:
+- onx\_bankking\_hi.yft: 3.8MB
+- onx\_bankking.yft: 3.6MB
+- onx\_bankking.ytd: 1.4MB
+- 27 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 17
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2000-2016 Vapid Yankee C105 Box Truck
+- L0: 128,397
+- L1: 60,257
+- L2: 27,971
+- L3: 11,444
+- L4: 1,222
 
-### File Sizes
+## Textures:
 
-onx\_boxkee\_hi.yft: 3.1MB
-onx\_boxkee.yft: 3.2MB
-onx\_boxkee.ytd: 1.7MB
-3 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 32
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 119,460
-L1: 63,725
-L2: 31,267
-L3: 12,088
-L4: 1,272
+# 2018-2025 Bravado Bison 35XD CIT
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 39
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_bankson2\_hi.yft: 3.4MB
+- onx\_bankson2.yft: 3.0MB
+- onx\_bankson.ytd: 1.5MB
+- 23 yft mod parts: < 0.5MB
 
-## 2000-2016 Vapid Yankee C105 LWB Box Truck
+## Model Polycount
 
-### File Sizes
+- L0: 118,872
+- L1: 52,581
+- L2: 23,659
+- L3: 10,109
+- L4: 974
 
-onx\_boxkee2\_hi.yft: 3.1MB
-onx\_boxkee2.yft: 3.2MB
-0 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 40
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 121,636
-L1: 65,731
-L2: 31,917
-L3: 12,042
-L4: 1,284
+# 2000-2016 Vapid Yankee C105 LWB Box Truck
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 0
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_boxkee2\_hi.yft: 3.1MB
+- onx\_boxkee2.yft: 3.2MB
+- 0 yft mod parts: < 0.5MB
 
-## 2016-2026 Vapid Yankee C130 Box Truck
+## Model Polycount
 
-### File Sizes
+- L0: 121,636
+- L1: 65,731
+- L2: 31,917
+- L3: 12,042
+- L4: 1,284
 
-onx\_boxkee3\_hi.yft: 3.1MB
-onx\_boxkee3.yft: 3.1MB
-2 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 0
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 120,180
-L1: 62,326
-L2: 31,281
-L3: 11,994
-L4: 1,482
 
-### Textures:
+# 2016-2026 Vapid Yankee C130 Box Truck
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 0
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2016-2026 Vapid Yankee C130 LWB Box Truck
+- onx\_boxkee3\_hi.yft: 3.1MB
+- onx\_boxkee3.yft: 3.1MB
+- 2 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_boxkee4\_hi.yft: 3.1MB
-onx\_boxkee4.yft: 3.2MB
-0 yft mod parts: < 0.5MB
+- L0: 120,180
+- L1: 62,326
+- L2: 31,281
+- L3: 11,994
+- L4: 1,482
 
-### Model Polycount
+## Textures:
 
-L0: 122,356
-L1: 62,332
-L2: 31,931
-L3: 11,948
-L4: 1,482
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 0
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 0
-yft Resolution for embedded liveries: Max 2048x2048
+# 2016-2026 Vapid Yankee C130 LWB Box Truck
 
-## 2011-2016 Vapid Sandking D155 Boxtruck
+## File Sizes
 
-### File Sizes
+- onx\_boxkee4\_hi.yft: 3.1MB
+- onx\_boxkee4.yft: 3.2MB
+- 0 yft mod parts: < 0.5MB
 
-onx\_boxking\_hi.yft: 2.9MB
-onx\_boxking.yft: 2.6MB
-onx\_boxking.ytd: 2.0MB
-67 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 122,356
+- L1: 62,332
+- L2: 31,931
+- L3: 11,948
+- L4: 1,482
 
-L0: 108,956
-L1: 51,135
-L2: 25,347
-L3: 9,884
-L4: 895
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 0
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 33
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2015-2023 Bravado Buffalo A/C Sport
+# 2000-2016 Vapid Yankee C105 Box Truck
 
-### File Sizes
+## File Sizes
 
-onx\_buffaloac\_hi.yft: 2.5MB
-onx\_buffaloac.yft: 1.9MB
-onx\_buffaloac.ytd: 0.4MB
-72 yft mod parts: < 0.5MB
+- onx\_boxkee\_hi.yft: 3.1MB
+- onx\_boxkee.yft: 3.2MB
+- onx\_boxkee.ytd: 1.7MB
+- 3 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 100,962
-L1: 35,756
-L2: 15,345
-L3: 7,730
-L4: 662
+- L0: 119,460
+- L1: 63,725
+- L2: 31,267
+- L3: 12,088
+- L4: 1,272
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 19
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 39
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2020-2025 Brute Cartrailer
 
-### File Sizes
+# 2011-2016 Vapid Sandking D155 Boxtruck
 
-onx\_cartrail\_hi.yft: 0.4MB
-onx\_cartrail.yft: 0.5MB
-onx\_cartrail.ytd: 0.5MB
-4 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_boxking\_hi.yft: 2.9MB
+- onx\_boxking.yft: 2.6MB
+- onx\_boxking.ytd: 2.0MB
+- 67 yft mod parts: < 0.5MB
 
-L0: 22,675
-L1: 12,696
-L2: 6,279
-L3: 3,380
-L4: 510
+## Model Polycount
 
-### Textures:
+- L0: 108,956
+- L1: 51,135
+- L2: 25,347
+- L3: 9,884
+- L4: 895
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 11
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2020-2025 Brute Cartrailer XL
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 33
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_cartrail2\_hi.yft: 0.5MB
-onx\_cartrail2.yft: 0.5MB
-onx\_cartrail2.ytd: 0.5MB
-7 yft mod parts: < 0.5MB
+# 2015-2023 Bravado Buffalo A/C Sport
 
-### Model Polycount
+## File Sizes
 
-L0: 25,055
-L1: 14,664
-L2: 7,303
-L3: 3,688
-L4: 530
+- onx\_buffaloac\_hi.yft: 2.5MB
+- onx\_buffaloac.yft: 1.9MB
+- onx\_buffaloac.ytd: 0.4MB
+- 72 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 11
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 100,962
+- L1: 35,756
+- L2: 15,345
+- L3: 7,730
+- L4: 662
 
-## 2015-2023 Bravado Buffalo Hellfire
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 19
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_buffalohf\_hi.yft: 3.1MB
-onx\_buffalohf.yft: 2.5MB
-onx\_buffalohf.ytd: 0.4MB
-62 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2015-2023 Bravado Buffalo Hellfire
 
-L0: 122,053
-L1: 42,953
-L2: 17,811
-L3: 8,897
-L4: 674
+## File Sizes
 
-### Textures:
+- onx\_buffalohf\_hi.yft: 3.1MB
+- onx\_buffalohf.yft: 2.5MB
+- onx\_buffalohf.ytd: 0.4MB
+- 62 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 18
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2006-2010 Bravado Buffalo STX8
+- L0: 122,053
+- L1: 42,953
+- L2: 17,811
+- L3: 8,897
+- L4: 674
 
-### File Sizes
+## Textures:
 
-onx\_buffalostx8\_hi.yft: 3.2MB
-onx\_buffalostx8.yft: 2.5MB
-onx\_buffalostx8.ytd: 2.7MB
-12 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 18
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 108,150
-L1: 39,763
-L2: 20,951
-L3: 9,056
-L4: 508
+# 2006-2010 Bravado Buffalo STX8
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 23
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_buffalostx8\_hi.yft: 3.2MB
+- onx\_buffalostx8.yft: 2.5MB
+- onx\_buffalostx8.ytd: 2.7MB
+- 12 yft mod parts: < 0.5MB
 
-## 2016-2019 Invetero Coquette D9
+## Model Polycount
 
-### File Sizes
+- L0: 108,150
+- L1: 39,763
+- L2: 20,951
+- L3: 9,056
+- L4: 508
 
-onx\_coquetted9\_hi.yft: 3.1MB
-onx\_coquetted9.yft: 2.8MB
-onx\_coquetted9.ytd: 0.9MB
-0 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 23
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 106,206
-L1: 45,660
-L2: 17,452
-L3: 10,370
-L4: 830
 
-### Textures:
+# 2020-2025 Brute Cartrailer XL
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 14
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2019-2023 Vapid Dominator GT
+- onx\_cartrail2\_hi.yft: 0.5MB
+- onx\_cartrail2.yft: 0.5MB
+- onx\_cartrail2.ytd: 0.5MB
+- 7 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_domgtcoupe\_hi.yft: 3.1MB
-onx\_domgtcoupe.yft: 2.3MB
-onx\_domgtcoupe.ytd: 0.3MB
-72 yft mod parts: < 0.5MB
+- L0: 25,055
+- L1: 14,664
+- L2: 7,303
+- L3: 3,688
+- L4: 530
 
-### Model Polycount
+## Textures:
 
-L0: 122,896
-L1: 38,480
-L2: 17,513
-L3: 10,073
-L4: 750
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 11
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 17
-yft Resolution for embedded liveries: Max 2048x2048
+# 2020-2025 Brute Cartrailer
 
-## 2014-2020 Bravado Dorado A/C
+## File Sizes
 
-### File Sizes
+- onx\_cartrail\_hi.yft: 0.4MB
+- onx\_cartrail.yft: 0.5MB
+- onx\_cartrail.ytd: 0.5MB
+- 4 yft mod parts: < 0.5MB
 
-onx\_doradost\_hi.yft: 4.0MB
-onx\_doradost.yft: 2.8MB
-onx\_doradost.ytd: 0.4MB
-23 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 22,675
+- L1: 12,696
+- L2: 6,279
+- L3: 3,380
+- L4: 510
 
-L0: 142,898
-L1: 46,692
-L2: 19,814
-L3: 9,707
-L4: 932
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 11
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 12
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2000-2015 Vapid Guardian C105
+# 2016-2019 Invetero Coquette D9
 
-### File Sizes
+## File Sizes
 
-onx\_guardian\_hi.yft: 4.2MB
-onx\_guardian.yft: 3.7MB
-onx\_guardian.ytd: 1.3MB
-37 yft mod parts: < 0.5MB
+- onx\_coquetted9\_hi.yft: 3.1MB
+- onx\_coquetted9.yft: 2.8MB
+- onx\_coquetted9.ytd: 0.9MB
+- 0 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 162,628
-L1: 78,048
-L2: 36,986
-L3: 14,040
-L4: 1,898
+- L0: 106,206
+- L1: 45,660
+- L2: 17,452
+- L3: 10,370
+- L4: 830
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 35
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 14
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2000-2015 Vapid Guardian C105 SWB
 
-### File Sizes
+# 2019-2023 Vapid Dominator GT
 
-onx\_guardian2\_hi.yft: 3.8MB
-onx\_guardian2.yft: 3.4MB
-onx\_guardian.ytd: 1.3MB
-9 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_domgtcoupe\_hi.yft: 3.1MB
+- onx\_domgtcoupe.yft: 2.3MB
+- onx\_domgtcoupe.ytd: 0.3MB
+- 72 yft mod parts: < 0.5MB
 
-L0: 148,152
-L1: 70,806
-L2: 33,942
-L3: 13,138
-L4: 1,619
+## Model Polycount
 
-### Textures:
+- L0: 122,896
+- L1: 38,480
+- L2: 17,513
+- L3: 10,073
+- L4: 750
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 35
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2016-2026 Vapid Guardian C130
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 17
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_guardian3\_hi.yft: 4.3MB
-onx\_guardian3.yft: 3.8MB
-onx\_guardian.ytd: 1.3MB
-20 yft mod parts: < 0.5MB
+# 2014-2020 Bravado Dorado A/C
 
-### Model Polycount
+## File Sizes
 
-L0: 164,968
-L1: 79,752
-L2: 38,210
-L3: 14,448
-L4: 2,246
+- onx\_doradost\_hi.yft: 4.0MB
+- onx\_doradost.yft: 2.8MB
+- onx\_doradost.ytd: 0.4MB
+- 23 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 35
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 142,898
+- L1: 46,692
+- L2: 19,814
+- L3: 9,707
+- L4: 932
 
-## 2016-2026 Vapid Guardian C130 SWB
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 12
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_guardian4\_hi.yft: 3.9MB
-onx\_guardian4.yft: 3.5MB
-onx\_guardian.ytd: 1.3MB
-0 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2017-2024 Annis Elegy RH-9
 
-L0: 150,492
-L1: 72,510
-L2: 35,166
-L3: 13,546
-L4: 1,825
+## File Sizes
 
-### Textures:
+- onx\_elegyrh9\_hi.yft: 4.1MB
+- onx\_elegyrh9.yft: 3.8MB
+- onx\_elegyrh9.ytd: 2.3MB
+- 32 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 35
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2019-2025 Canis Invictus
+- L0: 130,480
+- L1: 56,648
+- L2: 23,037
+- L3: 10,223
+- L4: 658
 
-### File Sizes
+## Textures:
 
-onx\_invictus\_hi.yft: 2.4MB
-onx\_invictus.yft: 2.4MB
-onx\_invictus.ytd: 1.3MB
-79 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 13
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 104,950
-L1: 30,299
-L2: 12,128
-L3: 5,522
-L4: 381
+# 2015-2020 Declasse Granger 3600LX
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 29
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_granger\_hi.yft: 3.0MB
+- onx\_granger.yft: 2.6MB
+- onx\_granger.ytd: 0.2MB
+- vehicles\_onx\_granger\_interior.ytd: 1.1MB
+- 13 yft mod parts: < 0.5MB
 
-## 2019-2025 Canis Invictus Trailer
+## Model Polycount
 
-### File Sizes
+- L0: 99,183
+- L1: 41,174
+- L2: 16,694
+- L3: 8,412
+- L4: 890
 
-onx\_invicttrail\_hi.yft: 1.3MB
-onx\_invicttrail.yft: 0.8MB
-45 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 12
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 51,459
-L1: 16,127
-L2: 6,920
-L3: 3,666
-L4: 290
 
-### Textures:
+# 2000-2015 Vapid Guardian C105 SWB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 29
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2019-2025 Canis Invictus Overland
+- onx\_guardian2\_hi.yft: 3.8MB
+- onx\_guardian2.yft: 3.4MB
+- onx\_guardian.ytd: 1.3MB
+- 9 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_invictus2\_hi.yft: 2.9MB
-onx\_invictus2.yft: 1.8MB
-79 yft mod parts: < 0.5MB
+- L0: 148,152
+- L1: 70,806
+- L2: 33,942
+- L3: 13,138
+- L4: 1,619
 
-### Model Polycount
+## Textures:
 
-L0: 116,907
-L1: 37,452
-L2: 14,401
-L3: 6,330
-L4: 381
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 35
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 29
-yft Resolution for embedded liveries: Max 2048x2048
+# 2016-2026 Vapid Guardian C130
 
-## 2019-2025 Canis Invictus Overland Trailer
+## File Sizes
 
-### File Sizes
+- onx\_guardian3\_hi.yft: 4.3MB
+- onx\_guardian3.yft: 3.8MB
+- onx\_guardian.ytd: 1.3MB
+- 20 yft mod parts: < 0.5MB
 
-onx\_invicttrail2\_hi.yft: 2.3MB
-onx\_invicttrail2.yft: 1.6MB
-45 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 164,968
+- L1: 79,752
+- L2: 38,210
+- L3: 14,448
+- L4: 2,246
 
-L0: 75,113
-L1: 30,319
-L2: 11,443
-L3: 5,250
-L4: 290
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 35
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 29
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2020-2024 Ubermacht Kandra
+# 2016-2026 Vapid Guardian C130 SWB
 
-### File Sizes
+## File Sizes
 
-onx\_kandra\_hi.yft: 2.7MB
-onx\_kandra.yft: 2.3MB
-onx\_kandra.ytd: 0.6MB
-0 yft mod parts: < 0.5MB
+- onx\_guardian4\_hi.yft: 3.9MB
+- onx\_guardian4.yft: 3.5MB
+- onx\_guardian.ytd: 1.3MB
+- 0 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 107,687
-L1: 42,881
-L2: 18,384
-L3: 9,208
-L4: 1,829
+- L0: 150,492
+- L1: 72,510
+- L2: 35,166
+- L3: 13,546
+- L4: 1,825
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 25
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 35
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2013 Buckingham Maverick
 
-### File Sizes
+# 2000-2015 Vapid Guardian C105
 
-onx\_maverick\_hi.yft: 3.0MB
-onx\_maverick.yft: 2.8MB
-onx\_maverick.ytd: 1.1MB
-vehicles\_onx\_maverick\_interior.ytd: 3.1MB
-92 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_guardian\_hi.yft: 4.2MB
+- onx\_guardian.yft: 3.7MB
+- onx\_guardian.ytd: 1.3MB
+- 37 yft mod parts: < 0.5MB
 
-L0: 121,570
-L1: 65,504
-L2: 24,209
-L3: 8,442
-L4: 1,574
+## Model Polycount
 
-### Textures:
+- L0: 162,628
+- L1: 78,048
+- L2: 36,986
+- L3: 14,040
+- L4: 1,898
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 34
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 1977-1985 Declasse Merit Classic
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 35
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_merit1\_hi.yft: 2.3MB
-onx\_merit1.yft: 1.5MB
-onx\_merit1.ytd: 0.5MB
-0 yft mod parts: < 0.5MB
+# 2019-2025 Canis Invictus Overland Trailer
 
-### Model Polycount
+## File Sizes
 
-L0: 110,694
-L1: 31,236
-L2: 14,347
-L3: 8,382
-L4: 560
+- onx\_invicttrail2\_hi.yft: 2.3MB
+- onx\_invicttrail2.yft: 1.6MB
+- 45 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 13
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 75,113
+- L1: 30,319
+- L2: 11,443
+- L3: 5,250
+- L4: 290
 
-## 1991-1996 Declasse Merit Cruiser
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 29
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_merit2\_hi.yft: 2.4MB
-onx\_merit2.yft: 1.1MB
-onx\_merit2.ytd: 0.1MB
-0 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2019-2025 Canis Invictus Trailer
 
-L0: 104,532
-L1: 18,713
-L2: 9,176
-L3: 5,362
-L4: 594
+## File Sizes
 
-### Textures:
+- onx\_invicttrail\_hi.yft: 1.3MB
+- onx\_invicttrail.yft: 0.8MB
+- 45 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 12
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2006-2017 Declasse Merit
+- L0: 51,459
+- L1: 16,127
+- L2: 6,920
+- L3: 3,666
+- L4: 290
 
-### File Sizes
+## Textures:
 
-onx\_merit3\_hi.yft: 3.9MB
-onx\_merit3.yft: 3.0MB
-onx\_merit3.ytd: 0.1MB
-0 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 29
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 132,158
-L1: 48,829
-L2: 23,769
-L3: 9,239
-L4: 834
+# 2019-2025 Canis Invictus Overland
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 7
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_invictus2\_hi.yft: 2.9MB
+- onx\_invictus2.yft: 1.8MB
+- 79 yft mod parts: < 0.5MB
 
-## 2011-2016 Vapid Sandking D155
+## Model Polycount
 
-### File Sizes
+- L0: 116,907
+- L1: 37,452
+- L2: 14,401
+- L3: 6,330
+- L4: 381
 
-onx\_sandking\_hi.yft: 3.2MB
-onx\_sandking.yft: 2.8MB
-onx\_sandking.ytd: 1.4MB
-117 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 29
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 121,679
-L1: 55,774
-L2: 26,249
-L3: 9,634
-L4: 1,196
 
-### Textures:
+# 2019-2025 Canis Invictus
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 25
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2011-2016 Vapid Sandking D155 SWB
+- onx\_invictus\_hi.yft: 2.4MB
+- onx\_invictus.yft: 2.4MB
+- onx\_invictus.ytd: 1.3MB
+- 79 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_sandking2\_hi.yft: 2.9MB
-onx\_sandking2.yft: 2.5MB
-onx\_sandking2.ytd: 1.4MB
-99 yft mod parts: < 0.5MB
+- L0: 104,950
+- L1: 30,299
+- L2: 12,128
+- L3: 5,522
+- L4: 381
 
-### Model Polycount
+## Textures:
 
-L0: 108,447
-L1: 49,650
-L2: 23,731
-L3: 8,924
-L4: 1,034
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 29
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 25
-yft Resolution for embedded liveries: Max 2048x2048
+# 2020-2024 Ubermacht Kandra
 
-## 2011-2016 Vapid Sandking D155 XL
+## File Sizes
 
-### File Sizes
+- onx\_kandra\_hi.yft: 2.7MB
+- onx\_kandra.yft: 2.3MB
+- onx\_kandra.ytd: 0.6MB
+- 0 yft mod parts: < 0.5MB
 
-onx\_sandking3\_hi.yft: 3.3MB
-onx\_sandking3.yft: 2.9MB
-onx\_sandking3.ytd: 1.4MB
-101 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 107,687
+- L1: 42,881
+- L2: 18,384
+- L3: 9,208
+- L4: 1,829
 
-L0: 128,400
-L1: 58,803
-L2: 26,991
-L3: 10,106
-L4: 1,284
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 25
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 25
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2011-2016 Vapid Sandking D155 Compensator
+# 2013 Buckingham Maverick
 
-### File Sizes
+## File Sizes
 
-onx\_sandking4\_hi.yft: 4.1MB
-onx\_sandking4.yft: 3.4MB
-onx\_sandking4.ytd: 1.7MB
-110 yft mod parts: < 0.5MB
+- onx\_maverick\_hi.yft: 3.0MB
+- onx\_maverick.yft: 2.8MB
+- onx\_maverick.ytd: 1.1MB
+- vehicles\_onx\_maverick\_interior.ytd: 3.1MB
+- 92 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 148,171
-L1: 69,100
-L2: 30,704
-L3: 11,153
-L4: 1,228
+- L0: 121,570
+- L1: 65,504
+- L2: 24,209
+- L3: 8,442
+- L4: 1,574
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 29
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 34
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2011-2016 Vapid Sandking D155 SWB Compensator
 
-### File Sizes
+# 1977-1985 Declasse Merit Classic
 
-onx\_sandking5\_hi.yft: 3.7MB
-onx\_sandking5.yft: 3.1MB
-onx\_sandking5.ytd: 1.7MB
-108 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_merit1\_hi.yft: 2.3MB
+- onx\_merit1.yft: 1.5MB
+- onx\_merit1.ytd: 0.5MB
+- 0 yft mod parts: < 0.5MB
 
-L0: 133,943
-L1: 62,976
-L2: 28,186
-L3: 10,443
-L4: 1,066
+## Model Polycount
 
-### Textures:
+- L0: 110,694
+- L1: 31,236
+- L2: 14,347
+- L3: 8,382
+- L4: 560
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 29
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2011-2016 Vapid Sandking D155 XL Compensator
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 13
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_sandking6\_hi.yft: 4.5MB
-onx\_sandking6.yft: 3.6MB
-onx\_sandking6.ytd: 1.7MB
-110 yft mod parts: < 0.5MB
+# 1991-1996 Declasse Merit Cruiser
 
-### Model Polycount
+## File Sizes
 
-L0: 164,101
-L1: 76,580
-L2: 32,280
-L3: 11,808
-L4: 1,228
+- onx\_merit2\_hi.yft: 2.4MB
+- onx\_merit2.yft: 1.1MB
+- onx\_merit2.ytd: 0.1MB
+- 0 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 29
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 104,532
+- L1: 18,713
+- L2: 9,176
+- L3: 5,362
+- L4: 594
 
-## 2018-2024 Vapid Sandstorm D205
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 12
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_sandstorm\_hi.yft: 2.6MB
-onx\_sandstorm.yft: 2.5MB
-onx\_sandstorm.ytd: 1.1MB
-160 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2006-2017 Declasse Merit
 
-L0: 107,620
-L1: 53,366
-L2: 22,199
-L3: 7,986
-L4: 724
+## File Sizes
 
-### Textures:
+- onx\_merit3\_hi.yft: 3.9MB
+- onx\_merit3.yft: 3.0MB
+- onx\_merit3.ytd: 0.1MB
+- 0 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 23
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2018-2024 Vapid Sandstorm D205 XL
+- L0: 132,158
+- L1: 48,829
+- L2: 23,769
+- L3: 9,239
+- L4: 834
 
-### File Sizes
+## Textures:
 
-onx\_sandstormxl\_hi.yft: 2.6MB
-onx\_sandstormxl.yft: 2.5MB
-onx\_sandstormxl.ytd: 0.1MB
-133 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 7
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 106,908
-L1: 56,833
-L2: 21,560
-L3: 8,348
-L4: 688
+# 2011-2016 Vapid Sandking D155 SWB
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 15
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_sandking2\_hi.yft: 2.9MB
+- onx\_sandking2.yft: 2.5MB
+- onx\_sandking2.ytd: 1.4MB
+- 99 yft mod parts: < 0.5MB
 
-## 2018-2024 Vapid Sandstorm D205 Hellenbach
+## Model Polycount
 
-### File Sizes
+- L0: 108,447
+- L1: 49,650
+- L2: 23,731
+- L3: 8,924
+- L4: 1,034
 
-onx\_sandstormh\_hi.yft: 3.2MB
-onx\_sandstormh.yft: 3.0MB
-onx\_sandstormh.ytd: 0.4MB
-176 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 25
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 129,779
-L1: 65,074
-L2: 24,471
-L3: 10,353
-L4: 724
 
-### Textures:
+# 2011-2016 Vapid Sandking D155 XL
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 19
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2018-2024 Vapid Sandstorm D205 SWB
+- onx\_sandking3\_hi.yft: 3.3MB
+- onx\_sandking3.yft: 2.9MB
+- onx\_sandking3.ytd: 1.4MB
+- 101 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_sandstorm2\_hi.yft: 2.6MB
-onx\_sandstorm2.yft: 2.5MB
-onx\_sandstorm2.ytd: 0.1MB
-160 yft mod parts: < 0.5MB
+- L0: 128,400
+- L1: 58,803
+- L2: 26,991
+- L3: 10,106
+- L4: 1,284
 
-### Model Polycount
+## Textures:
 
-L0: 96,469
-L1: 48.997
-L2: 18,705
-L3: 7,503
-L4: 590
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 25
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 15
-yft Resolution for embedded liveries: Max 2048x2048
+# 2011-2016 Vapid Sandking D155 Compensator
 
-## 2020-2025 Vapid Scout SR
+## File Sizes
 
-### File Sizes
+- onx\_sandking4\_hi.yft: 4.1MB
+- onx\_sandking4.yft: 3.4MB
+- onx\_sandking4.ytd: 1.7MB
+- 110 yft mod parts: < 0.5MB
 
-onx\_scout25\_hi.yft: 3.9MB
-onx\_scout25.yft: 2.7MB
-onx\_scout25.ytd: 1.0MB
-15 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 148,171
+- L1: 69,100
+- L2: 30,704
+- L3: 11,153
+- L4: 1,228
 
-L0: 128,491
-L1: 43,143
-L2: 16,613
-L3: 11,807
-L4: 886
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 29
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 15
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 1991-1994 Vapid Scout Classic
+# 2011-2016 Vapid Sandking D155 SWB Compensator
 
-### File Sizes
+## File Sizes
 
-onx\_scoutc\_hi.yft: 2.4MB
-onx\_scoutc.yft: 1.9MB
-onx\_scoutc.ytd: 1.2MB
-56 yft mod parts: < 0.5MB
+- onx\_sandking5\_hi.yft: 3.7MB
+- onx\_sandking5.yft: 3.1MB
+- onx\_sandking5.ytd: 1.7MB
+- 108 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 91,475
-L1: 37,082
-L2: 13,770
-L3: 5,642
-L4: 1,188
+- L0: 133,943
+- L1: 62,976
+- L2: 28,186
+- L3: 10,443
+- L4: 1,066
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 21
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 29
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2011-2016 Vapid Sandking D155 Snowplow
 
-### File Sizes
+# 2011-2016 Vapid Sandking D155 XL Compensator
 
-onx\_snowsandk\_hi.yft: 3.7MB
-onx\_snowsandk.yft: 3.7MB
-onx\_snowsandk.ytd: 2.0MB
-110 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_sandking6\_hi.yft: 4.5MB
+- onx\_sandking6.yft: 3.6MB
+- onx\_sandking6.ytd: 1.7MB
+- 110 yft mod parts: < 0.5MB
 
-L0: 139,894
-L1: 68,426
-L2: 33,905
-L3: 14,210
-L4: 1,616
+## Model Polycount
 
-### Textures:
+- L0: 164,101
+- L1: 76,580
+- L2: 32,280
+- L3: 11,808
+- L4: 1,228
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 34
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2011-2016 Vapid Sandking D155 SWB Snowplow
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 29
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_snowsandk2\_hi.yft: 3.4MB
-onx\_snowsandk2.yft: 3.4MB
-onx\_snowsandk2.ytd: 2.0MB
-110 yft mod parts: < 0.5MB
+# 2011-2016 Vapid Sandking D155
 
-### Model Polycount
+## File Sizes
 
-L0: 126,662
-L1: 62,302
-L2: 31,387
-L3: 13,500
-L4: 1,454
+- onx\_sandking\_hi.yft: 3.2MB
+- onx\_sandking.yft: 2.8MB
+- onx\_sandking.ytd: 1.4MB
+- 117 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 34
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 121,679
+- L1: 55,774
+- L2: 26,249
+- L3: 9,634
+- L4: 1,196
 
-## 2011-2016 Vapid Sandking D155 XL Snowplow
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 25
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_snowsandk3\_hi.yft: 3.9MB
-onx\_snowsandk3.yft: 3.7MB
-onx\_snowsandk3.ytd: 2.0MB
-110 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2018-2024 Vapid Sandstorm D205 SWB (Legacy)
 
-L0: 146,615
-L1: 71,455
-L2: 34,647
-L3: 14,682
-L4: 1,704
+## File Sizes
 
-### Textures:
+- onx\_sandstorm2\_hi.yft: 2.6MB
+- onx\_sandstorm2.yft: 2.5MB
+- onx\_sandstorm2.ytd: 0.1MB
+- 160 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 34
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2013-2016 Vapid Tavros
+- L0: 96,469
+- L1: 48.997
+- L2: 18,705
+- L3: 7,503
+- L4: 590
 
-### File Sizes
+## Textures:
 
-onx\_tavros\_hi.yft: 3.5MB
-onx\_tavros.yft: 3.3MB
-onx\_tavros.ytd: 1.4MB
-81 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 15
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 120,843
-L1: 57,851
-L2: 23,518
-L3: 10,221
-L4: 1,200
+# 2018-2024 Vapid Sandstorm D205 (Legacy)
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 18
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_sandstorm\_hi.yft: 2.6MB
+- onx\_sandstorm.yft: 2.5MB
+- onx\_sandstorm.ytd: 1.1MB
+- 160 yft mod parts: < 0.5MB
 
-## 2022-2024 Canis Terminus Overland
+## Model Polycount
 
-### File Sizes
+- L0: 107,620
+- L1: 53,366
+- L2: 22,199
+- L3: 7,986
+- L4: 724
 
-onx\_terminus2\_hi.yft: 3.2MB
-onx\_terminus2.yft: 2.0MB
-onx\_terminus2.ytd: 0.7MB
-79 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 23
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 134,752
-L1: 42,136
-L2: 15,116
-L3: 6,080
-L4: 399
 
-### Textures:
+# 2018-2024 Vapid Sandstorm D205 Hellenbach (Legacy)
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 18
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2021-2025 Declasse Alamo 2700LX
+- onx\_sandstormh\_hi.yft: 3.2MB
+- onx\_sandstormh.yft: 3.0MB
+- onx\_sandstormh.ytd: 0.4MB
+- 176 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_tfalamo\_hi.yft: 2.9MB
-onx\_tfalamo.yft: 2.4MB
-onx\_tfalamo.ytd: 1.0MB
-30 yft mod parts: < 0.5MB
+- L0: 129,779
+- L1: 65,074
+- L2: 24,471
+- L3: 10,353
+- L4: 724
 
-### Model Polycount
+## Textures:
 
-L0: 110,582
-L1: 45,766
-L2: 21,323
-L3: 8,794
-L4: 1,193
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 19
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 11
-yft Resolution for embedded liveries: Max 2048x2048
+# 2018-2024 Vapid Sandstorm D205 XL (Legacy)
 
-## 2019-2024 Bravado Bison 35XD
+## File Sizes
 
-### File Sizes
+- onx\_sandstormxl\_hi.yft: 2.6MB
+- onx\_sandstormxl.yft: 2.5MB
+- onx\_sandstormxl.ytd: 0.1MB
+- 133 yft mod parts: < 0.5MB
 
-onx\_tfbison\_hi.yft: 2.9MB
-onx\_tfbison.yft: 2.5MB
-onx\_tfbison.ytd: 1.3MB
-109 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 106,908
+- L1: 56,833
+- L2: 21,560
+- L3: 8,348
+- L4: 688
 
-L0: 112,097
-L1: 47,806
-L2: 22,298
-L3: 9,125
-L4: 954
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 15
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 11
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2019-2024 Bravado Bison 25XD
+# 2020-2025 Vapid Scout SR
 
-### File Sizes
+## File Sizes
 
-onx\_tfbison2\_hi.yft: 2.7MB
-onx\_tfbison2.yft: 2.3MB
-onx\_tfbison.ytd: 1.3MB
-104 yft mod parts: < 0.5MB
+- onx\_scout25\_hi.yft: 3.9MB
+- onx\_scout25.yft: 2.7MB
+- onx\_scout25.ytd: 1.0MB
+- 15 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 101,507
-L1: 42,734
-L2: 20,239
-L3: 8,735
-L4: 864
+- L0: 128,491
+- L1: 43,143
+- L2: 16,613
+- L3: 11,807
+- L4: 886
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 11
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 15
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2019-2024 Bravado Bison 45XD
 
-### File Sizes
+# 1991-1994 Vapid Scout Classic
 
-onx\_tfbison3\_hi.yft: 3.0MB
-onx\_tfbison3.yft: 2.5MB
-onx\_tfbison.ytd: 1.3MB
-107 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_scoutc\_hi.yft: 2.4MB
+- onx\_scoutc.yft: 1.9MB
+- onx\_scoutc.ytd: 1.2MB
+- 56 yft mod parts: < 0.5MB
 
-L0: 119,381
-L1: 49,018
-L2: 22,908
-L3: 9,451
-L4: 964
+## Model Polycount
 
-### Textures:
+- L0: 91,475
+- L1: 37,082
+- L2: 13,770
+- L3: 5,642
+- L4: 1,188
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 11
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2019-2024 Bravado Bison 35XD Sasquatch
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 21
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_tfbison4\_hi.yft: 3.0MB
-onx\_tfbison4.yft: 2.5MB
-onx\_tfbison.ytd: 1.3MB
-109 yft mod parts: < 0.5MB
+# 2011-2016 Vapid Sandking D155 SWB Snowplow
 
-### Model Polycount
+## File Sizes
 
-L0: 114,223
-L1: 48,700
-L2: 21,804
-L3: 9,312
-L4: 954
+- onx\_snowsandk2\_hi.yft: 3.4MB
+- onx\_snowsandk2.yft: 3.4MB
+- onx\_snowsandk2.ytd: 2.0MB
+- 110 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 11
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 126,662
+- L1: 62,302
+- L2: 31,387
+- L3: 13,500
+- L4: 1,454
 
-## 2019-2024 Bravado Bison 55XD Box Truck
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 34
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_tfboxson\_hi.yft: 2.6MB
-onx\_tfboxson.yft: 2.3MB
-onx\_tfboxson.ytd: 1.6MB
-78 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2011-2016 Vapid Sandking D155 XL Snowplow
 
-L0: 97,616
-L1: 41,602
-L2: 20,340
-L3: 8,986
-L4: 864
+## File Sizes
 
-### Textures:
+- onx\_snowsandk3\_hi.yft: 3.9MB
+- onx\_snowsandk3.yft: 3.7MB
+- onx\_snowsandk3.ytd: 2.0MB
+- 110 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 29
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2018-2024 Vapid Sandstorm D205 Box Truck
+- L0: 146,615
+- L1: 71,455
+- L2: 34,647
+- L3: 14,682
+- L4: 1,704
 
-### File Sizes
+## Textures:
 
-onx\_tfboxstorm\_hi.yft: 2.2MB
-onx\_tfboxstorm.yft: 2.2MB
-onx\_tfboxstorm.ytd: 1.7MB
-106 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 34
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 88,737
-L1: 44,583
-L2: 19,733
-L3: 7,605
-L4: 674
+# 2011-2016 Vapid Sandking D155 Snowplow
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 33
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_snowsandk\_hi.yft: 3.7MB
+- onx\_snowsandk.yft: 3.7MB
+- onx\_snowsandk.ytd: 2.0MB
+- 110 yft mod parts: < 0.5MB
 
-## 2021-2025 Declasse Granger 3700LX
+## Model Polycount
 
-### File Sizes
+- L0: 139,894
+- L1: 68,426
+- L2: 33,905
+- L3: 14,210
+- L4: 1,616
 
-onx\_tfgranger\_hi.yft: 3.0MB
-onx\_tfgranger.yft: 2.4MB
-onx\_tfalamo.ytd: 1.0MB
-30 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 34
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 114,152
-L1: 46,576
-L2: 21,611
-L3: 8,882
-L4: 1,193
 
-### Textures:
+# 2026 Maibastu Sunsetter Gravediver Mobility Scooter
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 11
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2018-2026 Benefactor Jogger Cargo LWB
+- onx\_sunsetter2\_hi.yft: 1.3MB
+- onx\_sunsetter2.yft: 1.3MB
+- 0 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_tfjoggercl1\_hi.yft: 2.7MB
-onx\_tfjoggercl1.yft: 2.3MB
-onx\_tfjogger.ytd: 2.1MB
-128 yft mod parts: < 0.5MB
+- L0: 57,633
+- L1: 29,280
+- L2: 13,198
+- L3: 6,712
+- L4: 1,144
 
-### Model Polycount
+## Textures:
 
-L0: 99,116
-L1: 43,724
-L2: 17,281
-L3: 7,452
-L4: 1,200
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 0
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+# 2026 Maibastu Sunsetter Mobility Scooter
 
-## 2018-2026 Benefactor Jogger Cargo LWB Dually
+## File Sizes
 
-### File Sizes
+- onx\_sunsetter\_hi.yft: 1.0MB
+- onx\_sunsetter.yft: 0.9MB
+- onx\_sunsetter.ytd: 1.3MB
+- 24 yft mod parts: < 0.5MB
 
-onx\_tfjoggercl2\_hi.yft: 2.8MB
-onx\_tfjoggercl2.yft: 2.5MB
-onx\_tfjogger.ytd: 2.1MB
-128 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 44,129
+- L1: 20,603
+- L2: 8,654
+- L3: 4,778
+- L4: 1,272
 
-L0: 107,926
-L1: 46,788
-L2: 19,583
-L3: 8,116
-L4: 1,200
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 27
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Cargo LWB 4x4
+# 2013-2016 Vapid Tavros
 
-### File Sizes
+## File Sizes
 
-onx\_tfjoggercl3\_hi.yft: 2.8MB
-onx\_tfjoggercl3.yft: 2.3MB
-onx\_tfjogger.ytd: 2.1MB
-128 yft mod parts: < 0.5MB
+- onx\_tavros\_hi.yft: 3.5MB
+- onx\_tavros.yft: 3.3MB
+- onx\_tavros.ytd: 1.4MB
+- 81 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 105,484
-L1: 45,296
-L2: 18,216
-L3: 7,838
-L4: 1,200
+- L0: 120,843
+- L1: 57,851
+- L2: 23,518
+- L3: 10,221
+- L4: 1,200
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 18
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Cargo SWB
 
-### File Sizes
+# 2022-2024 Canis Terminus Overland
 
-onx\_tfjoggercs1\_hi.yft: 2.6MB
-onx\_tfjoggercs1.yft: 2.2MB
-onx\_tfjogger.ytd: 2.1MB
-166 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_terminus2\_hi.yft: 3.2MB
+- onx\_terminus2.yft: 2.0MB
+- onx\_terminus2.ytd: 0.7MB
+- 79 yft mod parts: < 0.5MB
 
-L0: 93,658
-L1: 42,721
-L2: 16,542
-L3: 7,438
-L4: 1,166
+## Model Polycount
 
-### Textures:
+- L0: 134,752
+- L1: 42,136
+- L2: 15,116
+- L3: 6,080
+- L4: 399
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2018-2026 Benefactor Jogger Cargo SWB Dually
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 18
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_tfjoggercs2\_hi.yft: 2.8MB
-onx\_tfjoggercs2.yft: 2.4MB
-onx\_tfjogger.ytd: 2.1MB
-166 yft mod parts: < 0.5MB
+# 2021-2025 Declasse Alamo 2700LX
 
-### Model Polycount
+## File Sizes
 
-L0: 102,968
-L1: 45,785
-L2: 18,844
-L3: 8,102
-L4: 1,166
+- onx\_tfalamo\_hi.yft: 2.9MB
+- onx\_tfalamo.yft: 2.4MB
+- onx\_tfalamo.ytd: 1.0MB
+- 30 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 110,582
+- L1: 45,766
+- L2: 21,323
+- L3: 8,794
+- L4: 1,193
 
-## 2018-2026 Benefactor Jogger Cargo SWB 4x4
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 11
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_tfjoggercs3\_hi.yft: 2.7MB
-onx\_tfjoggercs3.yft: 2.3MB
-onx\_tfjogger.ytd: 2.1MB
-166 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2019-2024 Bravado Bison 25XD
 
-L0: 100,276
-L1: 44,293
-L2: 17,477
-L3: 7,824
-L4: 1,166
+## File Sizes
 
-### Textures:
+- onx\_tfbison2\_hi.yft: 2.7MB
+- onx\_tfbison2.yft: 2.3MB
+- onx\_tfbison.ytd: 1.3MB
+- 104 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2018-2026 Benefactor Jogger Passanger LWB
+- L0: 101,507
+- L1: 42,734
+- L2: 20,239
+- L3: 8,735
+- L4: 864
 
-### File Sizes
+## Textures:
 
-onx\_tfjoggerpl1\_hi.yft: 3.0MB
-onx\_tfjoggerpl1.yft: 2.6MB
-onx\_tfjogger.ytd: 2.1MB
-92 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 11
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 111,410
-L1: 52,088
-L2: 22,074
-L3: 8,833
-L4: 1,228
+# 2019-2024 Bravado Bison 45XD
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_tfbison3\_hi.yft: 3.0MB
+- onx\_tfbison3.yft: 2.5MB
+- onx\_tfbison.ytd: 1.3MB
+- 107 yft mod parts: < 0.5MB
 
-## 2018-2026 Benefactor Jogger Passanger LWB Dually
+## Model Polycount
 
-### File Sizes
+- L0: 119,381
+- L1: 49,018
+- L2: 22,908
+- L3: 9,451
+- L4: 964
 
-onx\_tfjoggerpl2\_hi.yft: 3.1MB
-onx\_tfjoggerpl2.yft: 2.7MB
-onx\_tfjogger.ytd: 2.1MB
-92 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 11
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 119,078
-L1: 53,150
-L2: 22,875
-L3: 8,963
-L4: 1,228
 
-### Textures:
+# 2019-2024 Bravado Bison 35XD Sasquatch
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2018-2026 Benefactor Jogger Passanger LWB 4x4
+- onx\_tfbison4\_hi.yft: 3.0MB
+- onx\_tfbison4.yft: 2.5MB
+- onx\_tfbison.ytd: 1.3MB
+- 109 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_tfjoggerpl3\_hi.yft: 3.1MB
-onx\_tfjoggerpl3.yft: 2.7MB
-onx\_tfjogger.ytd: 2.1MB
-92 yft mod parts: < 0.5MB
+- L0: 114,223
+- L1: 48,700
+- L2: 21,804
+- L3: 9,312
+- L4: 954
 
-### Model Polycount
+## Textures:
 
-L0: 118,236
-L1: 53,868
-L2: 23,009
-L3: 9,219
-L4: 1,228
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 11
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+# 2019-2024 Bravado Bison 35XD
 
-## 2018-2026 Benefactor Jogger Passanger SWB
+## File Sizes
 
-### File Sizes
+- onx\_tfbison\_hi.yft: 2.9MB
+- onx\_tfbison.yft: 2.5MB
+- onx\_tfbison.ytd: 1.3MB
+- 109 yft mod parts: < 0.5MB
 
-onx\_tfjoggerps1\_hi.yft: 2.8MB
-onx\_tfjoggerps1.yft: 2.5MB
-onx\_tfjogger.ytd: 2.1MB
-92 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 112,097
+- L1: 47,806
+- L2: 22,298
+- L3: 9,125
+- L4: 954
 
-L0: 104,691
-L1: 49,454
-L2: 20,267
-L3: 8,559
-L4: 1,206
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 11
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passanger SWB Dually
+# 2019-2024 Bravado Bison 55XD Box Truck
 
-### File Sizes
+## File Sizes
 
-onx\_tfjoggerps2\_hi.yft: 3.0MB
-onx\_tfjoggerps2.yft: 2.6MB
-onx\_tfjogger.ytd: 2.1MB
-92 yft mod parts: < 0.5MB
+- onx\_tfboxson\_hi.yft: 2.6MB
+- onx\_tfboxson.yft: 2.3MB
+- onx\_tfboxson.ytd: 1.6MB
+- 78 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 112,359
-L1: 50,516
-L2: 21,068
-L3: 8,689
-L4: 1,206
+- L0: 97,616
+- L1: 41,602
+- L2: 20,340
+- L3: 8,986
+- L4: 864
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 29
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2018-2026 Benefactor Jogger Passanger SWB 4x4
 
-### File Sizes
+# 2018-2024 Vapid Sandstorm D205 Box Truck
 
-onx\_tfjoggerps3\_hi.yft: 3.0MB
-onx\_tfjoggerps3.yft: 2.6MB
-onx\_tfjogger.ytd: 2.1MB
-92 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_tfboxstorm\_hi.yft: 2.2MB
+- onx\_tfboxstorm.yft: 2.2MB
+- onx\_tfboxstorm.ytd: 1.7MB
+- 106 yft mod parts: < 0.5MB
 
-L0: 111,518
-L1: 51,235
-L2: 21,203
-L3: 8,946
-L4: 1,206
+## Model Polycount
 
-### Textures:
+- L0: 88,737
+- L1: 44,583
+- L2: 19,733
+- L3: 7,605
+- L4: 674
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 28
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2021-2025 Brute Regent
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 33
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_tfregent\_hi.yft: 2.9MB
-onx\_tfregent.yft: 2.4MB
-onx\_tfregent.ytd: 0.1MB
-28 yft mod parts: < 0.5MB
+# 2021-2025 Declasse Granger 3700LX
 
-### Model Polycount
+## File Sizes
 
-L0: 110,548
-L1: 45,274
-L2: 20,374
-L3: 8,455
-L4: 1,270
+- onx\_tfgranger\_hi.yft: 3.0MB
+- onx\_tfgranger.yft: 2.4MB
+- onx\_tfalamo.ytd: 1.0MB
+- 30 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 7
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 114,152
+- L1: 46,576
+- L2: 21,611
+- L3: 8,882
+- L4: 1,193
 
-## 2021-2025 Brute Regent XL
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 11
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_tfregentxl\_hi.yft: 3.0MB
-onx\_tfregentxl.yft: 2.4MB
-onx\_tfregent.ytd: 0.1MB
-28 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2018-2024 Vapid Sandstorm D205 Hellenbach
 
-L0: 113,910
-L1: 45,946
-L2: 20,521
-L3: 8,447
-L4: 1,270
+## File Sizes
 
-### Textures:
+- onx\_tfhellenstorm\_hi.yft: 4.1MB
+- onx\_tfhellenstorm.yft: 4.0MB
+- onx\_tfsandstorm.ytd: 2.1MB
+- 9 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 7
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2021-2025 Bison 25XD Rollback
+- L0: 156,082
+- L1: 85,991
+- L2: 35,808
+- L3: 10,863
+- L4: 1,318
 
-### File Sizes
+## Textures:
 
-onx\_tftowson\_hi.yft: 3.1MB
-onx\_tftowson.yft: 2.9MB
-onx\_tftowson.ytd: 2.9MB
-50 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 43
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 119,026
-L1: 53,834
-L2: 27,000
-L3: 12,125
-L4: 1,462
+# 2018-2026 Benefactor Jogger Cargo LWB
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 36
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_tfjoggercl1\_hi.yft: 2.7MB
+- onx\_tfjoggercl1.yft: 2.3MB
+- onx\_tfjogger.ytd: 2.1MB
+- 128 yft mod parts: < 0.5MB
 
-## 2021-2025 Bison 35XD Rollback
+## Model Polycount
 
-### File Sizes
+- L0: 99,116
+- L1: 43,724
+- L2: 17,281
+- L3: 7,452
+- L4: 1,200
 
-onx\_tftowson2\_hi.yft: 3.3MB
-onx\_tftowson2.yft: 3.1MB
-onx\_tftowson.ytd: 2.9MB
-51 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 129,018
-L1: 58,096
-L2: 29,068
-L3: 12,596
-L4: 1,552
 
-### Textures:
+# 2018-2026 Benefactor Jogger Cargo LWB Dually
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 36
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 2021-2025 Sandstorm SWB Rollback
+- onx\_tfjoggercl2\_hi.yft: 2.8MB
+- onx\_tfjoggercl2.yft: 2.5MB
+- onx\_tfjogger.ytd: 2.1MB
+- 128 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_tftowstorm\_hi.yft: 2.6MB
-onx\_tftowstorm.yft: 2.9MB
-onx\_tftowstorm.ytd: 3.2MB
-78 yft mod parts: < 0.5MB
+- L0: 107,926
+- L1: 46,788
+- L2: 19,583
+- L3: 8,116
+- L4: 1,200
 
-### Model Polycount
+## Textures:
 
-L0: 106,809
-L1: 57,091
-L2: 25,925
-L3: 10,810
-L4: 1,272
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 40
-yft Resolution for embedded liveries: Max 2048x2048
+# 2018-2026 Benefactor Jogger Cargo LWB 4x4
 
-## 2021-2025 Sandstorm Crew Cab Rollback
+## File Sizes
 
-### File Sizes
+- onx\_tfjoggercl3\_hi.yft: 2.8MB
+- onx\_tfjoggercl3.yft: 2.3MB
+- onx\_tfjogger.ytd: 2.1MB
+- 128 yft mod parts: < 0.5MB
 
-onx\_tftowstorm2\_hi.yft: 2.7MB
-onx\_tftowstorm2.yft: 3.1MB
-onx\_tftowstorm.ytd: 3.2MB
-80 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 105,484
+- L1: 45,296
+- L2: 18,216
+- L3: 7,838
+- L4: 1,200
 
-L0: 116,117
-L1: 62,683
-L2: 28,042
-L3: 11,285
-L4: 1,358
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 40
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2000-2015 Vapid Yankee C105 SWB Rollback
+# 2018-2026 Benefactor Jogger Cargo SWB
 
-### File Sizes
+## File Sizes
 
-onx\_towkee\_hi.yft: 3.7MB
-onx\_towkee.yft: 4.1MB
-onx\_towkee.ytd: 2.0MB
-5 yft mod parts: < 0.5MB
+- onx\_tfjoggercs1\_hi.yft: 2.6MB
+- onx\_tfjoggercs1.yft: 2.2MB
+- onx\_tfjogger.ytd: 2.1MB
+- 166 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 150,709
-L1: 80,961
-L2: 40,303
-L3: 16,194
-L4: 2,368
+- L0: 93,658
+- L1: 42,721
+- L2: 16,542
+- L3: 7,438
+- L4: 1,166
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 51
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2000-2015 Vapid Yankee C105 Rollback
 
-### File Sizes
+# 2018-2026 Benefactor Jogger Cargo SWB Dually
 
-onx\_towkee2\_hi.yft: 4.1MB
-onx\_towkee2.yft: 4.4MB
-onx\_towkee2.ytd: 2.0MB
-0 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_tfjoggercs2\_hi.yft: 2.8MB
+- onx\_tfjoggercs2.yft: 2.4MB
+- onx\_tfjogger.ytd: 2.1MB
+- 166 yft mod parts: < 0.5MB
 
-L0: 165,837
-L1: 88,866
-L2: 43,839
-L3: 17,240
-L4: 2,454
+## Model Polycount
 
-### Textures:
+- L0: 102,968
+- L1: 45,785
+- L2: 18,844
+- L3: 8,102
+- L4: 1,166
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 51
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
 
-## 2016-2026 Vapid Yankee C130 SWB Rollback
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### File Sizes
 
-onx\_towkee3\_hi.yft: 3.6MB
-onx\_towkee3.yft: 3.9MB
-onx\_towkee3.ytd: 2.9MB
-va\_onx\_towkee3.ycd: 0.02MB
-2 yft mod parts: < 0.5MB
+# 2018-2026 Benefactor Jogger Cargo SWB 4x4
 
-### Model Polycount
+## File Sizes
 
-L0: 143,075
-L1: 76,251
-L2: 38,414
-L3: 15,189
-L4: 1,834
+- onx\_tfjoggercs3\_hi.yft: 2.7MB
+- onx\_tfjoggercs3.yft: 2.3MB
+- onx\_tfjogger.ytd: 2.1MB
+- 166 yft mod parts: < 0.5MB
 
-### Textures:
+## Model Polycount
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 51
-yft Resolution for embedded liveries: Max 2048x2048
+- L0: 100,276
+- L1: 44,293
+- L2: 17,477
+- L3: 7,824
+- L4: 1,166
 
-## 2016-2026 Vapid Yankee C130 Rollback
+## Textures:
 
-### File Sizes
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-onx\_towkee4\_hi.yft: 4.1MB
-onx\_towkee4.yft: 4.4MB
-onx\_towkee4.ytd: 2.9MB
-0 yft mod parts: < 0.5MB
 
-### Model Polycount
+# 2018-2026 Benefactor Jogger Passanger LWB
 
-L0: 165,674
-L1: 87,751
-L2: 44,246
-L3: 16,631
-L4: 2,032
+## File Sizes
 
-### Textures:
+- onx\_tfjoggerpl1\_hi.yft: 3.0MB
+- onx\_tfjoggerpl1.yft: 2.6MB
+- onx\_tfjogger.ytd: 2.1MB
+- 92 yft mod parts: < 0.5MB
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 51
-yft Resolution for embedded liveries: Max 2048x2048
+## Model Polycount
 
-## 2011-2016 Vapid Sandking D155 Rollback
+- L0: 111,410
+- L1: 52,088
+- L2: 22,074
+- L3: 8,833
+- L4: 1,228
 
-### File Sizes
+## Textures:
 
-onx\_towking\_hi.yft: 3.3MB
-onx\_towking.yft: 3.3MB
-onx\_towking.ytd: 2.9MB
-39 yft mod parts: < 0.5MB
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Model Polycount
 
-L0: 127,648
-L1: 62,617
-L2: 31,253
-L3: 12,794
-L4: 1,496
+# 2018-2026 Benefactor Jogger Passanger LWB Dually
 
-### Textures:
+## File Sizes
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 38
-yft Resolution for embedded liveries: Max 2048x2048
+- onx\_tfjoggerpl2\_hi.yft: 3.1MB
+- onx\_tfjoggerpl2.yft: 2.7MB
+- onx\_tfjogger.ytd: 2.1MB
+- 92 yft mod parts: < 0.5MB
 
-## 2011-2016 Vapid Sandking D155 Crew Cab Rollback
+## Model Polycount
 
-### File Sizes
+- L0: 119,078
+- L1: 53,150
+- L2: 22,875
+- L3: 8,963
+- L4: 1,228
 
-onx\_towking2\_hi.yft: 3.6MB
-onx\_towking2.yft: 3.5MB
-onx\_towking.ytd: 2.9MB
-41 yft mod parts: < 0.5MB
+## Textures:
 
-### Model Polycount
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-L0: 140,880
-L1: 68,741
-L2: 33,771
-L3: 13,504
-L4: 1,658
 
-### Textures:
+# 2018-2026 Benefactor Jogger Passanger LWB 4x4
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 38
-yft Resolution for embedded liveries: Max 2048x2048
+## File Sizes
 
-## 1978-1983 Declasse Tulip M-100 Coupe
+- onx\_tfjoggerpl3\_hi.yft: 3.1MB
+- onx\_tfjoggerpl3.yft: 2.7MB
+- onx\_tfjogger.ytd: 2.1MB
+- 92 yft mod parts: < 0.5MB
 
-### File Sizes
+## Model Polycount
 
-onx\_tulip2c\_hi.yft: 1.9MB
-onx\_tulip2c.yft: 1.3MB
-onx\_tulip2c.ytd: 0.1MB
-0 yft mod parts: < 0.5MB
+- L0: 118,236
+- L1: 53,868
+- L2: 23,009
+- L3: 9,219
+- L4: 1,228
 
-### Model Polycount
+## Textures:
 
-L0: 95,611
-L1: 24,899
-L2: 12,191
-L3: 9,093
-L4: 341
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-### Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 10
-yft Resolution for embedded liveries: Max 2048x2048
+# 2018-2026 Benefactor Jogger Passanger SWB
 
-## 2006-2026 Dinka Verus Utility
+## File Sizes
 
-### File Sizes
+- onx\_tfjoggerps1\_hi.yft: 2.8MB
+- onx\_tfjoggerps1.yft: 2.5MB
+- onx\_tfjogger.ytd: 2.1MB
+- 92 yft mod parts: < 0.5MB
 
-onx\_verus\_hi.yft: 2.2MB
-onx\_verus.yft: 1.4MB
-onx\_verus.ytd: 1.3MB
-3 yft mod parts: < 0.5MB
+## Model Polycount
 
-### Model Polycount
+- L0: 104,691
+- L1: 49,454
+- L2: 20,267
+- L3: 8,559
+- L4: 1,206
 
-L0: 98,513
-L1: 27,299
-L2: 13,951
-L3: 6,700
-L4: 846
+## Textures:
 
-### Textures:
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 54
-yft Resolution for embedded liveries: Max 2048x2048
 
-## 2026 Maibastu Sunsetter Mobility Scooter
+# 2018-2026 Benefactor Jogger Passanger SWB Dually
 
-### File Sizes
+## File Sizes
 
-onx\_sunsetter\_hi.yft: 1.0MB
-onx\_sunsetter.yft: 0.9MB
-onx\_sunsetter.ytd: 1.3MB
-24 yft mod parts: < 0.5MB
+- onx\_tfjoggerps2\_hi.yft: 3.0MB
+- onx\_tfjoggerps2.yft: 2.6MB
+- onx\_tfjogger.ytd: 2.1MB
+- 92 yft mod parts: < 0.5MB
 
-### Model Polycount
+## Model Polycount
 
-L0: 44,129
-L1: 20,603
-L2: 8,654
-L3: 4,778
-L4: 1,272
+- L0: 112,359
+- L1: 50,516
+- L2: 21,068
+- L3: 8,689
+- L4: 1,206
 
-### Textures:
+## Textures:
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 27
-yft Resolution for embedded liveries: Max 2048x2048
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
 
-## 2026 Maibastu Sunsetter Gravediver Mobility Scooter
 
-### File Sizes
+# 2018-2026 Benefactor Jogger Passanger SWB 4x4
 
-onx\_sunsetter2\_hi.yft: 1.3MB
-onx\_sunsetter2.yft: 1.3MB
-0 yft mod parts: < 0.5MB
+## File Sizes
 
-### Model Polycount
+- onx\_tfjoggerps3\_hi.yft: 3.0MB
+- onx\_tfjoggerps3.yft: 2.6MB
+- onx\_tfjogger.ytd: 2.1MB
+- 92 yft mod parts: < 0.5MB
 
-L0: 57,633
-L1: 29,280
-L2: 13,198
-L3: 6,712
-L4: 1,144
+## Model Polycount
 
-### Textures:
+- L0: 111,518
+- L1: 51,235
+- L2: 21,203
+- L3: 8,946
+- L4: 1,206
 
-ytd Resolution: Max 1024x1024
-ytd Texture count: 0
-yft Resolution for embedded liveries: Max 2048x2048
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 28
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2021-2025 Brute Regent
+
+## File Sizes
+
+- onx\_tfregent\_hi.yft: 2.9MB
+- onx\_tfregent.yft: 2.4MB
+- onx\_tfregent.ytd: 0.1MB
+- 28 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 110,548
+- L1: 45,274
+- L2: 20,374
+- L3: 8,455
+- L4: 1,270
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 7
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2021-2025 Brute Regent XL
+
+## File Sizes
+
+- onx\_tfregentxl\_hi.yft: 3.0MB
+- onx\_tfregentxl.yft: 2.4MB
+- onx\_tfregent.ytd: 0.1MB
+- 28 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 113,910
+- L1: 45,946
+- L2: 20,521
+- L3: 8,447
+- L4: 1,270
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 7
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2018-2024 Vapid Sandstorm D205 L
+
+## File Sizes
+
+- onx\_tfsandstorm2\_hi.yft: 3.8MB
+- onx\_tfsandstorm2.yft: 3.7MB
+- onx\_tfsandstorm.ytd: 2.1MB
+- 33 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 147,115
+- L1: 77,550
+- L2: 32,622
+- L3: 10,754
+- L4: 1,406
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 43
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2018-2024 Vapid Sandstorm D205 XL
+
+## File Sizes
+
+- onx\_tfsandstorm3\_hi.yft: 3.8MB
+- onx\_tfsandstorm3.yft: 3.7MB
+- onx\_tfsandstorm.ytd: 2.1MB
+- 3 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 147,966
+- L1: 78,254
+- L2: 32,752
+- L3: 10,792
+- L4: 1,406
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 43
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2018-2024 Vapid Sandstorm D205 LWB
+
+## File Sizes
+
+- onx\_tfsandstorm4\_hi.yft: 3.6MB
+- onx\_tfsandstorm4.yft: 3.5MB
+- onx\_tfsandstorm.ytd: 2.1MB
+- 22 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 136,200
+- L1: 72,077
+- L2: 30,569
+- L3: 10,318
+- L4: 1,268
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 43
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2018-2024 Vapid Sandstorm D205 SWB
+
+## File Sizes
+
+- onx\_tfsandstorm5\_hi.yft: 3.2MB
+- onx\_tfsandstorm5.yft: 3.1MB
+- onx\_tfsandstorm.ytd: 2.1MB
+- 32 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 120,797
+- L1: 63,797
+- L2: 27,664
+- L3: 9,614
+- L4: 1,166
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 43
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2018-2024 Vapid Sandstorm D205
+
+## File Sizes
+
+- onx\_tfsandstorm\_hi.yft: 3.6MB
+- onx\_tfsandstorm.yft: 3.6MB
+- onx\_tfsandstorm.ytd: 2.1MB
+- vehicles\_onx\_tfsandstorm\_interior.ytd: 1.1MB
+- 174 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 136,437
+- L1: 73,377
+- L2: 31,829
+- L3: 10,676
+- L4: 1,294
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 43
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2021-2025 Bison 35XD Rollback
+
+## File Sizes
+
+- onx\_tftowson2\_hi.yft: 3.3MB
+- onx\_tftowson2.yft: 3.1MB
+- onx\_tftowson.ytd: 2.9MB
+- 51 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 129,018
+- L1: 58,096
+- L2: 29,068
+- L3: 12,596
+- L4: 1,552
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 36
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2021-2025 Bison 25XD Rollback
+
+## File Sizes
+
+- onx\_tftowson\_hi.yft: 3.1MB
+- onx\_tftowson.yft: 2.9MB
+- onx\_tftowson.ytd: 2.9MB
+- 50 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 119,026
+- L1: 53,834
+- L2: 27,000
+- L3: 12,125
+- L4: 1,462
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 36
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2021-2025 Sandstorm Crew Cab Rollback
+
+## File Sizes
+
+- onx\_tftowstorm2\_hi.yft: 3.9MB
+- onx\_tftowstorm2.yft: 4.0MB
+- onx\_tftowstorm.ytd: 2.9MB
+
+## Model Polycount
+
+- L0: 152,059
+- L1: 81,805
+- L2: 36,695
+- L3: 13,156
+- L4: 1,738
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 45
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2021-2025 Sandstorm SWB Rollback
+
+## File Sizes
+
+- onx\_tftowstorm\_hi.yft: 3.6MB
+- onx\_tftowstorm.yft: 7.7MB
+- onx\_tftowstorm.ytd: 2.9MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 139,972
+- L1: 74,621
+- L2: 34,080
+- L3: 12,439
+- L4: 1,632
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 45
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2000-2015 Vapid Yankee C105 Rollback
+
+## File Sizes
+
+- onx\_towkee2\_hi.yft: 4.1MB
+- onx\_towkee2.yft: 4.4MB
+- onx\_towkee2.ytd: 2.0MB
+- 0 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 165,837
+- L1: 88,866
+- L2: 43,839
+- L3: 17,240
+- L4: 2,454
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 51
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2016-2026 Vapid Yankee C130 SWB Rollback
+
+## File Sizes
+
+- onx\_towkee3\_hi.yft: 3.6MB
+- onx\_towkee3.yft: 3.9MB
+- onx\_towkee3.ytd: 2.9MB
+- va\_onx\_towkee3.ycd: 0.02MB
+- 2 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 143,075
+- L1: 76,251
+- L2: 38,414
+- L3: 15,189
+- L4: 1,834
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 51
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2016-2026 Vapid Yankee C130 Rollback
+
+## File Sizes
+
+- onx\_towkee4\_hi.yft: 4.1MB
+- onx\_towkee4.yft: 4.4MB
+- onx\_towkee4.ytd: 2.9MB
+- 0 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 165,674
+- L1: 87,751
+- L2: 44,246
+- L3: 16,631
+- L4: 2,032
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 51
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2000-2015 Vapid Yankee C105 SWB Rollback
+
+## File Sizes
+
+- onx\_towkee\_hi.yft: 3.7MB
+- onx\_towkee.yft: 4.1MB
+- onx\_towkee.ytd: 2.0MB
+- 5 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 150,709
+- L1: 80,961
+- L2: 40,303
+- L3: 16,194
+- L4: 2,368
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 51
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2011-2016 Vapid Sandking D155 Crew Cab Rollback
+
+## File Sizes
+
+- onx\_towking2\_hi.yft: 3.6MB
+- onx\_towking2.yft: 3.5MB
+- onx\_towking.ytd: 2.9MB
+- 41 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 140,880
+- L1: 68,741
+- L2: 33,771
+- L3: 13,504
+- L4: 1,658
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 38
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2011-2016 Vapid Sandking D155 Rollback
+
+## File Sizes
+
+- onx\_towking\_hi.yft: 3.3MB
+- onx\_towking.yft: 3.3MB
+- onx\_towking.ytd: 2.9MB
+- 39 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 127,648
+- L1: 62,617
+- L2: 31,253
+- L3: 12,794
+- L4: 1,496
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 38
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 1978-1983 Declasse Tulip M-100 Coupe
+
+## File Sizes
+
+- onx\_tulip2c\_hi.yft: 1.9MB
+- onx\_tulip2c.yft: 1.3MB
+- onx\_tulip2c.ytd: 0.1MB
+- 0 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 95,611
+- L1: 24,899
+- L2: 12,191
+- L3: 9,093
+- L4: 341
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 10
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2006-2026 Dinka Verus Utility
+
+## File Sizes
+
+- onx\_verus\_hi.yft: 2.2MB
+- onx\_verus.yft: 1.4MB
+- onx\_verus.ytd: 1.3MB
+- 3 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 98,513
+- L1: 27,299
+- L2: 13,951
+- L3: 6,700
+- L4: 846
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 54
+- yft Resolution for embedded liveries: Max 2048x2048
