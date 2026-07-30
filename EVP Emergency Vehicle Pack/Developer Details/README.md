@@ -143,7 +143,7 @@ ytd Resolution: Max 1024x1024
 ytd Texture count: 58
 yft Resolution for embedded liveries: Max 2048x2048
 
-## 2011-2016 Vapid Sandking Ambulance Type 1
+## 2022-2025 Vapid Sandking Ambulance Type 1
 
 ### File Sizes
 
@@ -165,6 +165,76 @@ L4: 1,584
 
 ytd Resolution: Max 1024x1024
 ytd Texture count: 57
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2022-2025 Vapid Sandking Ambulance Type 1
+
+### File Sizes
+
+onx\_ambstorm\_hi.yft: 4.0MB
+onx\_ambstorm.yft: 4.1MB
+onx\_ambstorm.ytd: 3.2MB
+vehicles\_onx\_ambstorm\_interior.ytd: 1.2MB
+14 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 169,339
+L1: 97,433
+L2: 39,002
+L3: 13,774
+L4: 1,909
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 69
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2010-2026 Spear Impulse Firetruck
+
+### File Sizes
+
+onx\_fireimpulse\_hi.yft: 8.1MB
+onx\_fireimpulse.yft: 5.8MB
+onx\_fireimpulse.ytd: 3.6MB
+42 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 274,533
+L1: 121,232
+L2: 49,055
+L3: 22,046
+L4: 1,328
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 53
+yft Resolution for embedded liveries: Max 2048x2048
+
+## 2010-2026 Brenner Starkstrom Firetruck
+
+### File Sizes
+
+onx\_firestark\_hi.yft: 4.2MB
+onx\_firestark.yft: 4.2MB
+onx\_firestark.ytd: 1.8MB
+42 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+L0: 186,570
+L1: 105,179
+L2: 42,779
+L3: 12,526
+L4: 1,264
+
+### Textures:
+
+ytd Resolution: Max 1024x1024
+ytd Texture count: 34
 yft Resolution for embedded liveries: Max 2048x2048
 
 ## 2020-2026 Brute EjectoLift NX
