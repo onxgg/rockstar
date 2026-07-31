@@ -174,9 +174,9 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Sandking D155 SWB Compensator (2011-2016) `onx_sandking5`
 - Sandking D155 XL Compensator (2011-2016) `onx_sandking6`
 - Sandking D155 Boxtruck (2011-2016) `onx_boxking`
-- Sandstorm D205 Boxtruck (2018-2024) `onx_tfboxstorm`
-- Sandstorm SWB Rollback (2018-2024) `onx_tftowstorm`
-- Sandstorm Crew Cab Rollback (2018-2024) `onx_tftowstorm2`
+- Sandstorm D205 Boxtruck Legacy (2018-2024) `onx_boxstorm`
+- Sandstorm SWB Rollback Legacy (2018-2024) `onx_towstorm`
+- Sandstorm Crew Cab Rollback Legacy (2018-2024) `onx_towstorm2`
 - Sandking D155 Rollback (2011-2016) `onx_towking`
 - Sandking D155 Crew Cab Rollback (2011-2016) `onx_towking2`
 - Sandking D155 Snowplow (2011-2016) `onx_snowsandk`
@@ -201,6 +201,9 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Sandstorm D205 LWB (2022-2025) `onx_tfsandstorm4`
 - Sandstorm D205 SWB (2022-2025) `onx_tfsandstorm5`
 - Sandstorm D205 Hellenbach (2022-2025) `onx_tfhellenstorm`
+- Sandstorm D205 Boxtruck (2018-2024) `onx_tfboxstorm`
+- Sandstorm SWB Rollback (2018-2024) `onx_tftowstorm`
+- Sandstorm Crew Cab Rollback (2018-2024) `onx_tftowstorm2`
 
 ### Bravado
 - Bison 35XD (2022-2025) `onx_tfbison`
