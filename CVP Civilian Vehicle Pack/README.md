@@ -32,6 +32,8 @@ Documentation folders:
   * [Benefactor](#benefactor)
   * [Canis](#canis)
   * [Brute](#brute)
+  * [Dinka](#dinka)
+  * [Annis](#annis)
 
 * [Custom liveries](#custom-liveries)
 * [Developer details](#developer-details)
@@ -158,10 +160,10 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 
 ### Vapid
 - Dominator GT (2018-2023) `onx_domgtcoupe`
-- Sandstorm D205 (2022-2025) `onx_sandstorm`
-- Sandstorm D205 SWB (2022-2025) `onx_sandstorm2`
-- Sandstorm D205 XL (2022-2025) `onx_sandstormxl`
-- Sandstorm D205 Hellenbach (2022-2025) `onx_sandstormh`
+- Sandstorm D205 Legacy (2022-2025) `onx_sandstorm`
+- Sandstorm D205 SWB Legacy (2022-2025) `onx_sandstorm2`
+- Sandstorm D205 XL Legacy (2022-2025) `onx_sandstormxl`
+- Sandstorm D205 Hellenbach Legacy (2022-2025) `onx_sandstormh`
 - Scout SR (2024-2025) `onx_scout25`
 - Scout Classic (1991-1994) `onx_scoutc`
 - Tavros (2013-2016) `onx_tavros`
@@ -188,6 +190,17 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Yankee C105 SWB Rollback (2000-2015) `onx_towkee2`
 - Yankee C130 Rollback (2016-2026) `onx_towkee3`
 - Yankee C130 SWB Rollback (2016-2026) `onx_towkee4`
+- Sandking D155 CIT (2011-2016) `onx_bankking`
+- Yankee C105 Box Truck (2000-2015) `onx_boxkee`
+- Yankee C105 LWB Box Truck (2000-2015) `onx_boxkee2`
+- Yankee C130 Box Truck (2016-2026) `onx_boxkee3`
+- Yankee C130 LWB Box Truck (2016-2026) `onx_boxkee4`
+- Sandstorm D205 (2022-2025) `onx_tfsandstorm`
+- Sandstorm D205 L (2022-2025) `onx_tfsandstorm2`
+- Sandstorm D205 XL (2022-2025) `onx_tfsandstorm3`
+- Sandstorm D205 LWB (2022-2025) `onx_tfsandstorm4`
+- Sandstorm D205 SWB (2022-2025) `onx_tfsandstorm5`
+- Sandstorm D205 Hellenbach (2022-2025) `onx_tfhellenstorm`
 
 ### Bravado
 - Bison 35XD (2022-2025) `onx_tfbison`
@@ -200,6 +213,8 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Bison 55XD Boxtruck (2022-2025) `onx_tfboxson`
 - Bison 25XD Rollback (2022-2025) `onx_tftowson`
 - Bison 35XD Rollback (2022-2025) `onx_tftowson2`
+- Bison 35XD CIT (2018-2025) `onx_bankson2`
+- Buffalo STX8 (2006-2010) `onx_buffalostx8`
 
 ### Buckingham
 - Maverick (2007-2013) `onx_maverick`
@@ -237,6 +252,15 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Regent XL (2022-2025) `onx_tfregentxl`
 - Cartrailer (2020-2025) `onx_cartrail`
 - Cartrailer XL (2020-2025) `onx_cartrail2`
+
+### Dinka
+- Verus Utility (2006-2026) `onx_verus`
+- ATV Trailer (2025) `onx_atvtrailer`
+
+### Annis
+- Elegy RH-9 (2017-2024) `onx_elegyrh9`
+- Elegy RH-9 6STR Edition (2017-2024) `onx_elegyrh92`
+- Elegy RH-7 (1999-2002) `onx_elegyrh7`
 
 ---
 
