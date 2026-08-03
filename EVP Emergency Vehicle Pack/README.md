@@ -168,10 +168,10 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 * Caracara Raid (2017-2020) `onx_polcara`
 * Dominator GT (2018-2023) `onx_poldom`
 * Monarch (1998-2011) `onx_polmonar`
-* Sandstorm D205 (2022-2025) `onx_polsand`
-* Sandstorm D205 SWB (2022-2025) `onx_polsandsc`
-* Sandstorm D205 XL (2022-2025) `onx_polsandxl`
-* Sandstorm D205 Hellenbach (2022-2025) `onx_polsandh`
+* Sandstorm D205 Legacy (2022-2025) `onx_polsand0`
+* Sandstorm D205 SWB Legacy (2022-2025) `onx_polsand0sc`
+* Sandstorm D205 XL Legacy (2022-2025) `onx_polsand0xl`
+* Sandstorm D205 Hellenbach Legacy (2022-2025) `onx_polsand0h`
 * Scout (2024-2025) `onx_polscout`
 * Scout Classic (1991-1994) `onx_polscout2`
 * Tavros (2013-2016) `onx_poltavros`
@@ -188,6 +188,11 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 * Yankee C105 Ambulance Type 1 (2000-2015) `onx_ambkee`
 * Yankee C130 Ambulance Type 1 (2016-2026) `onx_ambkee`
 * Sandking Ambulance Type 1 (2011-2016) `onx_ambking`
+* Sandstorm D205 (2022-2025) `onx_polsand`
+* Sandstorm D205 SWB (2022-2025) `onx_polsandsc`
+* Sandstorm D205 XL (2022-2025) `onx_polsandxl`
+* Sandstorm D205 Hellenbach (2022-2025) `onx_polsandh`
+* Sandstorm D205 LWB (2022-2025) `onx_polsandlwb`
 
 ### Bravado
 
@@ -244,13 +249,21 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 
 ### Benefactor
 
-* Benefactor Jogger LWB (2018-2026) `onx_poljog`
-* Benefactor Jogger SWB (2018-2026) `onx_poljog2`
-* Benefactor Jogger LWB Transport (2018-2026) `onx_poljog3`
-* Benefactor Jogger SWB Transport (2018-2026) `onx_poljog4`
+* Jogger LWB (2018-2026) `onx_poljog`
+* Jogger SWB (2018-2026) `onx_poljog2`
+* Jogger LWB Transport (2018-2026) `onx_poljog3`
+* Jogger SWB Transport (2018-2026) `onx_poljog4`
 * Jogger Ambulance Type 3 (2018-2026) `onx_ambjog`
 * Jogger Ambulance Type 2 (2018-2026) `onx_ambjog2`
 * Jogger 4x4 Ambulance Type 2 (2018-2026) `onx_ambjog3`
+
+### Spear
+
+* Impulse Firetruck (2010-2026) `onx_fireimpulse`
+
+### Brenner
+
+* Starkstrom Firetruck (2024-2026) `onx_firestark`
 
 ---
 

@@ -428,6 +428,30 @@
 - yft Resolution for embedded liveries: Max 2048x2048
 
 
+# 2017-2024 Annis Elegy RH-7
+
+## File Sizes
+
+- onx\_elegyrh7\_hi.yft: 4.6MB
+- onx\_elegyrh7.yft: 4.6MB
+- onx\_elegyrh7.ytd: 1.0MB
+- 75 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 153,836
+- L1: N/A
+- L2: N/A
+- L3: N/A
+- L4: N/A
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 24
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
 # 2017-2024 Annis Elegy RH-9
 
 ## File Sizes
@@ -444,6 +468,30 @@
 - L2: 23,037
 - L3: 10,223
 - L4: 658
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 13
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2017-2024 Annis Elegy RH-9 6STR Edition
+
+## File Sizes
+
+- onx\_elegyrh92\_hi.yft: 4.9MB
+- onx\_elegyrh92.yft: 4.9MB
+- onx\_elegyrh92.ytd: 2.3MB
+- 8 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 163,125
+- L1: 82,081
+- L2: 32,103
+- L3: 17,476
+- L4: 706
 
 ## Textures:
 
