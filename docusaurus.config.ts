@@ -3,6 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import onxDark from './src/theme/prism-onx';
 import remarkDownloadList from './src/remark/download-list';
+import remarkVideo from './src/remark/video';
 
 const GITHUB_REPO = 'https://github.com/onxgg/rockstar';
 
@@ -51,7 +52,8 @@ const config: Config = {
           // links this plugin generates still get asset-hashed and validated like any
           // hand-written markdown link, instead of passing through as raw `/downloads/...`
           // hrefs that the broken-link checker can't vouch for.
-          beforeDefaultRemarkPlugins: [remarkDownloadList],
+          // remarkVideo likewise has to claim .mp4/.webm images before transformImage turns them into <img>.
+          beforeDefaultRemarkPlugins: [remarkDownloadList, remarkVideo],
         },
         blog: false,
         theme: {

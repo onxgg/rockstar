@@ -485,3 +485,10 @@ mark {
     scrollbar-color: rgba(255, 255, 255, 0.18) transparent;
   }
 }
+
+.onx-video {
+  display: block;
+  width: 100%;
+  border-radius: 8px;
+  background: #000;
+}
