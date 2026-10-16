@@ -96,6 +96,31 @@ title: CVP Developer Details
 - ytd Texture count: 32
 - yft Resolution for embedded liveries: Max 2048x2048
 
+
+# 2018-2025 Bravado Bison 45XD CIT
+
+## File Sizes
+
+- onx\_bankson\_hi.yft: 3.4MB
+- onx\_bankson.yft: 3.7MB
+- onx\_bankson.ytd: 1.5MB
+- 22 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 127,457
+- L1: 64,006
+- L2: 29,708
+- L3: 13,332
+- L4: 1,950
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 40
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
 # 2018-2025 Bravado Bison 35XD CIT
 
 ## File Sizes
@@ -112,6 +137,30 @@ title: CVP Developer Details
 - L2: 23,659
 - L3: 10,109
 - L4: 974
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 40
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2018-2025 Bravado Bison 45XD LWB CIT
+
+## File Sizes
+
+- onx\_bankson3\_hi.yft: 3.5MB
+- onx\_bankson3.yft: 3.8MB
+- onx\_bankson.ytd: 1.5MB
+- 22 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 128,329
+- L1: 64,342
+- L2: 29,850
+- L3: 13,493
+- L4: 1,950
 
 ## Textures:
 
@@ -230,6 +279,32 @@ title: CVP Developer Details
 - ytd Resolution: Max 1024x1024
 - ytd Texture count: 33
 - yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2011-2016 Vapid Sadler D105 Box Truck
+
+## File Sizes
+
+- onx\_boxsadler\_hi.yft: 2.9MB
+- onx\_boxsadler.yft: 2.9MB
+- onx\_boxsadler.ytd: 1.0MB
+- vehicles\_onx\_boxsadler\_interior.ytd: 1.2MB
+- 8 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 108,487
+- L1: 52,713
+- L2: 27,419
+- L3: 9,857
+- L4: 983
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 41
+- yft Resolution for embedded liveries: Max 2048x2048
+
 
 # 2015-2023 Bravado Buffalo A/C Sport
 
@@ -484,6 +559,31 @@ title: CVP Developer Details
 - ytd Texture count: 13
 - yft Resolution for embedded liveries: Max 2048x2048
 
+
+# 2014-2025 Bravado Gauntlet STX
+
+## File Sizes
+
+- onx\_gauntletstx\_hi.yft: 3.3MB
+- onx\_gauntletstx.yft: 2.3MB
+- onx\_gauntletstx.ytd: 0.4MB
+- 46 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 118,900
+- L1: 38,013
+- L2: 16,412
+- L3: 8,368
+- L4: 962
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 14
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
 # 2015-2020 Declasse Granger 3600LX
 
 ## File Sizes
@@ -689,6 +789,31 @@ title: CVP Developer Details
 - ytd Texture count: 29
 - yft Resolution for embedded liveries: Max 2048x2048
 
+
+# 1993-2002 Dinka Jester RS
+
+## File Sizes
+
+- onx\_jester\_hi.yft: 2.9MB
+- onx\_jester.yft: 2.9MB
+- onx\_jester.ytd: 1.1MB
+- 107 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 116,285
+- L1: 58,085
+- L2: 25,902
+- L3: 9,865
+- L4: 906
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 30
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
 # 2020-2024 Ubermacht Kandra
 
 ## File Sizes
@@ -804,6 +929,169 @@ title: CVP Developer Details
 - ytd Resolution: Max 1024x1024
 - ytd Texture count: 7
 - yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2020-2027 Brute Payday
+
+## File Sizes
+
+- onx\_payday\_hi.yft: 3.4MB
+- onx\_payday.yft: 3.7MB
+- onx\_payday.ytd: 1.4MB
+- 22 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 115,351
+- L1: 63,897
+- L2: 30,117
+- L3: 11,812
+- L4: 696
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 35
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 1998-2007 Vapid Sadler D105
+
+## File Sizes
+
+- onx\_sadler\_hi.yft: 3.8MB
+- onx\_sadler.yft: 3.7MB
+- onx\_sadler.ytd: 0.8MB
+- vehicles\_onx\_sadler\_interior.ytd: 0.7MB
+- 42 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 126,994
+- L1: 61,341
+- L2: 30,099
+- L3: 10,586
+- L4: 1,202
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 33
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 1998-2007 Vapid Sadler D105 SWB
+
+## File Sizes
+
+- onx\_sadler2\_hi.yft: 3.1MB
+- onx\_sadler2.yft: 3.1MB
+- 8 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 113,702
+- L1: 55,304
+- L2: 26,691
+- L3: 9,840
+- L4: 1,098
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 33
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 1998-2007 Vapid Sadler D105 XL
+
+## File Sizes
+
+- onx\_sadler3\_hi.yft: 3.8MB
+- onx\_sadler3.yft: 3.7MB
+- 1 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 133,221
+- L1: 64,543
+- L2: 31,183
+- L3: 11,185
+- L4: 1,254
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 33
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 1998-2007 Vapid Sadler D105 Compensator
+
+## File Sizes
+
+- onx\_sadler4\_hi.yft: 4.5MB
+- onx\_sadler4.yft: 4.3MB
+- onx\_sadler4.ytd: 1.2MB
+
+## Model Polycount
+
+- L0: 154,154
+- L1: 74,772
+- L2: 34,642
+- L3: 12,252
+- L4: 1,234
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 33
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 1998-2007 Vapid Sadler D105 SWB Compensator
+
+## File Sizes
+
+- onx\_sadler5\_hi.yft: 3.9MB
+- onx\_sadler5.yft: 3.7MB
+
+## Model Polycount
+
+- L0: 137,866
+- L1: 68,735
+- L2: 31,234
+- L3: 11,542
+- L4: 1,074
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 33
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 1998-2007 Vapid Sadler D105 XL Compensator
+
+## File Sizes
+
+- onx\_sadler6\_hi.yft: 5.0MB
+- onx\_sadler6.yft: 4.5MB
+
+## Model Polycount
+
+- L0: 168,922
+- L1: 82,320
+- L2: 36,472
+- L3: 12,887
+- L4: 1,286
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 33
+- yft Resolution for embedded liveries: Max 2048x2048
+
 
 # 2011-2016 Vapid Sandking D155 SWB
 
@@ -2115,6 +2403,57 @@ title: CVP Developer Details
 - ytd Resolution: Max 1024x1024
 - ytd Texture count: 38
 - yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2011-2016 Vapid Sadler D105 Rollback
+
+## File Sizes
+
+- onx\_towsadler\_hi.yft: 3.6MB
+- onx\_towsadler.yft: 3.7MB
+- onx\_towsadler.ytd: 2.5MB
+- vehicles\_onx\_towsadler\_interior.ytd: 0.7MB
+- 2 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 139,373
+- L1: 69,940
+- L2: 36,100
+- L3: 14,070
+- L4: 2,200
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 48
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2011-2016 Vapid Sadler D105 Crew Cab Rollback
+
+## File Sizes
+
+- onx\_towsadler2\_hi.yft: 4.0MB
+- onx\_towsadler2.yft: 4.1MB
+- onx\_towsadler.ytd: 2.5MB
+- vehicles\_onx\_towsadler\_interior.ytd: 0.7MB
+- 1 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 149,967
+- L1: 74,993
+- L2: 38,002
+- L3: 14,598
+- L4: 2,304
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 48
+- yft Resolution for embedded liveries: Max 2048x2048
+
 
 # 1978-1983 Declasse Tulip M-100 Coupe
 

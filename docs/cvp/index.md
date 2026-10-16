@@ -211,6 +211,15 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Sandstorm D205 Boxtruck (2018-2024) `onx_tfboxstorm`
 - Sandstorm SWB Rollback (2018-2024) `onx_tftowstorm`
 - Sandstorm Crew Cab Rollback (2018-2024) `onx_tftowstorm2`
+- Sadler D105 (1998-2007) `onx_sadler`
+- Sadler D105 SWB (1998-2007) `onx_sadler2`
+- Sadler D105 XL (1998-2007) `onx_sadler3`
+- Sadler D105 Compensator (1998-2007) `onx_sadler4`
+- Sadler D105 SWB  Compensator (1998-2007) `onx_sadler5`
+- Sadler D105 XL Compensator (1998-2007) `onx_sadler6`
+- Sadler D105 Box Truck (1998-2007) `onx_boxsadler`
+- Sadler D105 Rollback (1998-2007) `onx_towsadler`
+- Sadler D105 Crew Cab Rollback (1998-2007) `onx_towsadler2`
 
 ### Bravado
 
@@ -224,8 +233,11 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Bison 55XD Boxtruck (2022-2025) `onx_tfboxson`
 - Bison 25XD Rollback (2022-2025) `onx_tftowson`
 - Bison 35XD Rollback (2022-2025) `onx_tftowson2`
+- Bison 45XD CIT (2018-2025) `onx_bankson`
 - Bison 35XD CIT (2018-2025) `onx_bankson2`
+- Bison 45XD LWB CIT (2018-2025) `onx_bankson3`
 - Buffalo STX8 (2006-2010) `onx_buffalostx8`
+- Gauntlet STX (2014-2025) `onx_gauntletstx`
 
 ### Buckingham
 
@@ -269,11 +281,13 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 - Regent XL (2022-2025) `onx_tfregentxl`
 - Cartrailer (2020-2025) `onx_cartrail`
 - Cartrailer XL (2020-2025) `onx_cartrail2`
+- Payday (2020-2027) `onx_payday`
 
 ### Dinka
 
 - Verus Utility (2006-2026) `onx_verus`
 - ATV Trailer (2025) `onx_atvtrailer`
+- Jester RS (1993-2002) `onx_jester`
 
 ### Annis
 

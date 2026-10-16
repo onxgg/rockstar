@@ -37,6 +37,8 @@ Documentation pages:
   - [Dundreary](#dundreary)
   - [Dinka](#dinka)
   - [Benefactor](#benefactor)
+  - [Spear](#spear)
+  - [Brenner](#brenner)
 
 - [Extras](#extras)
 - [Custom liveries](#custom-liveries)
@@ -265,6 +267,10 @@ Use the spawn codes below in your vehicle spawner, menu, or command system.
 ### Spear
 
 - Impulse Firetruck (2010-2026) `onx_fireimpulse`
+- Impulse Ladder Firetruck (2010-2026) `onx_fireladder`
+- Impulse Ladder z_aerial Firetruck (2010-2026) `onx_fireladder_zea`
+- Impulse Rescue Firetruck (2010-2026) `onx_firerescue`
+- Impulse Command Firetruck (2010-2026) `onx_firecommand`
 
 ### Brenner
 
