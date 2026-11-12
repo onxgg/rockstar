@@ -661,6 +661,30 @@ title: EVP Developer Details
 - ytd Texture count: 50
 - yft Resolution for embedded liveries: Max 2048x2048
 
+## 2010-2026 Spear Impulse Command Police
+
+### File Sizes
+
+- onx\_polcommand\_hi.yft: 8.2MB
+- onx\_polcommand.yft: 5.9MB
+- onx\_polcommand.ytd: 3.2MB
+- va\_onx\_polcommand.ycd: 1.0KB
+- 3 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+- L0: 276,810
+- L1: 101,990
+- L2: 47,967
+- L3: 42,937
+- L4: 2,358
+
+### Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 81
+- yft Resolution for embedded liveries: Max 4096x4096
+
 ## 2022-2025 Buckingham Conada (Emergency)
 
 ### File Sizes
