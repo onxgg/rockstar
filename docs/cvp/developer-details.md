@@ -467,6 +467,29 @@ title: CVP Developer Details
 - ytd Texture count: 17
 - yft Resolution for embedded liveries: Max 2048x2048
 
+# 2025-2026 Vapid Dominator GTS
+
+## File Sizes
+
+- onx\_domgts\_hi.yft: 5.1MB
+- onx\_domgts.yft: 4.5MB
+- onx\_domgts.ytd: 0.9MB
+- 95 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 162,611
+- L1: 74,648
+- L2: 32,217
+- L3: 13,518
+- L4: 1,066
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 38
+- yft Resolution for embedded liveries: Max 2048x2048
+
 # 2014-2020 Bravado Dorado A/C
 
 ## File Sizes

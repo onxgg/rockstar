@@ -800,6 +800,29 @@ title: EVP Developer Details
 - ytd Texture count: 44
 - yft Resolution for embedded liveries: Max 2048x2048
 
+## 2025-2026 Vapid Dominator GTS
+
+### File Sizes
+
+- onx\_poldom2\_hi.yft: 5.7MB
+- onx\_poldom2.yft: 4.8MB
+- onx\_poldom2.ytd: 1.9MB
+- 88 yft mod parts: < 0.5MB
+
+### Model Polycount
+
+- L0: 176,671
+- L1: 80,540
+- L2: 34,921
+- L3: 14,696
+- L4: 1,702
+
+### Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 62
+- yft Resolution for embedded liveries: Max 2048x2048
+
 ## 1998-2003 Bravado Dorado (Emergency)
 
 ### File Sizes
