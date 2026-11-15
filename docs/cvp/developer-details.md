@@ -1529,6 +1529,190 @@ title: CVP Developer Details
 - ytd Texture count: 18
 - yft Resolution for embedded liveries: Max 2048x2048
 
+# 2015-2023 Bravado Buffalo A/C Taxi
+
+## File Sizes
+
+- onx\_taxibuff1\_hi.yft: 2.5MB
+- onx\_taxibuff1.yft: 2.0MB
+- onx\_taxibuff1.ytd: 1.9MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 102,372
+- L1: 36,794
+- L2: 15,755
+- L3: 8,028
+- L4: 662
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 26
+- yft Resolution for embedded liveries: Max 2048x2048
+
+# 2006-2010 Bravado Buffalo STX8 Taxi
+
+## File Sizes
+
+- onx\_taxibuff2\_hi.yft: 3.5MB
+- onx\_taxibuff2.yft: 3.1MB
+- onx\_taxibuff2.ytd: 4.1MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 110,539
+- L1: 45,557
+- L2: 22,052
+- L3: 9,050
+- L4: 1,120
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 31
+- yft Resolution for embedded liveries: Max 2048x2048
+
+# 1977-1985 Declasse Merit Classic Taxi
+
+## File Sizes
+
+- onx\_taximerit1\_hi.yft: 2.4MB
+- onx\_taximerit1.yft: 1.6MB
+- onx\_taximerit1.ytd: 2.0MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 113,492
+- L1: 33,591
+- L2: 15,327
+- L3: 8,714
+- L4: 560
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 31
+- yft Resolution for embedded liveries: Max 2048x2048
+
+# 1991-1996 Declasse Merit Cruiser Taxi
+
+## File Sizes
+
+- onx\_taximerit2\_hi.yft: 2.5MB
+- onx\_taximerit2.yft: 1.2MB
+- onx\_taximerit2.ytd: 1.6MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 110,452
+- L1: 22,561
+- L2: 10,616
+- L3: 5,526
+- L4: 594
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 20
+- yft Resolution for embedded liveries: Max 2048x2048
+
+# 1998-2011 Vapid Monarch Taxi
+
+## File Sizes
+
+- onx\_taximonar\_hi.yft: 3.2MB
+- onx\_taximonar.yft: 2.3MB
+- onx\_taximonar.ytd: 1.7MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 120,350
+- L1: 41,574
+- L2: 18,220
+- L3: 8,496
+- L4: 829
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 27
+- yft Resolution for embedded liveries: Max 2048x2048
+
+# 2020-2025 Vapid Scout SR Taxi
+
+## File Sizes
+
+- onx\_taxiscout\_hi.yft: 3.9MB
+- onx\_taxiscout.yft: 2.8MB
+- onx\_taxiscout.ytd: 2.4MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 129,901
+- L1: 44,181
+- L2: 17,023
+- L3: 11,961
+- L4: 886
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 23
+- yft Resolution for embedded liveries: Max 2048x2048
+
+# 2013-2016 Vapid Tavros Taxi
+
+## File Sizes
+
+- onx\_taxitavros\_hi.yft: 3.2MB
+- onx\_taxitavros.yft: 3.5MB
+- onx\_taxitavros.ytd: 1.7MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 120,403
+- L1: 55,864
+- L2: 23,491
+- L3: 10,054
+- L4: 1,118
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 18
+- yft Resolution for embedded liveries: Max 2048x2048
+
+# 1978-1983 Declasse Tulip M-100 Taxi
+
+## File Sizes
+
+- onx\_taxitulip\_hi.yft: 2.4MB
+- onx\_taxitulip.yft: 1.7MB
+- onx\_taxitulip.ytd: 1.6MB
+- 7 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 104,294
+- L1: 29,026
+- L2: 13,740
+- L3: 10,208
+- L4: 341
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 18
+- yft Resolution for embedded liveries: Max 2048x2048
+
 # 2022-2024 Canis Terminus Overland
 
 ## File Sizes
@@ -2475,6 +2659,54 @@ title: CVP Developer Details
 
 - ytd Resolution: Max 1024x1024
 - ytd Texture count: 48
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2000-2015 Vapid Yankee C105 Sanitation Truck
+
+## File Sizes
+
+- onx\_trashkee\_hi.yft: 3.5MB
+- onx\_trashkee.yft: 3.5MB
+- onx\_trashkee.ytd: 3.5MB
+- va\_onx\_trashkee.ycd: 0.2MB
+- 19 yft mod parts: < 0.5MB
+
+## Model Polycount
+
+- L0: 136,682
+- L1: 68,276
+- L2: 32,569
+- L3: 13,806
+- L4: 1,604
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 50
+- yft Resolution for embedded liveries: Max 2048x2048
+
+
+# 2016-2026 Vapid Yankee C130 Sanitation Truck
+
+## File Sizes
+
+- onx\_trashkee2\_hi.yft: 3.5MB
+- onx\_trashkee2.yft: 3.3MB
+- onx\_trashkee2.ytd: 3.5MB
+
+## Model Polycount
+
+- L0: 137,412
+- L1: 64,952
+- L2: 31,745
+- L3: 13,306
+- L4: 1,612
+
+## Textures:
+
+- ytd Resolution: Max 1024x1024
+- ytd Texture count: 50
 - yft Resolution for embedded liveries: Max 2048x2048
 
 
